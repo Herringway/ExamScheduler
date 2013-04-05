@@ -1,0 +1,854 @@
+Term	Term	Short Title	(Link to COURSES) Course Long Title	Faculty First	Faculty Last	Faculty	Room	Active Std. Cnt	Cros Listed Cnt	Exam Date	Exam Start	Exam End	Exam Period	Exam?	Duration	Classroom	SEC.COMMENTS	comments	Start	M	T	W	TH	F	email
+12/FA	INLR-3001-T	Gender in Int'l Relations	Gender and International Relations	Michal	Avram	44191		1	0																mavram@mta.ca
+12/FA	MSCI-5111-B	Inorganic Chem: Bioinorganic	Grad Studies Biology II	Stephen	Westcott	44290	BARC*311	1	0										09:30AM	Y		Y		Y	swestcot@mta.ca
+12/FA	MSCI-5401-B	Sustainability Science 	Grad Studies Env. Science I	Ian	Mauro	44289		1	0																imauro@mta.ca
+12/FA	ANTH-1011-T	Intro to Anthropology	Introduction to Anthropology	Margaret	Hoyt	44151		7	0					N											mhoyt@mta.ca
+																									mhoyt@mta.ca
+12/FA	ANTH-2501-A	Environment and Society	Environment and Society	Grant	Aylesworth	42817	DUNN*108	42	0					N	N				11:30AM		Y		Y		gaylesworth@mta.ca
+12/FA	ANTH-2501-T	Environment and Society	Environment and Society	Nicola	Mooney	44152		3	0					N											nmooney@mta.ca
+12/FA	ANTH-2521-A	Perspectives on Development	Anthropological Perspectives on	Marilyn	Walker	42819	DUNN*108	28	0					N	N				02:30PM		Y		Y		mwalker@mta.ca
+			Development																						
+12/FA	ANTH-3021-A	Classical Theory in Anth	Classical Theory in Anthropology	Patricia	Kelly Spurles	42816	AVDX*230	18	0					N					08:30AM		Y		Y		pkellyspurles@mta.ca
+12/FA	ANTH-3541-A	Ethnobotany	Ethnobotany	Marilyn	Walker	42822	AVDX*G10	23	0					N	N				01:30PM					Y	mwalker@mta.ca
+12/FA	ANTH-3821-A	Maritime Aboriginal Cultures	Maritime Aboriginal Cultures in	Robert	Adlam	42813	AVDX*230	18	0					N	N				09:30AM	Y		Y		Y	radlam@mta.ca
+			Ethnographic Perspective																						radlam@eastlink.ca
+12/FA	ANTH-3831-T	Areal Ethnography	Areal Ethnography	Nicola	Mooney	44153		0	0					N											nmooney@mta.ca
+12/FA	ANTH-3991-A	Methods in Anth. Archaeology	Special Topic in Anthropology	Grant	Aylesworth	42820	DUNN*104	15	0					N	N				04:00PM		Y		Y		gaylesworth@mta.ca
+12/FA	ANTH-3991-B	Forensic Anthropology	Special Topic in Anthropology	Moira	McLaughlin	42815	AVDX*118	24	0					N	N				03:00PM	Y					mmclaugh@mta.ca
+12/FA	ANTH-4021-A	Contemporary Theory in Anth	Contemporary Theory in Anthropology	Patricia	Kelly Spurles	43620	AVDX*117	14	0					N					01:00PM		Y		Y		pkellyspurles@mta.ca
+12/FA	ANTH-4721-A	Globalization & Social Change	Globalization and Social Change	Robert	Adlam	43757	AVDX*117	10	0					N	N				02:30PM			Y			radlam@mta.ca
+																									radlam@eastlink.ca
+12/FA	ANTH-4950F-A	Cultural Anth of Foxe Basin	Independent Study in Anthropology	Ian	Mauro	44261		1	0					N											imauro@mta.ca
+12/FA	ANTH-4990F-A	Honours Thesis	Honours Thesis	Patricia	Kelly Spurles	44082		1	0					N											pkellyspurles@mta.ca
+12/FA	BIOC-4011-A	Immunochemistry	Immunochemistry	Christopher	Dieni	44138	BARC*311	33	0					N	N	N		Exam Booklets. 	12:30PM	Y		Y		Y	cdieni@mta.ca
+12/FA	BIOC-4351-A	Inorganic Chem: Bioinorganic	Inorganic Chemistry: Bioinorganic	Stephen	Westcott	43574	BARC*311	1	0					N	N	N			09:30AM	Y		Y		Y	swestcot@mta.ca
+12/FA	BIOC-4903F-A	Current Advances in Biochem	Current Advances in Biochemistry	Jeffrey	Waller	44074	BARC*311	11	0					N					11:30AM	Y		Y		Y	jwaller@mta.ca
+12/FA	BIOC-4951-A	Molecular Immunology	Independent Study in Biochemistry	Amanda	Cockshutt	44334		1	0					N	N										acockshu@mta.ca
+12/FA	BIOC-4990F-A	Honours Thesis	Honours Thesis	Jeffrey	Waller	43559	BARC*115	11	0					N		N			11:30AM	Y		Y		Y	jwaller@mta.ca
+12/FA	BIOL-3201-A	Animal Phys; Adapt & Environ	Animal Physiology; Adaptation and	Suzanne	Currie	43030	FTON*103	41	0					N	N	N			09:30AM	Y		Y		Y	scurrie@mta.ca
+			Environment																						scurrie@mta.ca
+12/FA	BIOL-3641-A	Genetic Regulation of Dev	Genetic Regulation of Development	Vett	Lloyd	43262	CTEE*M2	10	0					N	N	Y		Exam will be open book so tables are useful	10:00AM		Y		Y		vlloyd@mta.ca
+																		and computers are permitted so a room with							
+																		electrical outlets is helpful.							
+12/FA	BIOL-3711-A	Biochemical Ecology	Biochemical Ecology	Robert	Ireland	44088	FTON*103	6	0					N					04:00PM		Y		Y		rireland@mta.ca
+																									rireland@mta.ca
+12/FA	BIOL-3991-A	Biology of Migration	Special Topic in Biology	Stephen	Yezerinac	43937	AVDX*G9	13	0					N	N				12:30PM	Y		Y		Y	syezerinac@mta.ca
+12/FA	BIOL-4903F-A	Current Advances in Biology	Current Advances in Biology	Irena	Kaczmarska	43213	FTON*116	19	0					N		N			02:30PM					Y	iehrman@mta.ca
+12/FA	BIOL-4950F-A	Epigenetics Research	Independent Study in Biology	Vett	Lloyd	43823		1	0					N											vlloyd@mta.ca
+12/FA	BIOL-4950F-B	Photophysiology of Phytoplank	Independent Study in Biology	Douglas	Campbell	44214		1	0					N											dcampbel@mta.ca
+																									dcampbell@mta.ca
+12/FA	BIOL-4950F-C	Investigating Lyme Dis in NB	Independent Study in Biology	Vett	Lloyd	44291		1	0					N											vlloyd@mta.ca
+12/FA	BIOL-4951-A	Nitrogen loss fr crop residue	Independent Study in Biology	Felix	Baerlocher	44266		1	0					N											fbaerloc@mta.ca
+12/FA	BIOL-4990F-A	Thesis	Thesis	Irena	Kaczmarska	43215		19	0					N											iehrman@mta.ca
+12/FA	CANA-2001-T	Canada and the Modern Age	Canada and the Modern Age: an	Geoff	Martin	44154		6	0					N											gmartin@mta.ca
+			Introduction to the Canadian Community																						gmartin@mta.ca
+12/FA	CANA-2011-T	An Intro to Canadian Culture	An Introduction to Canadian Culture	Mark	Davis	44155		5	0					N											davism@inac.gc.ca
+																									mdavis@mta.ca
+12/FA	CANA-3111-T	Native Peoples of Canada	Native Peoples of Canada	Mark	Davis	44156		0	0					N											davism@inac.gc.ca
+																									mdavis@mta.ca
+12/FA	CANA-3121-T	Multiculturalism, Immig in Can	Multiculturalism, Immigration, and	Shelley	Nelson	44157		2	0					N											snelson@mta.ca
+			Diversity in Canada																						
+12/FA	CANA-3301-T	Can Women: Critical Perpective	Canadian Women: Critical Perspectives	Shelley	Nelson	44158		2	0					N											snelson@mta.ca
+12/FA	CANA-3991-A	The Art of Social Justice	Special Topic in Canadian Studies	Bart	Vautour	44206	FTON*103	12	0					N	N	N		Exam Booklets. 	01:00PM		Y		Y		bvautour@mta.ca
+12/FA	CANA-4611-A	Adv Studies in Cana Studies	Advanced Studies on Major Canadian	Jenny	Ellison	43080	AVDX*230	4	0					N	N	N			02:30PM			Y			jellison@mta.ca
+			Issues																						
+12/FA	CANA-4901-A	Dir Readings in Canadian Studi	Directed Readings in Canadian Studies	Andrew	Nurse	43338		0	0					N		N									anurse@mta.ca
+12/FA	CANA-4990F-A	Honours Thesis	Honours Thesis	Andrew	Nurse	43339		0	0					N		N									anurse@mta.ca
+12/FA	CHEM-4351-A	Inorganic Chem: Bioinorganic	Inorganic Chemistry: Bioinorganic	Stephen	Westcott	43577	BARC*311	44	0					N	N	N			09:30AM	Y		Y		Y	swestcot@mta.ca
+12/FA	CHEM-4903F-A	Current Advances in Chemistry	Current Advances in Chemistry	Andrew	Grant	43125	BARC*311	16	0					N		N			11:30AM	Y		Y		Y	agrant@mta.ca
+12/FA	CHEM-4950F-A	Novel Imaging Agents	Independent Study in Chemistry	Andrew	Grant	44216		1	0					N											agrant@mta.ca
+12/FA	CHEM-4951-A	Adv Exp. Organometallics	Independent Study in Chemistry	Glen	Briand	44218		1	0					N											gbriand@mta.ca
+																									gbriand@mta.ca
+12/FA	CHEM-4951-B	Towards CO2 Capture	Independent Study in Chemistry	Khashayar	Ghandi	44219		1	0					N											kghandi@mta.ca
+12/FA	CHEM-4951-C	Synthesis of twisted biotin	Independent Study in Chemistry	Andrew	Grant	44220		0	0					N											agrant@mta.ca
+12/FA	CHEM-4953F-A	Environmental Investigations	Independent Study in Chemistry	Stephen	Duffy	44221		1	0					N											sduffy@mta.ca
+																									sduffy@mta.ca
+12/FA	CHEM-4953F-B	Adv Exp. Organometallics	Independent Study in Chemistry	Glen	Briand	44223		5	0					N											gbriand@mta.ca
+																									gbriand@mta.ca
+12/FA	CHEM-4953F-C	Adv Exp. Organometallics	Independent Study in Chemistry	Stephen	Westcott	44293		4	0					N											swestcot@mta.ca
+12/FA	CHEM-4990F-A	Honours Thesis	Honours Thesis	Andrew	Grant	43127	CTEE*M3	16	0					N		N			11:30AM	Y		Y		Y	agrant@mta.ca
+12/FA	COMM-3111-A	Intermediate Accounting I	Intermediate Accounting I	Rhonda	McIver	44122	AVDX*111	27	0					N	N				12:30PM	Y		Y		Y	rlmciver@eastlink.ca
+																									rmciver@mta.ca
+																									rhondaflemming@hotmail.com
+12/FA	COMM-3211-A	Consumer Behaviour	Consumer Behaviour	Rosemary	Polegato	43362	BARC*311	37	0					N		N			10:00AM		Y		Y		rpolegat@mta.ca
+																									rpolegato@mta.ca
+12/FA	COMM-3271-A	Arts & Culture Marketing	Arts and Culture Marketing	Rosemary	Polegato	43364	AVDX*117	19	0					N		N			09:30AM	Y					rpolegat@mta.ca
+																									rpolegato@mta.ca
+12/FA	COMM-4141-A	Accounting Theory	Accounting Theory	Brent	White	43591	AVDX*111	8	0					N	N	N			02:30PM		Y		Y		bwhite@mta.ca
+12/FA	COMM-4251-A	Sports Marketing	Sports Marketing	Peter	Sianchuk	43402	AVDX*116	21	0					N	N	N			03:00PM	Y		Y			psianchu@mta.ca
+12/FA	COMM-4301-A	Arts & Culture Management	Arts and Culture Management	Rosemary	Polegato	43366	CTEE*M2	25	0					N		N			02:30PM		Y		Y		rpolegat@mta.ca
+																									rpolegato@mta.ca
+12/FA	COMM-4321-A	Strategic Issues	Strategic Issues	Judith	Holton	43178	AVDX*118	15	0					N		N			04:00PM		Y				jholton@mta.ca
+							AVDX*230												11:30AM				Y		
+12/FA	COMM-4321-B	Strategic Issues	Strategic Issues	Judith	Holton	43179	AVDX*118	14	0					N		N			04:00PM		Y				jholton@mta.ca
+							AVDX*230												02:30PM				Y		
+12/FA	COMM-4321-C	Strategic Issues	Strategic Issues	Judith	Holton	43804	AVDX*118	15	0					N					04:00PM		Y				jholton@mta.ca
+							AVDX*230												04:00PM				Y		
+12/FA	COMM-4531-A	Venture Capital & Finan Innov	Venture Capital and Finance of	Nauman	Farooqi	43089	AVDX*120	9	0					N	N	N			09:30AM			Y			nfarooqi@mta.ca
+			Innovation																						
+12/FA	COMM-4951-A	Les Billeteries de Theatre	Independent Study in Commerce	Rosemary	Polegato	44229		1	0					N											rpolegat@mta.ca
+																									rpolegato@mta.ca
+12/FA	COMM-4951-B	Cfa Level 1	Independent Study in Commerce	Nauman	Farooqi	44336		1	0					N	N										nfarooqi@mta.ca
+12/FA	COMP-1631-A	Intro to Computer Science	Introduction to Computer Science	Laurie	Ricker	43947	DUNN*108	50	0					N	N	N			09:30AM	Y		Y		Y	lricker@mta.ca
+12/FA	COMP-1631-B	Intro to Computer Science	Introduction to Computer Science	Andrew	Hamilton-Wright	43157	BARC*02	96	0					N	N	N			10:30AM	Y		Y		Y	ahamiltonwright@mta.ca
+						43948																			rrosebru@mta.ca, rrosebrugh@mta.ca
+12/FA	COMP-3811-A	Database Systems	Database Systems	Robert	Rosebrugh	43391	DUNN*104	7	0					N	N	N			01:30PM	Y		Y		Y	rrosebru@mta.ca
+																									rrosebrugh@mta.ca
+12/FA	COMP-4631-A	Theory of Computation	Theory of Computation	Laurie	Ricker	43387	DUNN*104	5	0					N	N	Y			12:30PM	Y		Y		Y	lricker@mta.ca
+12/FA	COMP-4990F-A	Honours Thesis	Honours Thesis	Laurie	Ricker	44323		1	0					N	N										lricker@mta.ca
+12/FA	DRAM-1701-A	Introduction to Drama	Introduction to Drama	Cordula	Quint	43371	AVDX*G12	8	14					N	N	N		Exam Booklets. 	02:30PM	Y		Y			cquint@mta.ca
+12/FA	DRAM-2151-A	Intro to Acting	Introduction to Acting	Glen	Nichols	43327		9	0					N		N			01:00PM	Y		Y			gnichols@mta.ca
+12/FA	DRAM-2669F-A	Production Practicum	Production Practicum	Glen	Nichols	43813		3	0					N											gnichols@mta.ca
+12/FA	DRAM-3161-A	Theatre Design	Theatre Design	Decima	Mitchell	44330	AVDX*G10	28	0					N	N	N			11:30AM		Y		Y		dmitchel@mta.ca
+12/FA	DRAM-4011-A	Adv Theatrical Interpretation	Advanced Theatrical Interpretation	Glen	Nichols	43329		13	0					N		N			04:00PM				Y		gnichols@mta.ca
+12/FA	DRAM-4951-A	Study of Devised Theatre	Independent Study in Drama	Glen	Nichols	44296		1	0					N											gnichols@mta.ca
+12/FA	ECON-1001-T	Principles of Microeconomics	Principles of Microeconomics	Morteza	Haghiri	44159		2	0					N											mhaghiri@mta.ca
+12/FA	ECON-1011-T	Principles of Macroeconomics	Principles of Macroeconomics	Morteza	Haghiri	44160		2	0					N											mhaghiri@mta.ca
+12/FA	ECON-4700F-A	Econometrics	Econometrics	Craig	Brett	42758	AVDX*115	13	0					N	N	N			10:00AM		Y		Y		cbrett@mta.ca
+12/FA	ECON-4951-A	Independent Study	Independent Study in Economics					0	0					N											
+12/FA	ECON-4951-B	Debates in Tax Policy	Independent Study in Economics	Craig	Brett	44310		1	0					N											cbrett@mta.ca
+12/FA	ENGL-1701-A	Introduction to Drama	Introduction to Drama	Cordula	Quint	42787	AVDX*G12	6	14					N	N				02:30PM	Y		Y			cquint@mta.ca
+12/FA	ENGL-1991-A	Intro to Creative Writing	Special Topic in English	Deborah	Wills	43592	AVDX*118	72	0					N	N	N		Exam Booklets. 	01:30PM	Y		Y			dwills@mta.ca
+12/FA	ENGL-3451-T	Lit in the Age of Romanticism	Literature in the Age of Romanticism	Michael	Thorpe	44162		1	0					N											
+12/FA	ENGL-3481-T	Early Victorian Literature	Early Victorian Literature	Heather	Marcovitch	44163		2	0					N											hmarcovi@mta.ca
+12/FA	ENGL-3491-T	Late Victorian Literature	Late Victorian Literature	Heather	Marcovitch	44164		2	0					N											hmarcovi@mta.ca
+12/FA	ENGL-3511-T	Early 20th Century Br Lit	Early Twentieth-Century British	Michael	Thorpe	44165		0	0					N											
+			Literature																						
+12/FA	ENGL-3521-T	20th Century British Lit	Later Twentieth-Century British	Michael	Thorpe	44166		0	0					N											
+			Literature																						
+12/FA	ENGL-3551-A	Development of Modern Drama	The Development of Modern Drama	Cordula	Quint	43375	AVDX*116	7	0					N	N	N		Exam Booklets. 	01:00PM	Y		Y			cquint@mta.ca
+12/FA	ENGL-3651-A	Lit by Women to the 20th Cent	Literature by Women to the Twentieth	Carrie	MacMillan	43282	BARC*02	25	0					N	N	N		Exam Booklets. 	10:00AM		Y		Y		cmacmill@mta.ca
+			Century																						cmacmill@mta.ca
+12/FA	ENGL-3711-T	Am Lit From Col to Civil War	American Literature From the Colonial	Michael	Thorpe	44167		0	0					N											
+			Period to the Civil War																						
+12/FA	ENGL-3721-T	Am Lit Civil War to Present	American Literature From the Civil War	Michael	Thorpe	44168		0	0					N											
+			To the Present																						
+12/FA	ENGL-3801-T	Cdn Lit from Beginning to 1914	Canadian Literature From the Beginnings	Heather	Marcovitch	44169		0	0					N											hmarcovi@mta.ca
+			To 1914																						
+12/FA	ENGL-3811-T	Canadian Modernism	Canadian Modernism	Heather	Marcovitch	44170		1	0					N											hmarcovi@mta.ca
+12/FA	ENGL-3850F-A	Creative Writing	Creative Writing	Deborah	Wills	43593	HART*303	10	0					N	N	N			02:30PM					Y	dwills@mta.ca
+12/FA	ENGL-4231-A	Chekhov and Company	Selected Topics in Post-1800 Literature	Karen	Bamford	42929	DUNN*111	13	0					N	N	Y		There will be no exam for this course.	10:00AM		Y				kbamford@mta.ca
+12/FA	ENGL-4990F-A	Honours Thesis	Honours Thesis					1	0					N											
+12/FA	EXPL-3000F-A	Outdoor Leadership Education	Independent Experiential Learning	Michael	Fox	43915		0	0					N											mfox@mta.ca
+																									mfox@mta.ca
+12/FA	EXPL-3001-A	Environmental Management	Independent Experiential Learning	David	Thomas	43913		1	0					N											dthomas@mta.ca
+12/FA	EXPL-3001-B	Addictions Research	Independent Experiential Learning	Daniel	McGrath	43914		1	0					N											dmcgrath@mta.ca
+																									dmcgrath@mta.ca
+12/FA	EXPL-3001-B	Law and Human Rights	Independent Experiential Learning	David	Thomas	44141		1	0					N											dthomas@mta.ca
+12/FA	FINA-1101-A	Fundamentals of Drawing I	Fundamentals of Drawing I	Leah	Garnett	43106	FINE*108	20	0					N	N	N			08:30AM		Y		Y		lgarnett@mta.ca
+12/FA	FINA-1901-A	Elements of Art I	Elements of Art I	Chris	Down	43044	FINE*108	21	0					N	N	N			08:30AM	Y		Y			cdown@mta.ca
+12/FA	FINA-1921-A	Introduction to Media I	Introduction to Media I	Daniel	Steeves	43403	FINE*009	21	0					N	N	N			02:30PM	Y		Y			dsteeves@mta.ca
+							HART*B17												02:30PM	Y		Y			
+12/FA	FINA-2101-A	Drawing I	Drawing I	Chris	Down	43046	FINE*201	25	0					N	N	N			02:30PM	Y		Y			cdown@mta.ca
+12/FA	FINA-2211-A	Printmaking II	Printmaking II	Erik	Edson	43062	FINE*009	13	0					N	N	N			08:30AM	Y		Y			eedson@mta.ca
+12/FA	FINA-2301-A	Painting I	Painting I	Chris	Down	43047	FINE*201	18	0					N	N	N			02:30PM		Y		Y		cdown@mta.ca
+12/FA	FINA-2401-A	Sculpture I	Sculpture I	Paul	Griffin	44089	HART*B07	12	0					N	N	N			02:30PM					Y	pgriffin@mta.ca
+							HART*B07												08:30AM					Y	
+12/FA	FINA-2501-A	Photography I	Photography I	Thaddeus	Holownia	43168	HART*101	20	0					N	N	N			08:30AM		Y		Y		tholownia@mta.ca
+																									holownia@mta.ca
+																									holownia@mta.ca
+12/FA	FINA-3101-A	Intermediate Drawing I	Intermediate Drawing I	Leah	Garnett	43107	FINE*200	20	0					N	N	N			08:30AM	Y		Y			lgarnett@mta.ca
+12/FA	FINA-3201-A	Intermediate Printmaking I	Intermediate Printmaking I	Erik	Edson	43063	FINE*009	5	0					N	N	N			08:30AM					Y	eedson@mta.ca
+							FINE*009												02:30PM					Y	
+12/FA	FINA-3301-A	Intermediate Painting I	Intermediate Painting I	Jerry	Ropson	43389	FINE*200	15	0					N		N			02:30PM	Y		Y			jropson@mta.ca
+12/FA	FINA-3401-A	Intermediate Sculpture I	Intermediate Sculpture I	Ryan	Suter	44090	HART*319	10	0					N	N	N			08:30AM		Y		Y		rsuter@mta.ca
+12/FA	FINA-3501-A	Inter Photography I - View Cam	Intermediate Photography I - the View	Thaddeus	Holownia	43170	HART*101	7	0					N	N	N			02:30PM		Y		Y		tholownia@mta.ca
+			Camera																						holownia@mta.ca
+																									holownia@mta.ca
+12/FA	FINA-4701-A	Advanced Seminar in Fine Arts	Advanced Seminar in Fine Arts	Jerry	Ropson	43390	CTEE*M2	24	0					N		N			01:00PM		Y		Y		jropson@mta.ca
+12/FA	FINA-4801-A	Advanced Studio I	Advanced Studio I	Thaddeus	Holownia	43172		26	0					N	N	N									tholownia@mta.ca
+																									holownia@mta.ca
+																									holownia@mta.ca
+12/FA	FINA-4821-A	Advanced Studio III	Advanced Studio III	Thaddeus	Holownia	43174		25	0					N		N									tholownia@mta.ca
+																									holownia@mta.ca
+																									holownia@mta.ca
+12/FA	FINH-2001-A	World Art to the Middle Ages	World Art From the First Peoples to the	Andrea	Terry	43993	DUNN*113	56	0					N	N	N			01:00PM		Y		Y		aterry@mta.ca
+			End of the Middle Ages																						
+12/FA	FINH-3021-A	Canadian Art to the 1960's	Canadian Art From Its Beginnings to the	Gemey	Kelly	43225	DUNN*106	56	0					N		N			11:30AM		Y		Y		gkelly@mta.ca
+			1960S																						
+12/FA	FINH-3141-A	19th Century Art: Part One	Nineteenth Century Art, Part One	Andrea	Terry	43994	DUNN*108	19	0					N	N	N			01:30PM	Y		Y			aterry@mta.ca
+12/FA	FINH-4091-A	Unpacking Museums	Advanced Seminar in Art History	Andrea	Terry	43995	HART*101	12	0					N	N	N			06:00PM		Y				aterry@mta.ca
+12/FA	FINH-4950F-A	Organic & Geometric Design	Independent Study in Art History	Andrea	Terry	44436		1	0					N											aterry@mta.ca
+12/FA	FINH-4951-A	Emily Carr and Mary Doull	Independent Study in Art History	Gemey	Kelly	44268		1	0					N											gkelly@mta.ca
+12/FA	FINH-4951-B	Unearthing Fanny Bayfield	Independent Study in Art History	Gemey	Kelly	44269		1	0					N											gkelly@mta.ca
+12/FA	FREN-1801-A	Paris, City of Light	Paris, City of Light	Christina	Ionescu	43194	AVDX*118	71	0					N		N			02:30PM		Y		Y		cionescu@mta.ca
+12/FA	FREN-3621-A	Nouvelles Ecritures, Voix Nouv	New Writing, New Voices / Nouvelles	Mark	Lee	43245	CTEE*202	11	0					N	N	N			09:30AM	Y		Y		Y	mlee@mta.ca
+			Écritures, Voix Nouvelles																						
+12/FA	FREN-3721-A	Que Lit Habitant to Quiet Rev	Québec Literature From the Habitant to	Christianne	Bell	42961		15	0					N	N	N			11:30AM	Y		Y		Y	kbell@mta.ca
+			The Quiet Revolution / Littérature																						
+			Québécoise de L'habitant À la																						
+			Révolution Tranquille																						
+12/FA	FREN-3801-A	Critique Litteraire Francaise	French Literary Criticism /	Valerie	Narayana	43324	AVDX*120	5	0					N		N			01:00PM		Y		Y		vnarayan@mta.ca
+			Critique Littéraire Française																						
+12/FA	FREN-4001-A	Stylistique I	Stylistics / Stylistique	Monika	Boehringer	42973	CTEE*202	5	0					N	N	N			10:00AM		Y		Y		mboehrin@mta.ca
+																									mboehrin@mta.ca
+12/FA	GENS-3401-A	Research Methods in Envir Sci	Research Methods in Environmental	Colin	Laroque	43242	AVDX*G9	12	0					N		N			07:00PM	Y					claroque@mta.ca
+			Science																						
+12/FA	GENS-3401-B	Research Methods in Envir Sci	Research Methods in Environmental	David	Lieske	43761	DUNN*111	12	0					N					01:00PM				Y		dlieske@mta.ca
+			Science																						
+12/FA	GENS-3421-A	Biogeography	Biogeography	Georgia	Klein	44115	AVDX*G10	37	0					N	N	N		Exam Booklets. 	08:30AM		Y		Y		gklein@mta.ca
+12/FA	GENS-3991-A	Natural Hazards	Special Topic in Geography and	Melissa	Grey	44063	AVDX*118	50	0					N	N				06:30PM			Y			mgrey@mta.ca
+			Environment																						
+12/FA	GENS-4701-A	Advanced Field Course	Advanced Field Course	Colin	Laroque	43999	AVDX*G9	1	0					N					07:00PM	Y					claroque@mta.ca
+12/FA	GENS-4951-A	Independent Study	Independent Study in Geography and					2	0					N											
+			Environment																						
+12/FA	GENS-4951-B	Intro to Dendroarcheology	Independent Study in Geography and	Colin	Laroque	44271		1	0					N											claroque@mta.ca
+			Environment																						
+12/FA	GENS-4951-C	Wind Energy Environments	Independent Study in Geography and	Colin	Laroque	44272		1	0					N											claroque@mta.ca
+			Environment																						
+12/FA	GENS-4951-D	Research on Aquatic Pesticides	Independent Study in Geography and	Bradley	Walters	44273		1	0					N											bwalters@mta.ca
+			Environment																						
+12/FA	GENS-4990F-A	Honours Thesis	Honours Thesis	Colin	Laroque	44259		9	0					N		N									claroque@mta.ca
+12/FA	GENV-3201-A	Canadian Environmental Policy	Canadian Environmental Policy	Bradley	Walters	43562	AVDX*112	30	0					N	N	N			08:30AM		Y		Y		bwalters@mta.ca
+12/FA	GENV-3531-A	The Planning Process	The Planning Process	James	Burke	44137	AVDX*118	31	0					N	N	N			06:30PM				Y		jburke@mta.ca
+																									jburke@mta.ca
+																									jabrk@mta.ca
+12/FA	GENV-3701-A	Research Meth in Human Geog	Research Methods in Human Geography	Timothy	Reiffenstein	43379	AVDX*G10	7	0					N		N			07:00PM	Y					treiffen@mta.ca
+			And Environment																						
+12/FA	GENV-3991-A	Environmental Activism	Special Topic in Geography and	Bradley	Walters	42747	AVDX*120	21	0					N	N				02:30PM			Y			bwalters@mta.ca
+			Environment																						
+12/FA	GENV-4101-A	Seminar in Envir Issues	Seminar in Environmental Issues	Bradley	Walters	44118	AVDX*120	21	0					N	N	N			06:30PM		Y				bwalters@mta.ca
+12/FA	GENV-4821-A	Seminar in Urban Issues	Seminar in Urban Issues	Timothy	Reiffenstein	43380	DUNN*111	7	0					N		N			01:00PM		Y				treiffen@mta.ca
+12/FA	GENV-4950F-A	Ext Essay on Arctic Change	Independent Study in Geography and	Ian	Mauro	44297		1	0					N											imauro@mta.ca
+			Environment																						
+12/FA	GENV-4951-A	Alpine Climate Change	Independent Study in Geography and	Colin	Laroque	43905		1	0					N											claroque@mta.ca
+			Environment																						
+12/FA	GENV-4951-B	Intellectual Property & Dev.	Independent Study in Geography and	Timothy	Reiffenstein	43906		1	0					N											treiffen@mta.ca
+			Environment																						
+12/FA	GENV-4951-C	Environmental Education	Independent Study in Geography and	Colin	Laroque	44230		1	0					N											claroque@mta.ca
+			Environment																						
+12/FA	GENV-4951-D	Sports & Development	Independent Study in Geography and	Timothy	Reiffenstein	44300		1	0					N											treiffen@mta.ca
+			Environment																						
+12/FA	GENV-4951-E	Women and Food Security	Independent Study in Geography and	Leslie	Kern	44320		1	0					N											lkern@mta.ca
+			Environment																						lkern@mta.ca
+12/FA	GENV-4953F-A	The Community Classroom	Independent Study in Geography and	Michael	Fox	43907		2	0					N											mfox@mta.ca
+			Environment																						mfox@mta.ca
+12/FA	GENV-4990F-A	Honours Thesis	Honours Thesis		TBA	43416		6	0					N		N									
+12/FA	GERM-1001-A	Elementary German I	Elementary German I	Gabriela	Fischer-Farhloul	43097	CTEE*M10	36	0					N	N	N			09:30AM	Y		Y		Y	gfischer@mta.ca
+12/FA	GERM-1001-B	Elementary German I	Elementary German I	Renata	Schellenberg	43392	CTEE*M10	29	0					N		N			01:30PM	Y		Y		Y	rschelle@mta.ca
+12/FA	GERM-2001-A	Intermediate German I	Intermediate German I	Lisa	Deighton	44147	CTEE*M2	18	0					N	N	N			12:30PM	Y		Y		Y	ldeighton@mta.ca
+							CTEE*315												02:30PM			Y			
+							CTEE*315												10:30AM	Y					
+							CTEE*315												04:30PM	Y					
+12/FA	GERM-2811-A	Turn-of-the-Century Vienna	Turn-of-the-Century Vienna	Renata	Schellenberg	43394	AVDX*116	17	0					N		N			01:00PM		Y		Y		rschelle@mta.ca
+12/FA	GERM-3001-A	Advanced German I	Advanced German I	Renata	Schellenberg	43395	CTEE*202	9	0					N	N	N			12:30PM	Y		Y		Y	rschelle@mta.ca
+							CTEE*315												04:00PM				Y		
+12/FA	GERM-4951-A	Drama of Durrenmatt & Frisch	Independent Study in German	Renata	Schellenberg	44301		1	0					N											rschelle@mta.ca
+12/FA	GREK-3101-A	Readings in Greek Poetry	Readings in Greek Poetry	Ivan	Cohen	43892	HART*407	2	0					N	N				03:00PM	Y		Y			icohen@mta.ca
+12/FA	HIST-1601-T	New Nations In North America	New Nations In North America	Mark	Davis	44171		4	0					N											davism@inac.gc.ca
+																									mdavis@mta.ca
+12/FA	HIST-1611-T	The Expansion of Europe Abroad	The Expansion of Europe Abroad	Robert	Cupido	44172		1	0					N											rcupido@mta.ca
+12/FA	HIST-2411-T	Canada to 1871	Canada to 1871	Shelley	Nelson	44173		0	0					N											snelson@mta.ca
+12/FA	HIST-2421-T	Canada After 1871	Canada After 1871	Shelley	Nelson	44174		1	0					N											snelson@mta.ca
+12/FA	HIST-3251-T	British Social Struc 1750-1850	Class, Gender, and Capitalism: the	Robert	Cupido	44175		2	0					N											rcupido@mta.ca
+			Transformation of the British Social																						
+			Structure 1750-1850																						
+12/FA	HIST-3441-T	Modern Canada	Modern Canada	Mark	Davis	44176		2	0					N											davism@inac.gc.ca
+																									mdavis@mta.ca
+12/FA	HIST-3991-B	Marit Female Missionaries/Asia	Special Topic in History	Shelley	Nelson	44127	AVDX*111	6	0					N	N				06:30PM		Y		Y		snelson@mta.ca
+12/FA	HIST-4300F-A	The Birth of the Modern Age	The Birth of the Modern Age	William	Wilson	43604	HART*208	7	0					N	N	N			02:30PM	Y					wwilson@mta.ca
+12/FA	HIST-4990F-A	Honours Thesis	Honours Thesis	William	Lundell	43273		3	0					N											wlundell@mta.ca
+12/FA	HIST-4991-A	N Amer Polit Cult: Beginnings	Special Topic in History	Denis	McKim	44001	HART*208	4	0					N					02:30PM		Y				dmckim@mta.ca
+12/FA	HIST-4991-B	The Great War: Myth, Memory	Special Topic in History	Robert	Cupido	43895	HART*208	12	0					N	N				02:30PM				Y		rcupido@mta.ca
+12/FA	INLR-4101-A	Global Governance Simulation	Global Governance Simulation	David	Thomas	43539	AVDX*230	23	0					N	N	N			10:00AM		Y		Y		dthomas@mta.ca
+12/FA	INLR-4310F-A	International Relations Theory	International Relations Theory	James	Devine	43619	AVDX*120	3	15					N	N				11:30AM	Y					jtdevine@mta.ca
+12/FA	INLR-4951-A	Global Health & Env Challenges	Independent Study in International	David	Thomas	44302		1	0					N											dthomas@mta.ca
+			Relations																						
+12/FA	INLR-4951-B	Development Research Meth	Independent Study in International	David	Thomas	44303		1	0					N											dthomas@mta.ca
+			Relations																						
+12/FA	INLR-4951-C	Emotions & Norms in Conflict	Independent Study in International	James	Devine	44322		1	0					N											jtdevine@mta.ca
+			Relations																						
+12/FA	INLR-4990F-B	Honours Thesis	Honours Thesis	Timothy	Reiffenstein	44106		1	0					N											treiffen@mta.ca
+12/FA	INLR-4990F-C	Honours Thesis	Honours Thesis	James	Devine	44107		2	0					N											jtdevine@mta.ca
+12/FA	JAPA-1001-A	Introductory Japanese I	Introductory Japanese I	Miyako	Oe	43341	CTEE*202	30	0					N		N			10:30AM	Y		Y		Y	moe@mta.ca
+12/FA	JAPA-1001-B	Introductory Japanese I	Introductory Japanese I	Miyako	Oe	43342	CTEE*202	30	0					N		N			11:30AM	Y		Y		Y	moe@mta.ca
+12/FA	JAPA-2001-A	Intermediate Japanese I	Intermediate Japanese I	Miyako	Oe	43345	CTEE*202	12	0					N		N			02:30PM	Y		Y			moe@mta.ca
+							CTEE*316												11:30AM					Y	
+							CTEE*316												02:30PM					Y	
+12/FA	MATH-1111-T	Introduction to Calculus I	Calculus I	Brian	McNally	44177		2	0					N											bmcnally@mta.ca
+																									bmcnally@mta.ca
+12/FA	MATH-1121-T	Introduction to Calculus II	Calculus II	Brian	McNally	44178		4	0					N											bmcnally@mta.ca
+																									bmcnally@mta.ca
+12/FA	MATH-2311-T	Statistics I	Statistics I	Robert	Sealy	44179		6	0					N											rsealy@mta.ca
+12/FA	MATH-2321-T	Statistics II	Statistics II	Robert	Sealy	44180		4	0					N											rsealy@mta.ca
+12/FA	MSCI-5111-C	Stable Isotope Ecology	Grad Studies Biology II	Matthew	Litvak	44306		1	0					N											mlitvak@mta.ca
+																									mlitvak@mta.ca
+12/FA	MSCI-5401-A	R Applied Stats	Grad Studies Env. Science I	David	Lieske	44235		1	0					N											dlieske@mta.ca
+12/FA	MSCI-5411-A	Gis and Animal Distribution	Grad Studies Env. Science II	David	Lieske	44236		1	0					N											dlieske@mta.ca
+12/FA	MSCI-5990F-A	Master's Thesis - Biology	Master's Thesis	Robert	Ireland	43898		8	0					N											rireland@mta.ca
+																									rireland@mta.ca
+12/FA	MSCI-5990F-B	Master's Thesis - Chemistry	Master's Thesis	Andrew	Grant	43899		3	0					N											agrant@mta.ca
+12/FA	MSCI-5990F-C	Master's Thesis - Biochemistry	Master's Thesis	Douglas	Campbell	43900		1	0					N											dcampbel@mta.ca
+																									dcampbell@mta.ca
+12/FA	MSCI-5990F-D	Master's Thesis - Env. Science	Master's Thesis	Michael	Fox	43901		4	0					N											mfox@mta.ca
+																									mfox@mta.ca
+12/FA	MUSC-1501-A	Applied Music I	Applied Music I	Stephen	Runge	44010		19	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-1511-A	Applied Music II	Applied Music II	Stephen	Runge	44007		1	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-1601-A	Collaborative Keyboard I	Collaborative Keyboard I	Lynn	Johnson	44433	CONS*100	6	0					N					11:30AM		Y		Y		lmjohnson@mta.ca
+																									tempo@nb.aibn.com
+12/FA	MUSC-1629F-A	Chamber Orchestra	Chamber Orchestra	Danise	Ferguson	43731	CONS*004	4	0					N					07:00PM		Y				dferguso@mta.ca
+12/FA	MUSC-1639F-A	Symphonic Band	Symphonic Band	James	Kalyn	42874	CONS*004	16	0					N					06:00PM	Y		Y			jkalyn@mta.ca
+12/FA	MUSC-1649F-A	Instrumental Jazz Ensemble	Instrumental Jazz Ensemble	Doreen Ethelinda	Pearse	44311		9	0					N											lpearse@mta.ca
+12/FA	MUSC-1659F-A	Elliott Chorale	Elliott Chorale	Gayle	Martin	42842	CONS*204	7	0					N					04:00PM	Y			Y		ghmartin@mta.ca
+12/FA	MUSC-1669F-A	Choral Society	Choral Society	Gayle	Martin	42866	CONS*204	19	0					N					07:00PM		Y				ghmartin@mta.ca
+12/FA	MUSC-1703F-A	Musicianship I	Aural Skills and Musicianship I	Helen	Pridmore	42855	CONS*204	32	0					N					01:00PM		Y		Y		hpridmor@mta.ca
+12/FA	MUSC-1801-A	Intro to Applied Music I	Introduction to Applied Music I	Stephen	Runge	44287		1	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-2141-A	Composition & Music Tech I	Composition and Music Technology I	Kevin	Morse	43702	CONS*100	10	0					N					01:00PM		Y		Y		kevin.morse@yahoo.com
+																									kmorse@mta.ca
+12/FA	MUSC-2501-A	Applied Music III	Applied Music III	Stephen	Runge	44012		19	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-2603F-A	Collaborative Keyboard II	Collaborative Keyboard II	Stephen	Runge	44008		4	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-2613F-A	Chamber Music I	Chamber Music I	Stephen	Runge	44013		7	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-2629F-A	Chamber Orchestra	Chamber Orchestra	Danise	Ferguson	43733	CONS*004	9	0					N					07:00PM		Y				dferguso@mta.ca
+12/FA	MUSC-2639F-A	Symphonic Band	Symphonic Band	James	Kalyn	42875	CONS*004	10	0					N					06:00PM	Y		Y			jkalyn@mta.ca
+12/FA	MUSC-2649F-A	Instrumental Jazz Ensemble	Instrumental Jazz Ensemble	Doreen Ethelinda	Pearse	44313		8	0					N											lpearse@mta.ca
+12/FA	MUSC-2659F-A	Elliott Chorale	Elliott Chorale	Gayle	Martin	42843	CONS*204	4	0					N					04:00PM	Y			Y		ghmartin@mta.ca
+12/FA	MUSC-2669F-A	Choral Society	Choral Society	Gayle	Martin	42868	CONS*209	7	0					N					07:00PM		Y				ghmartin@mta.ca
+12/FA	MUSC-2679F-A	Opera Workshop	Opera Workshop	Helen	Pridmore	43634		12	0					N					06:00PM	Y		Y			hpridmor@mta.ca
+12/FA	MUSC-2703F-A	Musicianship II	Aural Skills and Musicianship II	Gayle	Martin	42851	CONS*100	17	0					N					10:00AM		Y		Y		ghmartin@mta.ca
+12/FA	MUSC-3121-A	Orchestration	Orchestration	Kevin	Morse	42858	CONS*100	14	0					N					01:30PM	Y		Y		Y	kevin.morse@yahoo.com
+																									kmorse@mta.ca
+12/FA	MUSC-3141-A	Composition & Music Tech III	Composition & Music Technology III	Kevin	Morse	43703	CONS*100	8	0					N					04:00PM		Y				kevin.morse@yahoo.com
+																									kmorse@mta.ca
+12/FA	MUSC-3311-A	Elementary Methods	Elementary Methods	Jeffrey	Martin	44095	CONS*204	9	0					N					10:00AM		Y		Y		jamartin@mta.ca
+12/FA	MUSC-3331-A	Woodwind Methods	Woodwind Methods	Christie	Goodwin	44140	CONS*004	13	0					N	N				10:30AM	Y		Y		Y	cgoodwin@mta.ca
+12/FA	MUSC-3401-A	Introduction to Conducting	Introduction to Conducting	Jeffrey	Martin	44136	CONS*204	12	0					N					11:30AM		Y		Y		jamartin@mta.ca
+12/FA	MUSC-3501-A	Applied Music V	Applied Music V	Stephen	Runge	44016		14	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-3511-A	Applied Music Vi	Applied Music Vi	Stephen	Runge	44017		0	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-3581-A	Applied Music VI	Applied Music Vi With Shared Recital	Stephen	Runge	44018		0	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-3603F-A	Collaborative Keyboard III	Collaborative Keyboard III	Stephen	Runge	43984		1	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-3613F-A	Chamber Music II	Chamber Music II	Stephen	Runge	44019		2	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-3629F-A	Chamber Orchestra	Chamber Orchestra	Danise	Ferguson	43735	CONS*004	2	0					N					07:00PM		Y				dferguso@mta.ca
+12/FA	MUSC-3639F-A	Symphonic Band	Symphonic Band	James	Kalyn	42876	CONS*004	5	0					N					06:00PM	Y		Y			jkalyn@mta.ca
+12/FA	MUSC-3649F-A	Instrumental Jazz Ensemble	Instrumental Jazz Ensemble	Doreen Ethelinda	Pearse	44315		2	0					N											lpearse@mta.ca
+12/FA	MUSC-3659F-A	Elliott Chorale	Chamber Choir	Gayle	Martin	42844	CONS*204	2	0					N					04:00PM	Y			Y		ghmartin@mta.ca
+			Elliott Chorale																						
+12/FA	MUSC-3669F-A	Choral Society	Choral Society	Gayle	Martin	42869	CONS*204	1	0					N					07:00PM		Y				ghmartin@mta.ca
+12/FA	MUSC-3679F-A	Opera Workshop	Opera Workshop	Helen	Pridmore	43635		1	0					N					06:00PM	Y		Y			hpridmor@mta.ca
+12/FA	MUSC-3991-A	Cage and Experimentalism	Special Topic in Music	Helen	Pridmore	42857	CONS*204	17	0					N					02:30PM		Y		Y		hpridmor@mta.ca
+12/FA	MUSC-3993F-A	Jazz Improvisation	Special Topics in Music	David	Rogosin	43815	CONS*004	8	0					N					02:30PM	Y					drogosin@mta.ca
+						44112																			lpearse@mta.ca
+12/FA	MUSC-4501-A	Applied Music Vii	Applied Music Vii	Stephen	Runge	44020		16	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-4581-A	Applied Music VIII	Applied Music VIII with Shared Recital	Stephen	Runge	44021		0	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-4591-A	Credited Full Recital	Applied Music VIII With Full Recital	Stephen	Runge	44022		0	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-4629F-A	Chamber Orchestra	Chamber Orchestra	Danise	Ferguson	43737	CONS*004	1	0					N					07:00PM		Y				dferguso@mta.ca
+12/FA	MUSC-4639F-A	Symphonic Band	Symphonic Band	James	Kalyn	42877	CONS*004	4	0					N					06:00PM	Y		Y			jkalyn@mta.ca
+12/FA	MUSC-4649F-A	Instrumental Jazz Ensemble	Instrumental Jazz Ensemble	Doreen Ethelinda	Pearse	44317		0	0					N											lpearse@mta.ca
+12/FA	MUSC-4659F-A	Elliott Chorale	Chamber Choir	Gayle	Martin	42845	CONS*204	2	0					N					04:00PM	Y			Y		ghmartin@mta.ca
+			Elliott Chorale																						
+12/FA	MUSC-4669F-A	Choral Society	Choral Society	Gayle	Martin	42870	CONS*204	1	0					N					07:00PM		Y				ghmartin@mta.ca
+12/FA	MUSC-4679F-A	Opera Workshop	Opera Workshop	Helen	Pridmore	43636		4	0					N					06:00PM	Y		Y			hpridmor@mta.ca
+12/FA	MUSC-4951-A	Advanced Aural Skills	Independent Study in Music	Helen	Pridmore	44042		2	0					N											hpridmor@mta.ca
+12/FA	MUSC-4951-B	Keyboard Literature Seminar	Independent Study in Music	Stephen	Runge	44237		1	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-4953F-A	Continuo	Independent Study in Music	Gayle	Martin	43987		1	0					N											ghmartin@mta.ca
+12/FA	MUSC-4953F-B	Adv. Collaborative Keyboard	Independent Study in Music	Stephen	Runge	44434		1	0					N											srunge@mta.ca
+																									srunge@mta.ca
+12/FA	MUSC-4953F-C	Adv. Instrumental Conducting	Independent Study in Music	James	Kalyn	44239		0	0					N											jkalyn@mta.ca
+12/FA	PHIL-2511-A	Intro Philosophy of Science	Introductory Philosophy of Science	Mark	Fedyk	43091	CTEE*223	23	0					N	N	N		Exam Booklets. 	02:30PM		Y		Y		mfedyk@mta.ca
+12/FA	PHIL-3000F-A	Ancient Philosophy	Ancient Philosophy	Robin	Weiss	43925	HART*215	15	0					N	N	N		Exam Booklets. 	11:30AM		Y		Y		rweiss@mta.ca
+12/FA	PHIL-3101-A	Mediaeval Philosophy	Mediaeval Philosophy	Robbie	Moser	43314	HART*101	20	0					N		N			02:30PM	Y		Y			rmoser@mta.ca
+12/FA	PHIL-3221-A	Modern: The Rationalist	Modern Philosophy: the Rationalist	Mark	Fedyk	43092	HART*101	12	0					N	N	N			01:00PM	Y		Y			mfedyk@mta.ca
+			Tradition																						
+12/FA	PHIL-3240F-A	Kant	Kant	Jane	Dryden	43051	HART*215	19	0					N	N	N			10:00AM		Y		Y		jdryden@mta.ca
+12/FA	PHIL-3731-A	Philosophy of Law	Philosophy of Law	Robbie	Moser	43315	FTON*103	30	0					N	N	N		Exam Booklets. 	02:30PM		Y		Y		rmoser@mta.ca
+12/FA	PHIL-4990F-A	Honours Topic	Honours Topic					1	0					N											
+12/FA	PHIL-4991-A	Science, Truth and Objectivity	Special Topic in Philosophy	Mark	Fedyk	43622	HART*101	9	0					N	N				06:00PM	Y					mfedyk@mta.ca
+12/FA	PHYS-4990F-A	Honours Thesis	Honours Thesis	David	Hornidge	44212		5	0					N											dhornidg@mta.ca
+12/FA	POLS-1001-A	Foundations of Politics	Foundations of Politics	Wayne	Hunt	43185	DUNN*113	138	0					N	N	N			10:30AM	Y		Y		Y	whunt@mta.ca
+12/FA	POLS-1001-T	Foundations of Politics	Foundations of Politics	Geoff	Martin	44181		2	0					N											gmartin@mta.ca
+																									gmartin@mta.ca
+12/FA	POLS-2301-T	Topics in Int. Relations	Introduction to International Relations	Geoff	Martin	44182		0	0					N											gmartin@mta.ca
+																									gmartin@mta.ca
+12/FA	POLS-3200F-A	European Politics	European Politics	Wayne	Hunt	43186	CTEE*M14	21	0					N		N			02:30PM	Y					whunt@mta.ca
+12/FA	POLS-3211-T	American Govt and Politics	American Government and Politics	Geoff	Martin	44183		1	0					N											gmartin@mta.ca
+																									gmartin@mta.ca
+12/FA	POLS-3221-A	African Politics	African Politics	David	Thomas	43541	DUNN*106	54	0					N	N	N			09:30AM	Y		Y		Y	dthomas@mta.ca
+12/FA	POLS-4141-A	Interest Grps & Soc Mov in Can	Interest Groups and Social Movements	Mario	Levesque	44079	AVDX*230	10	0					N					11:30AM			Y			malevesque@mta.ca
+			In Canada																						malevesque@mta.ca
+12/FA	POLS-4200F-A	Political & Cultural Change	Political and Cultural Change: a	Wayne	Hunt	43188	CTEE*M2	21	0					N		N			02:30PM			Y			whunt@mta.ca
+			Comparative Analysis of North America																						
+			And Europe																						
+12/FA	POLS-4310F-A	International Relations Theory	International Relations Theory	James	Devine	43042	AVDX*120	12	15					N	N	N			11:30AM	Y					jtdevine@mta.ca
+12/FA	POLS-4951-A	Politics & Native Knowledge	Independent Study in Political Science	Wayne	Hunt	44307		1	0					N											whunt@mta.ca
+12/FA	POLS-4951-B	Therapeutic Treatment Anxiety	Independent Study in Political Science	Kenneth	Sheppard	44308		0	0					N											esheppard@mta.ca
+																									esheppard@mta.ca
+12/FA	PSYC-1001-T	Introduction to Psychology I	Introduction to Psychology I	Monique	Leblanc	44184		4	0					N											mmleblanc@mta.ca
+12/FA	PSYC-1011-T	Introduction to Psychology II	Introduction to Psychology II	Monique	Leblanc	44185		2	0					N											mmleblanc@mta.ca
+12/FA	PSYC-4201-A	Adanced Topics in Cognition	Advanced Topics in Cognition	Jennifer	Tomes	43551	BARC*311	10	0					N	N	N			01:30PM	Y					jtomes@mta.ca
+																									jtomes@mta.ca
+12/FA	PSYC-4421-A	Adv Top in Social Development	Advanced Topics in Social Development	Nancy	Garon	43112	BARC*115	18	0					N	N	N			01:30PM	Y		Y			ngaron@mta.ca
+12/FA	PSYC-4903F-A	Honours Seminar	Honours Seminar	Lisa	Hamilton	43147	CTEE*202	18	0					N		N			02:30PM					Y	ldhamilton@mta.ca
+12/FA	PSYC-4950F-A	Multisensory Integration	Independent Study in Psychology	Genevieve	Desmarais	43825		1	0					N											gdesmarais@mta.ca
+12/FA	PSYC-4950F-B	False Memories	Independent Study in Psychology	Jennifer	Tomes	43909		0	0					N											jtomes@mta.ca
+																									jtomes@mta.ca
+12/FA	PSYC-4950F-C	Executive Function Development	Independent Study in Psychology	Nancy	Garon	44243		3	0					N											ngaron@mta.ca
+12/FA	PSYC-4950F-D	Tobacco & Alcohol Research	Independent Study in Psychology	Daniel	McGrath	44276		1	0					N											dmcgrath@mta.ca
+																									dmcgrath@mta.ca
+12/FA	PSYC-4950F-E	Stress and Sexual Response	Independent Study in Psychology	Lisa	Hamilton	44277		1	0					N											ldhamilton@mta.ca
+12/FA	PSYC-4951-A	Readiness for University	Independent Study in Psychology	Louise	Wasylkiw	44005		1	0					N											lwasylki@mta.ca
+12/FA	PSYC-4951-B	Transgenderism and Face-Ism	Independent Study in Psychology	Stephen	Claxton-Oldfield	44006		1	0					N											sclaxton@mta.ca
+12/FA	PSYC-4951-C	The Physical Self	Independent Study in Psychology	Louise	Wasylkiw	44043		1	0					N											lwasylki@mta.ca
+12/FA	PSYC-4951-D	Stress & Sexual Funct Research	Independent Study in Psychology	Lisa	Hamilton	44245		1	0					N											ldhamilton@mta.ca
+12/FA	PSYC-4951-E	Online Gaming Research	Independent Study in Psychology	Daniel	McGrath	44280		1	0					N											dmcgrath@mta.ca
+																									dmcgrath@mta.ca
+12/FA	PSYC-4951-F	Gender Diff. in Distraction	Independent Study in Psychology	Lisa	Hamilton	44281		1	0					N											ldhamilton@mta.ca
+12/FA	PSYC-4951-G	Therapeutic Treat of Anxiety	Independent Study in Psychology	Kenneth	Sheppard	44325		1	0					N											esheppard@mta.ca
+																									esheppard@mta.ca
+12/FA	PSYC-4990F-A	Honours Thesis	Honours Thesis	Lisa	Hamilton	44072		18	0					N											ldhamilton@mta.ca
+12/FA	PSYC-4991-A	Psychology Fo Addictions	Special Topic in Psychology	Daniel	McGrath	43832	HART*218	15	0					N		N			01:00PM				Y		dmcgrath@mta.ca
+																									dmcgrath@mta.ca
+12/FA	RELG-1991-A	Death & Afterlife in Asian Rel	Special Topic in Religious Studies	Samuel	Borsman	44101	CTEE*M14	45	0					N	N	N		Exam Booklets. 	08:30AM		Y		Y		sborsman@mta.ca
+12/FA	RELG-2801-T	Intro to Western Religions	Introduction to Western Religions	Andrew	Wilson	44186		8	0					N											awilson@mta.ca
+12/FA	RELG-2811-A	Intro to the Bible I:Hebrew	Introduction to the Bible I: Hebrew	Fiona	Black	42965	HART*101	31	0					N	N	N		Exam Booklets. 	09:30AM	Y		Y		Y	fblack@mta.ca
+			Bible																						
+12/FA	RELG-3001-A	Hinduism	Hinduism	Barbra	Clayton	43016	BENB*G03	21	0					N	N	N		Exam Booklets. 	01:00PM	Y		Y			bclayton@mta.ca
+12/FA	RELG-4421-A	Eastern Religions & Modernity	Eastern Religions and the Challenge of	Barbra	Clayton	43018	HART*101	7	0					N	N	N			12:30PM					Y	bclayton@mta.ca
+			Modernity																						
+12/FA	RELG-4841-A	Sexuality & Biblical Tradition	Sexuality and the Biblical Tradition	Fiona	Black	42968	FTON*103	3	0					N	N	N			02:30PM			Y			fblack@mta.ca
+12/FA	SOCI-1001-A	Intro to Sociology	Introduction to Sociology	Erin	Steuter	43404	AVDX*G12	86	0					N	N	N			10:00AM		Y		Y		esteuter@mta.ca
+																									esteuter@mta.ca
+12/FA	SOCI-1001-B	Intro to Sociology	Introduction to Sociology	Fabrizio	Antonelli	42906	AVDX*G12	91	0					N	N	N			01:30PM	Y		Y		Y	fantonelli@mta.ca
+																									fantonelli@mta.ca
+12/FA	SOCI-1001-T	Intro to Sociology	Introduction to Sociology	Marianne	Parsons	44187		10	0					N											maparsons@mta.ca
+12/FA	SOCI-2211-T	Gender Relations	Gender Relations	Anthony	Roberts	44188		9	0					N											troberts@mta.ca
+12/FA	SOCI-2221-A	Sociology of Youth	Sociology of Youth	Vanessa	Oliver	43350	AVDX*G10	54	0					N		N			11:30AM	Y		Y		Y	voliver@mta.ca
+12/FA	SOCI-2231-A	Sociology of Sex and Sexuality	Sociology of Sex and Sexuality	Anthony	Roberts	42778	AVDX*118	44	0					N		N			06:00PM	Y					troberts@mta.ca
+12/FA	SOCI-2231-T	Sociology of Sex and Sexuality	Sociology of Sex and Sexuality	Anthony	Roberts	44189		24	0					N											troberts@mta.ca
+12/FA	SOCI-3001-A	Theoretical Foundations of Soc	Theoretical Foundations of Sociology	Fabrizio	Antonelli	42908	AVDX*112	58	0					N	N	N			09:30AM	Y		Y		Y	fantonelli@mta.ca
+																									fantonelli@mta.ca
+12/FA	SOCI-3231-A	Sociology of the Family	Sociology of the Family	Vanessa	Oliver	43351	AVDX*111	42	0					N		N			04:00PM		Y		Y		voliver@mta.ca
+12/FA	SOCI-3311-A	Qualitative Research Methods	Qualitative Sociological Research Method	Vanessa	Oliver	43352	BARC*021	58	0					N		N			01:00PM		Y		Y		voliver@mta.ca
+12/FA	SOCI-3451-A	Dynamics of Popular Culture	Dynamics of Popular Culture	Erin	Steuter	43407	AVDX*111	42	0					N	N	N			10:30AM	Y		Y		Y	esteuter@mta.ca
+																									esteuter@mta.ca
+12/FA	SOCI-3711-T	Comparative Social Policy	Comparative Social Policy	Heather	Patterson	44192		6	0					N											hpatters@mta.ca
+12/FA	SOCI-3751-T	Sociology of Leadership	Sociology of Leadership	Cheryl	Veinotte	44193		16	0					N											cveinotte@mta.ca
+12/FA	SOCI-4011-A	Sociology of Knowledge	Sociology of Knowledge	Erin	Steuter	43408	AVDX*120	26	0					N	N	N			02:30PM	Y					esteuter@mta.ca
+																									esteuter@mta.ca
+12/FA	SOCI-4551-A	Refugee Studies	Refugee Studies	Morgan	Poteet	43370	DUNN*406	15	0					N		N			02:30PM			Y			mpoteet@mta.ca
+12/FA	SOCI-4951-A	Gender, Race & Class in Media	Independent Study in Sociology	Erin	Steuter	44282		1	0					N											esteuter@mta.ca
+																									esteuter@mta.ca
+12/FA	SOCI-4951-B	Collective Behaviour	Independent Study in Sociology	Erin	Steuter	44283		1	0					N											esteuter@mta.ca
+																									esteuter@mta.ca
+12/FA	SOCI-4951-C	Domestic & Sexual Violence	Independent Study in Sociology	Vanessa	Oliver	44284		1	0					N											voliver@mta.ca
+12/FA	SOCI-4951-D	Sociology of the Body	Independent Study in Sociology	Erin	Steuter	44285		1	0					N											esteuter@mta.ca
+																									esteuter@mta.ca
+12/FA	SOCI-4951-E	The Sociology of Youth Crime	Independent Study in Sociology	Morgan	Poteet	44309		1	0					N											mpoteet@mta.ca
+12/FA	SOCI-4990F-A	Honours Thesis	Honours Thesis	Vanessa	Oliver	43347		3	0					N											voliver@mta.ca
+12/FA	SPAN-3311-A	The Spanish-American Novel	The Spanish-American Novel	Juan Carlos	Martinez	43287	CTEE*316	3	0					N		N			10:30AM	Y		Y		Y	jmartine@mta.ca
+																									jmartinez@mta.ca
+12/FA	SPAN-3331-A	Spanish-American Poetry	Spanish-American Poetry	Juan Carlos	Martinez	43288	CTEE*316	7	0					N		N			02:30PM	Y		Y			jmartine@mta.ca
+																									jmartinez@mta.ca
+12/FA	WGST-3001-A	Theories of Gender Equality	Theories of Gender, Equality & Diversity	Marie	Hammond-Callaghan	43806	AVDX*120	12	0					N	N				10:00AM		Y		Y		mhammond@mta.ca
+																									marie.hammond@novaworx.ca
+12/FA	WGST-4951-A	Readings in Feminist Theories	Independent Study in	Marie	Hammond-Callaghan	43822		1	0					N											mhammond@mta.ca
+			Women's and Gender Studies																						marie.hammond@novaworx.ca
+12/FA	ANTH-1011-A	Intro to Anthropology	Introduction to Anthropology	Patricia	Kelly Spurles	43224	DUNN*113	173	0	12/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/12 9:00AM 11:00AM		11:30AM	Y		Y		Y	pkellyspurles@mta.ca
+												GYM					GYM								
+12/FA	ANTH-3401-A	Belief Systems	Belief Systems	Robert	Adlam	42814	AVDX*G10	19	0					Y	T				12:30PM	Y		Y		Y	radlam@mta.ca
+																									radlam@eastlink.ca
+12/FA	BIOC-1001-A	Introductory Biochemistry	Introductory Biochemistry	Amanda	Cockshutt	43019	DUNN*113	114	0	06/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/06 9:00AM 12:00PM	Exam Booklets. 	08:30AM		Y		Y		acockshu@mta.ca
+												GYM					GYM								
+12/FA	BIOC-3031-A	Molecular Analyses	Molecular Analyses	Jeffrey	Waller	42783	BARC*201	13	13	15/12/12	9:00AM	12:00PM	9	Y	3		12/12/15 9:00AM 12:00PM		01:30PM	Y					jwaller@mta.ca
+												AVDX*12					AVDX*120								
+12/FA	BIOC-3031-B	Molecular Analyses	Molecular Analyses	Jeffrey	Waller	42784	BARC*201	8	8	15/12/12	9:00AM	12:00PM	9	Y	3		12/12/15 9:00AM 12:00PM		01:30PM					Y	jwaller@mta.ca
+												AVDX*12					AVDX*120								
+12/FA	BIOC-3041-A	Nucleic Acids Biochemistry	Nucleic Acids: Structures, Mechanisms	Jeffrey	Waller	43557	FTON*103	11	0	10/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/10 9:00AM 12:00PM	Exam Booklets. 	10:30AM	Y		Y		Y	jwaller@mta.ca
+			And Regulations									BARC*11					BARC*115								
+12/FA	BIOC-3131-A	Bioorganic	Organic Chemistry: Bioorganic	Andrew	Grant	43613	CTEE*M10	10	36	08/12/12	9:00AM	12:00PM	9	Y	3		12/12/08 9:00AM 12:00PM		10:00AM		Y		Y		agrant@mta.ca
+												GYM					GYM								
+12/FA	BIOC-3521-A	Protein Biochemistry	Protein Biochemistry	Tyson	MacCormack	43625	BARC*311	22	0	11/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/11 9:00AM 12:00PM	Exam Booklets. 	11:30AM		Y		Y		tmaccormack@mta.ca
+												GYM					GYM								
+12/FA	BIOC-4201-A	Environmental Physiology	Environmental Physiology and	Tyson	MacCormack	43759	CTEE*M2	1	17	07/12/12	7:00PM	10:00PM	7	Y	3		12/12/07 7:00PM 10:00PM		09:30AM	Y		Y		Y	tmaccormack@mta.ca
+			Biochemistry of Animals									GYM					GYM								
+12/FA	BIOL-1001-A	Evolution, Ecology, Diversity	Evolution, Ecology, and the Diversity of	Stephen	Yezerinac	43938	CTEE*M14	188	0	10/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/10 9:00AM 12:00PM		10:30AM	Y		Y		Y	syezerinac@mta.ca
+			Organisms									GYM					GYM								
+12/FA	BIOL-2101-A	Introduction to Ecology	Introduction to Ecology	Margaret	Beaton	42937	FTON*116	97	0	07/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/07 7:00PM 10:00PM		09:30AM	Y		Y		Y	mbeaton@mta.ca
+												GYM					GYM								
+12/FA	BIOL-2301-A	Plant Biology	Plant Biology	Irena	Kaczmarska	43205	FTON*116	78	0	10/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/10 2:00PM 5:00PM		10:30AM	Y		Y		Y	iehrman@mta.ca
+												GYM					GYM								
+12/FA	BIOL-2701-A	Intro Design & Stat Analysis	Introductory Design & Statistical	Felix	Baerlocher	42917	AVDX*G12	49	0	05/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/05 2:00PM 5:00PM	Exam Booklets. 	08:30AM	Y		Y		Y	fbaerloc@mta.ca
+			Analysis									GYM					GYM								
+12/FA	BIOL-3031-A	Molecular Analyses	Molecular Analyses	Jeffrey	Waller	44035	BARC*201	0	13	15/12/12	9:00AM	12:00PM	9	Y	3		12/12/15 9:00AM 12:00PM		01:30PM	Y					jwaller@mta.ca
+												AVDX*12					AVDX*120								
+12/FA	BIOL-3031-B	Molecular Analyses	Molecular Analyses	Jeffrey	Waller	44036	BARC*201	0	8	15/12/12	9:00AM	12:00PM	9	Y	3		12/12/15 9:00AM 12:00PM		01:30PM					Y	jwaller@mta.ca
+												AVDX*12					AVDX*120								
+12/FA	BIOL-3111-A	Functional Microbiology	Functional Microbiology	Felix	Baerlocher	42914	FTON*103	13	0	06/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/06 2:00PM 4:00PM	Exam Booklets. 	08:30AM		Y		Y		fbaerloc@mta.ca
+												GYM					GYM								
+12/FA	BIOL-3211-A	Human Cell Physiology	Human Cell Physiology	Suzanne	Currie	43033	FTON*103	40	0	08/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/08 9:00AM 11:00AM		10:00AM		Y		Y		scurrie@mta.ca
+												FLEM*11					FLEM*116								scurrie@mta.ca
+12/FA	BIOL-3351-A	Marine Botany	Marine Botany	Irena	Kaczmarska	43209	FTON*103	7	0	14/12/12	9:00AM	12:00AM	9	Y	3	N	12/12/14 9:00AM 12:00AM		12:30PM	Y		Y		Y	iehrman@mta.ca
+												Gym					Gym								
+12/FA	BIOL-3401-A	Animal Behaviour	Animal Behaviour	Ronald	Aiken	42901	FTON*103	41	0	05/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/05 2:00PM 5:00PM		08:30AM	Y		Y		Y	raiken@mta.ca
+												GYM					GYM								
+12/FA	BIOL-3411-A	Ichthyology	Ichthyology	Matthew	Litvak	42826	CTEE*202	17	0	11/12/12	9:00AM	12:00PM	9	Y	3		12/12/11 9:00AM 12:00PM		11:30AM		Y		Y		mlitvak@mta.ca
+												GYM					GYM								mlitvak@mta.ca
+12/FA	BIOL-3451-A	Entomology	Entomology	Ronald	Aiken	42902	FTON*103	20	0	12/12/12	9:00AM	12:00PM	9	Y	T	N	12/12/12 9:00AM 12:00PM		11:30AM	Y		Y		Y	raiken@mta.ca
+												GYM					GYM								
+12/FA	BIOL-3511-A	Invertebrate Zoology	Invertebrate Zoology	Margaret	Beaton	42942	DUNN*104	11	0					Y	T	N		Exam Booklets. 	11:30AM		Y		Y		mbeaton@mta.ca
+12/FA	BIOL-3651-A	Introduction to Ornithology	Introduction to Ornithology	Diana	Hamilton	43136	BARC*115	19	0	14/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/14 9:00AM 12:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	dhamilto@mta.ca
+												GYM					GYM								dhamilto@mta.ca
+12/FA	BIOL-4201-A	Environmental Physiology	Environmental Physiology and	Tyson	MacCormack	42823	CTEE*M2	16	17	07/12/12	7:00PM	10:00PM	7	Y	3		12/12/07 7:00PM 10:00PM		09:30AM	Y		Y		Y	tmaccormack@mta.ca
+			Biochemistry of Animals									GYM					GYM								
+12/FA	BIOL-4621-A	Genes, Cells, and Disease	Genes, Cells, and Disease	Vett	Lloyd	43263	HART*101	5	0	11/12/12	2:00PM	5:00PM	2	Y	3	Y	12/12/11 2:00PM 5:00PM	tables for more space for computers (its an	11:30AM		Y		Y		vlloyd@mta.ca
+												AVDX*1					AVDX*117	open book/laptop exam).							
+12/FA	CANA-2011-A	An Intro to Canadian Culture	An Introduction to Canadian Culture	Christl	Verduyn	43553	FTON*116	80	0	08/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/08 9:00AM 11:00AM	Exam Booklets. 	10:00AM		Y				cverduyn@mta.ca
+												GYM					GYM	As in past years, the Cana 2011 section							
+																		listed here is the lecture part of Cana 2011.							
+																		All students will need to register for this							
+																		course and register, as well, for a lab							
+																		section. In other words, students should be							
+																		required to be in both the lecture Cana 2011							
+																		listed here and one of the lab sections.							
+12/FA	CANA-3431-A	Comparative Canadian Regionali	Comparative Canadian Regionalism	Andrew	Nurse	43336	CTEE*M10	19	0	13/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/13 2:00PM 4:00PM	Exam Booklets. 	02:30PM		Y		Y		anurse@mta.ca
+												GYM					GYM								
+12/FA	CANA-4991-A	Law in Canada	Special Topic in Canadian Studies	Robert	Derrah	44207	AVDX*116	7	0	08/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/08 9:00AM 11:00AM	Exam Booklets. 	10:00AM		Y		Y		rderrah@mta.ca
+												AVDX*11					AVDX*116								
+12/FA	CHEM-1001-A	Introductory Chemistry I	Introductory Chemistry I	Stephen	Duffy	43053	DUNN*113	166	0	14/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/14 7:00PM 10:00PM		09:30AM	Y		Y		Y	sduffy@mta.ca
+							AVDX*118					GYM					GYM		07:00PM		Y				sduffy@mta.ca
+12/FA	CHEM-1001-B	Introductory Chemistry I	Introductory Chemistry I	Stephen	Duffy	43054	FTON*116	111	0	14/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/14 7:00PM 10:00PM		12:30PM	Y		Y		Y	sduffy@mta.ca
+												GYM					GYM								sduffy@mta.ca
+12/FA	CHEM-2111-A	Organic Chemistry I	Organic Chemistry I	Stephen	Westcott	43575	DUNN*113	100	0	14/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/14 2:00PM 5:00PM		12:30PM	Y		Y		Y	swestcot@mta.ca
+												GYM					GYM								
+12/FA	CHEM-2311-A	Inorganic Chem I:Coordination	Inorganic Chemistry I: Co-ordination	Glen	Briand	42974	BARC*021	62	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM	Exam Booklets. 	10:00AM		Y		Y		gbriand@mta.ca
+			Chemistry									GYM					GYM								gbriand@mta.ca
+12/FA	CHEM-2411-A	Analytical Chem I	Analytical Chemistry I	Stephen	Duffy	43057	BARC*021	63	0	10/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/10 2:00PM 5:00PM		10:30AM	Y		Y		Y	sduffy@mta.ca
+												GYM					GYM								sduffy@mta.ca
+12/FA	CHEM-3111-A	Organic Chemistry III	Organic Chemistry III	Andrew	Grant	43121	AVDX*118	34	0	14/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/14 2:00PM 5:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	agrant@mta.ca
+												GYM					GYM								
+12/FA	CHEM-3131-A	Bioorganic	Organic Chemistry: Bioorganic	Andrew	Grant	43123	CTEE*M10	26	36	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM	Exam Booklets. 	10:00AM		Y		Y		agrant@mta.ca
+												GYM					GYM								
+12/FA	CHEM-3231-A	Physical Chem II: Kinetics	Physical Chemistry II: Kinetics	Gregory	Sandala	43917	DUNN*106	40	0	05/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/05 9:00AM 12:00PM	Exam Booklets. 	08:30AM	Y		Y		Y	gsandala@mta.ca
+												AVDX*G1					AVDX*G12								gsandala@mta.ca
+12/FA	CHEM-3241-A	Physical Chem III:Quantum Che	Physical Chemistry III: Quantum	Gregory	Sandala	43920	AVDX*116	10	0	10/12/12	9:00AM	12:00PM	9	Y	3		12/12/10 9:00AM 12:00PM		10:30AM	Y		Y		Y	gsandala@mta.ca
+			Chemistry									AVDX*11					AVDX*111								gsandala@mta.ca
+12/FA	CHEM-3321-A	Inorg Chem II:Main Group Elem	Inorganic Chemistry II: Main Group	Glen	Briand	42975	BARC*021	44	0	11/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/11 9:00AM 12:00PM	Exam Booklets. 	11:30AM		Y		Y		gbriand@mta.ca
+			Elements									GYM					GYM								gbriand@mta.ca
+12/FA	CLAS-1641-A	Clas Mythology: Hero's Quest	Classical Mythology: the Hero's Quest	Ivan	Cohen	43022	CTEE*M14	94	0	15/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/15 9:00AM 11:00AM	Exam Booklets. 	01:30PM	Y		Y		Y	icohen@mta.ca
+												GYM					GYM								
+12/FA	CLAS-2021-A	Alex the Great & Hellen World	Alexander the Great and the Hellenistic	Robin	Nadeau	43975	DUNN*113	19	41	15/12/12	7:00PM	9:00PM	7	Y	2		12/12/15 7:00PM 9:00PM		03:30PM	Y		Y		Y	rnadeau@mta.ca
+			World									GYM					GYM								
+12/FA	CLAS-2051-A	Women in Antiquity	Women in Antiquity	Tyson	Sukava	43980	AVDX*G12	20	34	14/12/12	2:00PM	5:00PM	2	Y	3		12/12/14 2:00PM 5:00PM		12:30PM	Y		Y		Y	tsukava@mta.ca
+												GYM					GYM								
+12/FA	CLAS-2501-A	Introduction to Archaeology	Introduction to Archaeology	Ilaria	Battiloro	42933	BARC*02	29	0	15/12/12	2:00PM	5:00PM	2	Y	3		12/12/15 2:00PM 5:00PM		02:30PM	Y		Y		Y	ibattiloro@mta.ca
+												GYM					GYM								
+12/FA	CLAS-3001-A	Dem & Imp in Classical Greece	Democracy and Imperialism in Classical	Robin	Nadeau	43973	CTEE*M10	17	32	13/12/12	9:00AM	11:00AM	9	Y	2		12/12/13 9:00AM 11:00AM		01:00PM		Y		Y		rnadeau@mta.ca
+			Greece									GYM					GYM								
+12/FA	CLAS-3201-A	Greek Tragedy	Greek Tragedy	Ivan	Cohen	43023	BARC*311	23	0	13/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/13 7:00PM 10:00PM	Exam Booklets. 	02:30PM		Y		Y		icohen@mta.ca
+												GYM					GYM								
+12/FA	CLAS-3601-A	The Birth of Greek Art	The Birth of Greek Art	Ilaria	Battiloro	42934	CTEE*223	30	0	06/12/12	2:00PM	5:00PM	2	Y	3		12/12/06 2:00PM 5:00PM		08:30AM		Y		Y		ibattiloro@mta.ca
+												GYM					GYM								
+12/FA	COMM-1011-A	Business Studies	Applications in Business Studies	William	Waterman	43567	FTON*116	114	0	11/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/11 7:00PM 10:00PM		01:00PM		Y		Y		bwaterma@mta.ca
+												GYM					GYM								
+12/FA	COMM-2101-A	Intro Financial Accounting I	Introductory Financial Accounting I	Brent	White	43588	AVDX*118	42	0	14/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/14 7:00PM 10:00PM		08:30AM	Y		Y		Y	bwhite@mta.ca
+												AVDX*G1					AVDX*G12								
+12/FA	COMM-2101-B	Intro Financial Accounting I	Introductory Financial Accounting I	Arnot	Coish	44133	AVDX*112	59	0	14/12/12	7:00PM	10:00PM	7	Y	3		12/12/14 7:00PM 10:00PM		11:30AM	Y		Y		Y	acoish@mta.ca
+												DUNN*11					DUNN*113								
+12/FA	COMM-2201-A	Fundamentals of Marketing	Fundamentals of Marketing	Peter	Sianchuk	43397	BARC*02	55	0	08/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/08 7:00PM 9:00PM		11:30AM		Y		Y		psianchu@mta.ca
+												GYM					GYM								
+12/FA	COMM-2201-B	Fundamentals of Marketing	Fundamentals of Marketing	Peter	Sianchuk	43398	BARC*02	47	0	08/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/08 7:00PM 9:00PM		04:00PM		Y		Y		psianchu@mta.ca
+												GYM					GYM								
+12/FA	COMM-2301-A	Organizational Behaviour I	Organizational Behaviour I	Jane	Mullen	43317	AVDX*112	55	0	11/12/12	2:00PM	4:00PM	2	Y	3	N	12/12/11 2:00PM 4:00PM		10:00AM		Y		Y		jmullen@mta.ca
+												GYM					GYM								
+12/FA	COMM-2301-B	Organizational Behaviour I	Organizational Behaviour I	Jane	Mullen	43318	AVDX*111	45	0	11/12/12	2:00PM	4:00PM	2	Y	3	N	12/12/11 2:00PM 4:00PM		11:30AM		Y		Y		jmullen@mta.ca
+												GYM					GYM								
+12/FA	COMM-3131-A	Cost Accounting	Cost Accounting	Richard	Hudson	43183	AVDX*111	36	0	15/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/15 2:00PM 5:00PM	Exam Booklets. 	02:30PM	Y		Y			rhudson@mta.ca
+												GYM					GYM								
+12/FA	COMM-3151-A	Taxation	Taxation	Rhonda	McIver	44123	BARC*021	35	0					Y	T				01:30PM	Y		Y		Y	rlmciver@eastlink.ca
+																									rmciver@mta.ca
+																									rhondaflemming@hotmail.com
+12/FA	COMM-3341-A	Organizational Theory	Organizational Theory	Judith	Holton	43176	AVDX*117	15	0	06/12/12	7:00PM	9:00PM	7	Y	2	Y	12/12/06 7:00PM 9:00PM		10:00AM		Y		Y		jholton@mta.ca
+												GYM					GYM								
+12/FA	COMM-3431-A	Management Information Systems	Management Information Systems	Abdal	Khan	44134	AVDX*230	25	0	10/12/12	7:00PM	10:00PM	7	Y	3		12/12/10 7:00PM 10:00PM		06:00PM	Y		Y		Y	abkhan@mta.ca
+												GYM					GYM								
+12/FA	COMM-3501-A	Introduction to Finance	Introduction to Finance	Timothy	Hynes	43190	AVDX*111	21	0	07/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/07 9:00AM 11:00AM		08:30AM		Y		Y		thynes@mta.ca
+												GYM					GYM								
+12/FA	COMM-3501-B	Introduction to Finance	Introduction to Finance	Timothy	Hynes	43191	AVDX*111	30	0	07/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/07 9:00AM 11:00AM		01:00PM		Y		Y		thynes@mta.ca
+												GYM					GYM								
+12/FA	COMM-4131-A	Advanced Accounting II	Advanced Accounting II	Rhonda	McIver	44124	HART*319	13	0	13/12/12	9:00AM	12:00PM	9	Y	3		12/12/13 9:00AM 12:00PM		01:00PM		Y		Y		rlmciver@eastlink.ca
+												GYM					GYM								rmciver@mta.ca
+																									rhondaflemming@hotmail.com
+12/FA	COMP-2211-A	Discrete Structures	Discrete Structures	Catharine	Baker	43617	AVDX*112	6	43	11/12/12	9:00AM	12:00PM	9	Y	3		12/12/11 9:00AM 12:00PM		11:30AM		Y		Y		cbaker@mta.ca
+												GYM					GYM								cbaker@mta.ca
+12/FA	COMP-2611-A	Data Structures & Algorithms I	Data Structures and Algorithms I	Liam	Keliher	43219	DUNN*106	26	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM		01:00PM		Y		Y		lkeliher@mta.ca
+												GYM					GYM								
+12/FA	COMP-3611-A	Algorithm Analysis	Algorithm Analysis	Liam	Keliher	43223	DUNN*104	8	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM		10:00AM		Y		Y		lkeliher@mta.ca
+												DUNN*10					DUNN*108								
+12/FA	COMP-3721-A	Object-Oriented Dsn & Method	Object-Oriented Design and Methodology	Laurie	Ricker	43386	DUNN*104	14	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM		01:00PM		Y		Y		lricker@mta.ca
+												DUNN*10					DUNN*106								
+12/FA	DRAM-3151-A	Principles of Directing	Principles of Directing	Glen	Nichols	43328		22	0					Y	T	Y			01:00PM		Y		Y		gnichols@mta.ca
+12/FA	ECON-1001-A	Principles of Microeconomics	Principles of Microeconomics	Stephen	Law	42753	CTEE*M14	182	0	07/12/12	9:00AM	12:00PM	9	Y	3		12/12/07 9:00AM 12:00PM		09:30AM	Y		Y		Y	slaw@mta.ca
+												GYM					GYM								
+12/FA	ECON-1001-B	Principles of Microeconomics	Principles of Microeconomics	Christos	Ntantamis	43793	CTEE*M14	85	0	13/12/12	7:00PM	10:00PM	7	Y	3		12/12/13 7:00PM 10:00PM		02:30PM		Y		Y		cntantamis@mta.ca
+												GYM					GYM								
+12/FA	ECON-2001-A	Intermediate Microeconomics I	Intermediate Microeconomics I	Morteza	Haghiri	42760	AVDX*112	31	0	13/12/12	9:00AM	12:00PM	9	Y	3		12/12/13 9:00AM 12:00PM		01:00PM		Y		Y		mhaghiri@mta.ca
+												GYM					GYM								
+12/FA	ECON-2101-A	Intermediate Macroeconomics I	Intermediate Macroeconomics I	Niels	Anthonisen	42755	BARC*021	22	0	12/12/12	9:00AM	11:00AM	9	Y	2		12/12/12 9:00AM 11:00AM		11:30AM	Y		Y		Y	nanthoni@mta.ca
+												AVDX*G1					AVDX*G12								
+12/FA	ECON-2991-A	Euro Currency & Govt Debt	Special Topic in Economics	Christos	Ntantamis	43932	AVDX*116	16	0	11/12/12	9:00AM	11:00AM	9	Y	2		12/12/11 9:00AM 11:00AM		11:30AM		Y		Y		cntantamis@mta.ca
+												GYM					GYM								
+12/FA	ECON-3201-A	Canadian Fin Sys: Microecon	Money, Banking, and the Canadian	Niels	Anthonisen	42754	AVDX*112	44	0	10/12/12	9:00AM	11:00AM	9	Y	2		12/12/10 9:00AM 11:00AM		10:30AM	Y		Y		Y	nanthoni@mta.ca
+			Financial System: Microeconomic									AVDX*G1					AVDX*G12								
+			Perpectives																						
+12/FA	ECON-3301-A	Intro to Game Theory	Introduction to Game Theory	Niels	Anthonisen	42752	BARC*021	31	44	05/12/12	7:00PM	9:00PM	7	Y	2		12/12/05 7:00PM 9:00PM		08:30AM	Y		Y		Y	nanthoni@mta.ca
+												GYM					GYM								
+12/FA	ECON-3601-A	Prin of Cost-Benefit Analysis	Principles of Cost-Benefit Analysis	Samuel	Gamtessa	44209	DUNN*104	12	0	15/12/12	7:00PM	10:00PM	7	Y	3		12/12/15 7:00PM 10:00PM		03:30PM	Y		Y			sgamtessa@mta.ca
+												GYM					GYM								
+12/FA	ECON-3901-A	International Trade	International Trade	Stephen	Law	42757	HART*218	35	0	15/12/12	9:00AM	12:00PM	9	Y	3		12/12/15 9:00AM 12:00PM		01:30PM	Y		Y		Y	slaw@mta.ca
+												GYM					GYM								
+12/FA	ECON-3991-A	Energy Economics	Special Topic in Economics	Samuel	Gamtessa	44210	AVDX*112	20	0	14/12/12	9:00AM	12:00PM	9	Y	3		12/12/14 9:00AM 12:00PM		12:30PM	Y		Y		Y	sgamtessa@mta.ca
+												GYM					GYM								
+12/FA	ENGL-1111-A	Lit, the Arts & Humanities	Literature, the Arts and Humanities	Robert	Lapp	43236	DUNN*113	140	0	13/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/13 2:00PM 5:00PM	Exam Booklets. 	02:30PM		Y		Y		rlapp@mta.ca
+												GYM					GYM								
+12/FA	ENGL-1201-A	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Jake	Morrissey	43934	AVDX*111	39	0	07/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/07 7:00PM 10:00PM	Exam Booklets. 	09:30AM	Y		Y		Y	jmorrissey@mta.ca
+			Analysis									GYM					GYM								j.walshmorrissey@gmail.com
+12/FA	ENGL-1201-B	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Carrie	MacMillan	43280	HART*218	41	0	08/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/08 7:00PM 10:00PM	Exam Booklets. 	10:30AM	Y		Y		Y	cmacmill@mta.ca
+			Analysis									GYM					GYM								cmacmill@mta.ca
+12/FA	ENGL-1201-C	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Terrence	Craig	43026	HART*319	33	0	11/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/11 2:00PM 5:00PM	Exam Booklets. 	11:30AM		Y		Y		tcraig@mta.ca
+			Analysis									GYM					GYM								
+12/FA	ENGL-1201-D	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Ross	Bullen	44143	HART*218	43	0	14/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/14 9:00AM 12:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	rbullen@mta.ca
+			Analysis									GYM					GYM								
+12/FA	ENGL-1201-E	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Bradley	Simkulet	44204	AVDX*G10	42	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM	Exam Booklets. 	01:00PM		Y		Y		bsimkulet@mta.ca
+			Analysis									AVDX*G1					AVDX*G12								
+12/FA	ENGL-1201-F	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Karen	Bamford	42926	BARC*021	41	0	15/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/15 2:00PM 5:00PM	Exam Booklets. 	02:30PM	Y		Y			kbamford@mta.ca
+			Analysis									GYM					GYM								
+12/FA	ENGL-1201-G	Intro to Prin of Lit Analysis	Introduction to Principles of Literary	Carrie	MacMillan	43281	BARC*02	28	0	08/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/08 7:00PM 10:00PM	Exam Booklets. 	03:30PM	Y		Y			cmacmill@mta.ca
+			Analysis									GYM					GYM								cmacmill@mta.ca
+12/FA	ENGL-1801-A	Intro to Prose Fiction	Introduction to Prose Fiction	Peter	Brown	42978	BARC*02	35	0	13/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/13 2:00PM 5:00PM	Exam Booklets. 	02:30PM		Y		Y		pbrown@mta.ca
+												GYM					GYM								pbrown@mta.ca
+12/FA	ENGL-2201-A	Literary Periods to 1800	Literary Periods to 1800	Jake	Morrissey	43936	AVDX*118	51	0	11/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/11 9:00AM 12:00PM	Exam Booklets. 	11:30AM		Y		Y		jmorrissey@mta.ca
+												GYM					GYM								j.walshmorrissey@gmail.com
+12/FA	ENGL-2211-A	Introduction to Shakespeare	Introduction to Shakespeare	Karen	Bamford	42927	DUNN*108	52	0	10/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/10 2:00PM 4:00PM	Exam Booklets. 	10:30AM	Y		Y		Y	kbamford@mta.ca
+												GYM					GYM								
+12/FA	ENGL-2701-A	Intro to American Literature	Introduction to American Literature	Ross	Bullen	44142	BARC*115	22	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM	Exam Booklets. 	01:00PM		Y		Y		rbullen@mta.ca
+												GYM					GYM								
+12/FA	ENGL-2801-A	Intro to Canadian Literature	Introduction to Canadian Literature	Christl	Verduyn	43556	HART*319	13	0	13/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/13 2:00PM 4:00PM	Exam Booklets. 	02:30PM		Y		Y		cverduyn@mta.ca
+												GYM					GYM								
+12/FA	ENGL-3011-A	Survey of Medieval Literature	Survey of Medieval Literature	Jake	Morrissey	43935	AVDX*111	31	0	15/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/15 9:00AM 12:00PM	Exam Booklets. 	01:30PM	Y		Y		Y	jmorrissey@mta.ca
+												AVDX*G1					AVDX*G12								j.walshmorrissey@gmail.com
+12/FA	ENGL-3421-A	Lit in the Age of Enlighten	Literature in the Age of Enlightenment	Robert	Lapp	43238	DUNN*108	58	0	15/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/15 7:00PM 10:00PM	Exam Booklets. 	03:30PM	Y		Y			rlapp@mta.ca
+												GYM					GYM								
+12/FA	ENGL-3751-A	Post-Colonial African Lit	Post-Colonial African Literature	Terrence	Craig	43028	HART*319	13	0	15/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/15 2:00PM 5:00PM	Exam Booklets. 	02:30PM	Y		Y			tcraig@mta.ca
+												GYM					GYM								
+12/FA	ENGL-3811-A	Canadian Modernism	Canadian Modernism	Terrence	Craig	43640	HART*319	22	0	12/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/12 2:00PM 5:00PM	Exam Booklets. 	11:30AM	Y		Y		Y	tcraig@mta.ca
+												GYM					GYM								
+12/FA	ENGL-3871-A	Contemporary Lit Theory I	Contemporary Literary Theory I	Peter	Brown	42980	HART*218	26	0	06/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/06 2:00PM 5:00PM	Exam Booklets. 	08:30AM		Y		Y		pbrown@mta.ca
+												AVDX*1					AVDX*118								pbrown@mta.ca
+12/FA	ENGL-3911-A	Studies in Literary Genre	Studies in Literary Genre	Deborah	Wills	43595	BARC*115	34	0	11/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/11 2:00PM 5:00PM	Exam Booklets. 	11:30AM		Y		Y		dwills@mta.ca
+												GYM					GYM								
+12/FA	FREN-1701-A	Intermediate French I	Intermediate French I /	Marie-Claude	Rogosin	44120	CTEE*M10	33	0	15/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/15 7:00PM 10:00PM	Final exam for all section of French 1701	10:30AM	Y		Y		Y	mrogosin@mta.ca
+			Français Intermédiaire I									GYM					GYM								
+12/FA	FREN-1701-B	Intermediate French I	Intermediate French I /	Mark	Lee	44119	CTEE*223	18	0	15/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/15 7:00PM 10:00PM	Final exam for all sections of French 1701	11:30AM	Y		Y		Y	mlee@mta.ca
+			Français Intermédiaire I									GYM					GYM								
+12/FA	FREN-1701-C	Intermediate French I	Intermediate French I /	Christina	Ionescu	43193	CTEE*223	17	0	15/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/15 7:00PM 10:00PM		11:30AM		Y		Y		cionescu@mta.ca
+			Français Intermédiaire I									CTEE*30					CTEE*304								
+12/FA	FREN-2401-A	Langue Et Lectures I	Reading and Writing French I /	Christianne	Bell	42957	CTEE*223	21	0	07/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/07 2:00PM 5:00PM	Exam Booklets. 	08:30AM	Y		Y		Y	kbell@mta.ca
+			Langue Et Lectures I									GYM					GYM	Common exam for all three sections of the							
+																		course							
+12/FA	FREN-2401-B	Langue Et Lectures I	Reading and Writing French I /	Christianne	Bell	42958	CTEE*223	34	0	07/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/07 2:00PM 5:00PM	Common exam for all three section of the	10:30AM	Y		Y		Y	kbell@mta.ca
+			Langue Et Lectures I									GYM					GYM	course							
+12/FA	FREN-2401-C	Langue Et Lectures I	Reading and Writing French I /	Monika	Boehringer	42969	CTEE*202	20	0	07/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/07 2:00PM 5:00PM	Exam Booklets. 	01:00PM		Y		Y		mboehrin@mta.ca
+			Langue Et Lectures I									GYM					GYM	Common exam for all three sections of the							mboehrin@mta.ca
+																		course							
+12/FA	FREN-2801-A	Cinema du Monde Francophone	Film From the French and Francophone	Mark	Lee	43244	HART*218	24	0	11/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/11 9:00AM 12:00PM		11:30AM		Y		Y		mlee@mta.ca
+			World / Cinéma Du Monde Francophone				LIBR*THEATRE					DUNN*10					DUNN*108		06:30PM	Y					
+12/FA	FREN-3101-A	Le Franc Ecrit (Avance) I	Advanced Written French I /	Valerie	Narayana	43323	AVDX*111	20	0	08/12/12	9:00AM	12:00PM	9	Y	3	Y	12/12/08 9:00AM 12:00PM	Exam Booklets. 	10:00AM		Y		Y		vnarayan@mta.ca
+			Le Français Écrit Avancé I									AVDX*11					AVDX*112	open book exam, dictionaries, computer							
+																		allowed							
+12/FA	GENS-1401-A	The Physical Environment	The Physical Environment	Colin	Laroque	43240	DUNN*113	143	0	06/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/06 7:00PM 10:00PM	Exam Booklets. 	10:00AM		Y		Y		claroque@mta.ca
+												GYM					GYM								
+12/FA	GENS-2421-A	Weather and Climate	Weather and Climate	Graham	Clark	44114	AVDX*118	30	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM	Exam Booklets. 	01:00PM		Y		Y		gclark@mta.ca
+												GYM					GYM								
+12/FA	GENS-2431-A	Data Analysis	Data Analysis	David	Lieske	43246	AVDX*115	23	0	14/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/14 9:00AM 12:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	dlieske@mta.ca
+												GYM					GYM								
+12/FA	GENS-3461-A	Oceanography	Oceanography	Georgia	Klein	44117	AVDX*G10	33	0					Y	T	N		Exam Booklets. 	10:30AM	Y		Y		Y	gklein@mta.ca
+12/FA	GENV-1201-A	The Human Environment	The Human Environment	Leslie	Kern	43228	FTON*116	94	0	08/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/08 2:00PM 5:00PM	Exam Booklets. 	11:30AM		Y		Y		lkern@mta.ca
+												GYM					GYM								lkern@mta.ca
+12/FA	GENV-2201-A	Geography of Economic Activity	Geography of Economic Activity	Timothy	Reiffenstein	43376	AVDX*118	46	0	08/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/08 9:00AM 11:00AM		10:00AM		Y		Y		treiffen@mta.ca
+												GYM					GYM								
+12/FA	GENV-3811-A	Geography of Urbanization	Geography of Urbanization	Leslie	Kern	43230	AVDX*120	32	0	13/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/13 7:00PM 10:00PM	Exam Booklets. 	02:30PM		Y		Y		lkern@mta.ca
+												GYM					GYM								lkern@mta.ca
+12/FA	GREK-1001-A	Introductory Ancient Greek I	Introductory Ancient Greek I	Ivan	Cohen	43025	HART*218	29	0	07/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/07 9:00AM 12:00PM	Exam Booklets. 	09:30AM	Y		Y		Y	icohen@mta.ca
+												GYM					GYM								
+12/FA	HIST-1611-A	The Expansion of Europe Abroad	The Expansion of Europe Abroad	Robert	Cupido	43893	BARC*02	106	0	15/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/15 9:00AM 12:00PM	Exam Booklets. 	01:30PM	Y		Y		Y	rcupido@mta.ca
+												GYM					GYM								
+12/FA	HIST-1641-A	Town Life in the Middle Ages	Town Life in the Middle Ages	William	Lundell	43269	DUNN*106	42	0	15/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/15 2:00PM 4:00PM	Exam Booklets. 	02:30PM	Y		Y			wlundell@mta.ca
+												GYM					GYM								
+12/FA	HIST-2021-A	Alex the Great & Hellen World	Alexander the Great and the Hellenistic	Robin	Nadeau	43976	DUNN*113	22	41	15/12/12	7:00PM	9:00PM	7	Y	2		12/12/15 7:00PM 9:00PM		03:30PM	Y		Y		Y	rnadeau@mta.ca
+			World									GYM					GYM								
+12/FA	HIST-2031-A	Early Modern Europe, 1500-1800	The History of Early Modern Europe,	William	Wilson	43601	DUNN*108	59	0	05/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/05 7:00PM 9:00PM	Exam Booklets. 	08:30AM	Y		Y		Y	wwilson@mta.ca
+			1500-1800									GYM					GYM								
+12/FA	HIST-2051-A	Women in Antiquity	Women in Antiquity	Tyson	Sukava	43981	AVDX*G12	14	34	14/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/14 2:00PM 5:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	tsukava@mta.ca
+												GYM					GYM								
+12/FA	HIST-2411-A	Canada to 1871	Canada to 1871	Denis	McKim	44002	BARC*021	59	0	14/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/14 2:00PM 5:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	dmckim@mta.ca
+							CTEE*M3					GYM					GYM		01:30PM					Y	
+12/FA	HIST-2511-A	The American Exp to 1865	The American Experience to 1865	Elaine	Naylor	42798	DUNN*106	46	0	12/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/12 7:00PM 10:00PM	Exam Booklets. 	11:30AM	Y		Y		Y	enaylor@mta.ca
+							DUNN*111					GYM					GYM		11:30AM					Y	
+							DUNN*104												11:30AM					Y	
+12/FA	HIST-2731-A	The Making of Modern Asia	The Making of Modern Asia	Shelley	Nelson	44128	DUNN*108	38	0	07/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/07 2:00PM 5:00PM	Exam Booklets. 	06:30PM	Y		Y			snelson@mta.ca
+												GYM					GYM								
+12/FA	HIST-3001-A	Dem & Imp in Classical Greece	Democracy and Imperialism in Classical	Robin	Nadeau	43974	CTEE*M10	15	32	13/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/13 9:00AM 11:00AM	Exam Booklets. 	01:00PM		Y		Y		rnadeau@mta.ca
+			Greece									GYM					GYM								
+12/FA	HIST-3121-A	Renaissance Europe	The Renaissance in Italy and Beyond	William	Lundell	43270	FTON*103	37	0	11/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/11 2:00PM 4:00PM	Exam Booklets. 	11:30AM		Y		Y		wlundell@mta.ca
+												GYM					GYM								
+12/FA	HIST-3251-A	British Social Struc 1750-1850	Class, Gender, and Capitalism: the	Robert	Cupido	43894	HART*218	37	0	12/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/12 7:00PM 10:00PM	Exam Booklets. 	11:30AM	Y		Y		Y	rcupido@mta.ca
+			Transformation of the British Social									GYM					GYM								
+			Structure 1750-1850																						
+12/FA	HIST-3431-A	Quebec Fr Confed to Sovereignt	Quebec From Confederation to the	Kathleen	Lord	43265	DUNN*108	11	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM	Exam Booklets. 	01:00PM		Y		Y		klord@mta.ca
+			Sovereignty Movement									GYM					GYM								
+12/FA	HIST-3531-A	American Women's History	American Women's History	Elaine	Naylor	42799	AVDX*G10	30	0	07/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/07 9:00AM 12:00PM	Exam Booklets. 	09:30AM	Y		Y		Y	enaylor@mta.ca
+												GYM					GYM								
+12/FA	HIST-3811-A	Can. Working Class and Labour	Canadian Working-Class and Labour	Kathleen	Lord	43266	HART*218	14	0					Y	T	N			10:00AM		Y		Y		klord@mta.ca
+			History																						
+12/FA	INLR-2301-A	Introduction to Inlr	Introduction to International Relations	James	Devine	44257	DUNN*113	19	35	15/12/12	9:00AM	12:00PM	9	Y	3		12/12/15 9:00AM 12:00PM		01:30PM			Y		Y	jtdevine@mta.ca
+												GYM					GYM								
+12/FA	INLR-3401-A	International Political Econ	International Political Economy	Geoff	Martin	44064	AVDX*G12	30	0	05/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/05 9:00AM 11:00AM	Exam Booklets. 	04:00PM		Y		Y		gmartin@mta.ca
+												AVDX*11					AVDX*118								gmartin@mta.ca
+12/FA	LATI-1001-A	Introductory Latin I	Introductory Latin I	Ilaria	Battiloro	42936	DUNN*106	44	0	10/12/12	7:00PM	10:00PM	7	Y	3		12/12/10 7:00PM 10:00PM		10:30AM	Y		Y		Y	ibattiloro@mta.ca
+												GYM					GYM								
+12/FA	LATI-2001-A	Intermediate Latin	Intermediate Latin	James	Lynd	44196	HART*407	5	0	12/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/12 2:00PM 5:00PM	Exam Booklets. 	11:30AM	Y		Y		Y	jlynd@mta.ca
+												GYM					GYM								jlynd@mta.ca
+12/FA	LATI-3001-A	Readings in Latin Prose	Readings in Latin Prose	James	Lynd	44197	HART*407	2	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM	Exam Booklets. 	10:00AM		Y		Y		jlynd@mta.ca
+												AVDX*11					AVDX*117								jlynd@mta.ca
+12/FA	LATI-4001-A	Directed Readings in Latin	Directed Readings in Latin	James	Lynd	44198	HART*407	1	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM	Exam Booklets. 	10:00AM		Y		Y		jlynd@mta.ca
+												AVDX*11					AVDX*117								jlynd@mta.ca
+12/FA	MATH-1011-A	Functions	Functions	Catharine	Baker	42919	BARC*02	87	0	06/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/06 9:00AM 12:00PM		08:30AM		Y		Y		cbaker@mta.ca
+												GYM					GYM								cbaker@mta.ca
+12/FA	MATH-1111-A	Calculus I	Calculus I	Margaret-Ellen	Messinger	43294	FTON*116	114	0	12/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/12 7:00PM 10:00PM		11:30AM	Y		Y		Y	mmessinger@mta.ca
+												GYM					GYM								
+12/FA	MATH-1111-B	Calculus I	Calculus I	Margaret-Ellen	Messinger	43697	DUNN*113	162	0	05/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/05 2:00PM 5:00PM		08:30AM	Y		Y		Y	mmessinger@mta.ca
+												GYM					GYM								
+12/FA	MATH-2111-A	Multivariable Calculus	Multivariable Calculus	Mark	Hamilton	43154	BARC*02	53	0	07/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/07 7:00PM 10:00PM		09:30AM	Y		Y		Y	mhamilton@mta.ca
+												GYM					GYM								
+12/FA	MATH-2211-A	Discrete Structures	Discrete Structures	Catharine	Baker	42924	AVDX*112	37	43	11/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/11 9:00AM 12:00PM		11:30AM		Y		Y		cbaker@mta.ca
+												GYM					GYM								cbaker@mta.ca
+12/FA	MATH-2311-A	Statistics I	Statistics I	Robert	Sealy	43954	BARC*02	111	0	05/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/05 9:00AM 12:00PM		08:30AM	Y				Y	rsealy@mta.ca
+												GYM					GYM								
+12/FA	MATH-3031-A	History of Mathematics	History of Mathematics	Catharine	Baker	42925	BARC*311	17	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM	Exam Booklets. 	01:00PM		Y		Y		cbaker@mta.ca
+												GYM					GYM	open book exam							cbaker@mta.ca
+12/FA	MATH-3111-A	Real Analysis I	Real Analysis I	Geoffrey	Cruttwell	43941	AVDX*230	16	0	10/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/10 9:00AM 12:00PM		10:30AM	Y		Y		Y	gcruttwell@mta.ca
+												GYM					GYM								
+12/FA	MATH-3211-A	Modern Algebra I	Modern Algebra I	Mark	Hamilton	43156	AVDX*120	17	0	05/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/05 2:00PM 5:00PM		08:30AM	Y		Y		Y	mhamilton@mta.ca
+												GYM					GYM								
+12/FA	MATH-3301-A	Intro to Game Theory	Introduction to Game Theory	Niels	Anthonisen	43799	BARC*021	13	44	05/12/12	7:00PM	9:00PM	7	Y	2		12/12/05 7:00PM 9:00PM		08:30AM	Y		Y		Y	nanthoni@mta.ca
+												GYM					GYM								
+12/FA	MATH-3311-A	Probability & Stats I	Probability and Statistics I	Andrew	Irwin	43203	DUNN*106	50	0	06/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/06 9:00AM 12:00PM		08:30AM		Y		Y		airwin@mta.ca
+												GYM					GYM								airwin@mta.ca
+12/FA	MSCI-5111-A	Genes, Cells, and Disease	Grad Studies Biology II	Vett	Lloyd	44232	HART*101	0	0					Y	3				11:30AM		Y		Y		vlloyd@mta.ca
+12/FA	MUSC-1001-A	Fundamentals of Music I	Fundamentals of Music I	Danise	Ferguson	42841	CONS*204	53	0	15/12/12	9:00AM	11:00AM	9	Y	2		12/12/15 9:00AM 11:00AM		01:30PM	Y		Y		Y	dferguso@mta.ca
+												CONS					CONS								
+12/FA	MUSC-1101-A	Materials of Music I	Materials of Music I	Gary	Tucker	42837	CONS*204	32	0	05/12/12	9:00AM	12:00PM	9	Y	3		12/12/05 9:00AM 12:00PM		08:30AM	Y		Y		Y	gtucker@mta.ca
+												CONS					CONS								
+12/FA	MUSC-1201-A	Music History & Literature I	Music History and Literature I	Colleen	Renihan	44092	CONS*204	32	0	07/12/12	9:00AM	12:00PM	9	Y	3		12/12/07 9:00AM 12:00PM		09:30AM	Y		Y		Y	crenihan@mta.ca
+												cons					cons								crenihan@mta.ca
+12/FA	MUSC-1521-A	Diction for Singers	Diction for Singers	Colleen	Renihan	44093	CONS*100	18	0	15/12/12	2:00PM	4:00PM	2	Y	2		12/12/15 2:00PM 4:00PM		02:30PM	Y		Y		Y	crenihan@mta.ca
+												CONS					CONS								crenihan@mta.ca
+12/FA	MUSC-2011-A	Survey of Western Music	Survey of Western Music	Danise	Ferguson	44037	CONS*100	1	0	12/12/12	2:00PM	4:00PM	2	Y	2		12/12/12 2:00PM 4:00PM		11:30AM	Y		Y		Y	dferguso@mta.ca
+												CONS					CONS								
+12/FA	MUSC-2101-A	Materials of Music III	Materials of Music III	Gary	Tucker	43828	CONS*204	23	0	10/12/12	9:00AM	12:00PM	9	Y	3		12/12/10 9:00AM 12:00PM		10:30AM	Y		Y		Y	gtucker@mta.ca
+												CONS					CONS								
+12/FA	MUSC-2201-A	Music History & Literature III	Music History and Literature III	Colleen	Renihan	44094	CONS*204	19	0	12/12/12	9:00AM	12:00PM	9	Y	3		12/12/12 9:00AM 12:00PM		11:30AM	Y		Y		Y	crenihan@mta.ca
+												CONS					CONS								crenihan@mta.ca
+12/FA	PHIL-1611-A	Self, Society &freedom	Self, Society, and Freedom	Jane	Dryden	43049	CTEE*M14	90	0	11/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/11 7:00PM 9:00PM	Exam Booklets. 	01:00PM		Y		Y		jdryden@mta.ca
+												GYM					GYM								
+12/FA	PHIL-1621-A	Reason, Will, & World	Reason, Will, and World	Robbie	Moser	43312	FTON*116	91	0	06/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/06 2:00PM 4:00PM	Exam Booklets. 	08:30AM		Y		Y		rmoser@mta.ca
+												GYM					GYM								
+12/FA	PHIL-2701-A	Ethics	Introductory Ethics	Robin	Weiss	43924	DUNN*106	41	0	14/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/14 9:00AM 12:00PM	Exam Booklets. 	01:00PM	Y		Y			rweiss@mta.ca
+												GYM					GYM								
+12/FA	PHYS-1021-A	Solar System Astronomy	Solar System Astronomy	Anne	Pellerin	44047	DUNN*113	80	0	11/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/11 9:00AM 12:00PM		11:30AM		Y		Y		apellerin@mta.ca
+												GYM					GYM								dr.anne.pellerin@gmail.com
+12/FA	PHYS-1051-A	General Physics I	General Physics I	David	Hornidge	43180	DUNN*308	81	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM		10:00AM		Y		Y		dhornidg@mta.ca
+												GYM					GYM								
+12/FA	PHYS-1051-B	General Physics I	General Physics I	Mohammad	Ahmady	42893	DUNN*308	74	0	08/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/08 2:00PM 5:00PM		11:30AM		Y		Y		mahmady@mta.ca
+												GYM					GYM								
+12/FA	PHYS-1051-C	General Physics I	General Physics I	Angus	Findlay	44129	DUNN*308	42	0	15/12/12	7:00PM	10:00PM	7	Y	3		12/12/15 7:00PM 10:00PM		02:30PM	Y					afindlay@mta.ca
+												GYM					GYM								
+12/FA	PHYS-2251-A	Classical Waves	Classical Waves	Ralf	Bruning	42984	DUNN*316	11	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM		10:00AM		Y		Y		rbruenin@mta.ca
+												AVDX*12					AVDX*120								
+12/FA	PHYS-2801-A	Data Acquisition and Analysis	Data Acquisition and Analysis	Mihai	Gherase	44202	DUNN*316	17	0	10/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/10 9:00AM 12:00PM		10:30AM	Y		Y		Y	mgherase@mta.ca
+												GYM					GYM								
+12/FA	PHYS-3001-A	Astrophysics	Astrophysics	Anne	Pellerin	44048	AVDX*112	24	0	15/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/15 9:00AM 12:00PM		01:30PM	Y		Y		Y	apellerin@mta.ca
+												AVDX*11					AVDX*112								dr.anne.pellerin@gmail.com
+12/FA	PHYS-3101-A	Electricity and Magnetism	Electricity and Magnetism	Zinkoo	Yun	44253	DUNN*316	16	0	12/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/12 9:00AM 12:00PM		11:30AM	Y		Y		Y	
+												AVDX*11					AVDX*118								
+12/FA	PHYS-3701-A	Thermodynamics	Thermodynamics	Ralf	Bruning	42986	DUNN*316	19	0	14/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/14 9:00AM 12:00PM		12:30PM	Y		Y		Y	rbruenin@mta.ca
+												AVDX*11					AVDX*111								
+12/FA	PHYS-3821-A	Quantum Mechanics I	Quantum Mechanics I	David	Hornidge	43182	DUNN*104	13	0	07/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/07 9:00AM 12:00PM		09:30AM	Y		Y		Y	dhornidg@mta.ca
+												AVDX*G1					AVDX*G10								
+12/FA	PHYS-4851-A	Nuclei & Fundamental Particles	Nuclei and Fundamental Particles	Mohammad	Ahmady	42897	DUNN*406	11	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM		01:00PM		Y		Y		mahmady@mta.ca
+												GYM					GYM								
+12/FA	POLS-2001-A	Democratic Thought	Democratic Thought	Loralea	Michaelis	43308	AVDX*G12	45	0	11/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/11 2:00PM 5:00PM	Exam Booklets. 	11:30AM		Y		Y		lmichael@mta.ca
+												GYM					GYM								
+12/FA	POLS-2101-A	Canadian Government & Politics	Canadian Government and Politics	Mario	Levesque	44078	AVDX*112	33	0	05/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/05 7:00PM 10:00PM	Exam Booklets. 	08:30AM	Y		Y		Y	malevesque@mta.ca
+												GYM					GYM								malevesque@mta.ca
+12/FA	POLS-2301-A	Introduction to Inlr	Introduction to International Relations	James	Devine	43040	DUNN*113	16	35	15/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/15 9:00AM 12:00PM	Exam Booklets. 	01:30PM			Y		Y	jtdevine@mta.ca
+												GYM					GYM								
+12/FA	POLS-3031-A	Women and Politics	Women and Politics	Loralea	Michaelis	43310	DUNN*106	25	0	13/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/13 2:00PM 5:00PM	Exam Booklets. 	02:30PM		Y		Y		lmichael@mta.ca
+												GYM					GYM								
+12/FA	POLS-3321-A	Int. Pols. of the Middle East	International Politics of the Middle	James	Devine	43041	BARC*02	37	0	13/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/13 9:00AM 12:00PM	Exam Booklets. 	01:00PM		Y		Y		jtdevine@mta.ca
+			East									GYM					GYM								
+12/FA	PSYC-1001-A	Introduction to Psychology I	Introduction to Psychology I	Kenneth	Sheppard	44248	CTEE*M14	178	0	05/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/05 9:00AM 12:00PM	Exam Booklets. 	08:30AM	Y		Y		Y	esheppard@mta.ca
+												GYM					GYM								esheppard@mta.ca
+12/FA	PSYC-1001-B	Introduction to Psychology I	Introduction to Psychology I	Terry	Belke	42953	CTEE*M14	190	0	12/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/12 2:00PM 5:00PM		11:30AM	Y		Y		Y	tbelke@mta.ca
+												GYM					GYM								
+12/FA	PSYC-1011-A	Introduction to Psychology II	Introduction to Psychology II	Daniel	McGrath	43831	CTEE*M14	140	0	14/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/14 9:00AM 12:00PM	Exam Booklets. 	12:30PM	Y		Y		Y	dmcgrath@mta.ca
+												GYM					GYM								dmcgrath@mta.ca
+12/FA	PSYC-2001-A	Research Design & Analysis I	Research Design and Analysis I	Stephen	Claxton-Oldfield	43010	CTEE*M14	122	0	06/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/06 7:00PM 10:00PM		10:00AM		Y		Y		sclaxton@mta.ca
+												GYM					GYM								
+12/FA	PSYC-2101-A	Biopsychology	Biopsychology	Lisa	Hamilton	43144	AVDX*118	64	0	07/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/07 7:00PM 10:00PM		09:30AM	Y		Y		Y	ldhamilton@mta.ca
+												GYM					GYM								
+12/FA	PSYC-2201-A	Cognitive Processes	Cognitive Processes	Jennifer	Tomes	43549	BARC*02	112	0	12/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/12 9:00AM 12:00PM	Exam Booklets. 	11:30AM	Y		Y		Y	jtomes@mta.ca
+												GYM					GYM								jtomes@mta.ca
+12/FA	PSYC-2601-A	Psych of Abnormal Behaviour	Psychology of Abnormal Behaviour	Nancy	Garon	43110	FTON*116	132	0	05/12/12	7:00PM	10:00PM	7	Y	3	N	12/12/05 7:00PM 10:00PM		08:30AM	Y		Y		Y	ngaron@mta.ca
+												GYM					GYM								
+12/FA	PSYC-3001-A	Advanced Design & Analysis 	Advanced Design and Analysis	Louise	Wasylkiw	43565	CTEE*223	38	0	08/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/08 9:00AM 12:00PM	Exam Booklets. 	10:00AM		Y		Y		lwasylki@mta.ca
+												AVDX*G1					AVDX*G12								
+12/FA	PSYC-3151-A	Drugs & Behaviour	Drugs and Behaviour	Terry	Belke	42956	DUNN*108	52	0	14/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/14 2:00PM 5:00PM		12:30PM	Y		Y		Y	tbelke@mta.ca
+												GYM					GYM								
+12/FA	PSYC-3221-A	Psychology of Language	Psychology of Language	Gene	Ouellette	44044	BARC*021	32	0	07/12/12	2:00PM	5:00PM	2	Y	3		12/12/07 2:00PM 5:00PM		09:30AM	Y		Y		Y	gouellette@mta.ca
+												GYM					GYM								
+12/FA	PSYC-3301-A	Interpersonal Relations	Interpersonal Relations	Louise	Wasylkiw	43566	AVDX*G12	84	0	10/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/10 9:00AM 12:00PM	Exam Booklets. 	10:30AM	Y		Y		Y	lwasylki@mta.ca
+												GYM					GYM								
+12/FA	PSYC-3331-A	Death and Dying	Death and Dying	Stephen	Claxton-Oldfield	43012	AVDX*G12	90	0	07/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/07 2:00PM 5:00PM	Exam Booklets. 	09:30AM	Y		Y		Y	sclaxton@mta.ca
+												GYM					GYM								
+12/FA	PSYC-3991-A	Positive Psychology	Special Topic in Psychology	Kenneth	Sheppard	43922	DUNN*108	60	0	12/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/12 2:00PM 5:00PM	Exam Booklets. 	11:30AM	Y		Y		Y	esheppard@mta.ca, esheppard@mta.ca
+						44443						GYM					GYM								gouellette@mta.ca
+12/FA	RELG-1671-A	Sacred Space, Holy Land	Sacred Space and Holy Land	John	Perkin	43360	AVDX*118	68	0	10/12/12	2:00PM	5:00PM	2	Y	3	N	12/12/10 2:00PM 5:00PM	Exam Booklets. 	10:30AM	Y		Y		Y	jperkin@mta.ca
+												GYM					GYM								
+12/FA	RELG-1681-A	The Quest for Enlightenment	The Quest for Enlightenment: the Search	Samuel	Borsman	44102	CTEE*M14	88	0	08/12/12	2:00PM	4:00PM	2	Y	2	N	12/12/08 2:00PM 4:00PM	Exam Booklets. 	11:30AM		Y		Y		sborsman@mta.ca
+			For Perfection in Asian Religions									GYM					GYM								
+12/FA	RELG-2831-A	Faith and Doubt	Faith and Doubt	Andrew	Wilson	43597	BARC*021	50	0	13/12/12	7:00PM	10:00PM	7	Y	2	N	12/12/13 7:00PM 10:00PM	Exam Booklets. 	02:30PM		Y		Y		awilson@mta.ca
+												GYM					GYM								
+12/FA	RELG-3701-A	Islam	Islam	Andrew	Wilson	43599	DUNN*106	26	0	08/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/08 9:00AM 11:00AM	Exam Booklets. 	10:00AM		Y		Y		awilson@mta.ca
+												AVDX*G1					AVDX*G10								
+12/FA	RELG-3971-A	Religion in Film	Religion in Film	Fiona	Black	42967	CTEE*M2	8	0					Y	T	N			02:30PM	Y					fblack@mta.ca
+							LIBR*THEATRE												05:30PM			Y			
+12/FA	SOCI-2121-A	Race & Racialization	Race and Racialization	Morgan	Poteet	43368	AVDX*G10	51	0	08/12/12	9:00AM	11:00AM	9	Y	2	N	12/12/08 9:00AM 11:00AM		10:00AM		Y		Y		mpoteet@mta.ca
+												DUNN*11					DUNN*113								
+12/FA	SPAN-1101-A	Introductory Spanish I	Introductory Spanish I	Juan Carlos	Martinez	43285	CTEE*M10	28	0	10/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/10 7:00PM 9:00PM	Common exam for all 4 sections of the course	08:30AM	Y		Y		Y	jmartine@mta.ca
+												GYM					GYM								jmartinez@mta.ca
+12/FA	SPAN-1101-B	Introductory Spanish I	Introductory Spanish I	Maritza	Farina	43081	CTEE*223	33	0	10/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/10 7:00PM 9:00PM	Common exam for all 4 sections of the course	09:30AM	Y		Y		Y	mfarina@mta.ca
+												GYM					GYM								
+12/FA	SPAN-1101-C	Introductory Spanish I	Introductory Spanish I	Maritza	Farina	43082	CTEE*M10	34	0	10/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/10 7:00PM 9:00PM	common exam for all 4 sections of the course	11:30AM	Y		Y		Y	mfarina@mta.ca
+												GYM					GYM								
+12/FA	SPAN-1101-D	Introductory Spanish I	Introductory Spanish I	Lauren	Beck	42948	CTEE*M10	32	0	10/12/12	7:00PM	9:00PM	7	Y	2	N	12/12/10 7:00PM 9:00PM	common exam for all 4 section of the course.	11:30AM		Y		Y		lbeck@mta.ca
+												GYM					GYM	All section at the same time							
+12/FA	SPAN-2101-A	Intermediate Spanish I	Intermediate Spanish I	Maritza	Farina	43085	CTEE*223	26	0	15/12/12	9:00AM	12:00PM	9	Y	3	N	12/12/15 9:00AM 12:00PM	Exam Booklets. 	01:30PM	Y		Y		Y	mfarina@mta.ca
+							CTEE*316					GYM					GYM		10:00AM				Y		
+12/FA	SPAN-3101-A	Advanced Spanish I	Advanced Spanish I	Lauren	Beck	42951	CTEE*M2	16	0	06/12/12	2:00PM	4:00PM	2	Y	2	Y	12/12/06 2:00PM 4:00PM		08:30AM		Y		Y		lbeck@mta.ca
+												GYM					GYM								
+12/FA	WGST-2001-A	Intro to Women and Gender Stud	Introduction to Women's and	Marie	Hammond-Callaghan	43805	AVDX*G12	79	0	11/12/12	7:00PM	10:00PM	7	Y	3		12/12/11 7:00PM 10:00PM		01:00PM		Y		Y		mhammond@mta.ca
+			Gender Studies									GYM					GYM								marie.hammond@novaworx.ca

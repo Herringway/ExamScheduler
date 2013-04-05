@@ -1,0 +1,11 @@
+- Output file not writing
+
+- No exceptions are thrown when processing exam file, when clearly it should fail
+
+- log4j all messages
+
+- Help file needs update
+
+- Error handling in both data and io **
+
+- Coordination with Optimizer thread... E.g. reporting back errors, no schedule found, etc.

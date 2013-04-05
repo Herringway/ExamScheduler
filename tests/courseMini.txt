@@ -1,0 +1,1147 @@
+Student	Name	Course	Course/Section	Start Time	End Time	Mon	Tues	Wed	Thurs	Fri	(Link to) Course Section First Name	(Link to) Course Section Sec All Faculty Last Names
+6544222	Scholar, Joseph	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544222	Scholar, Joseph	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544990	Academic, Crystal	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544187	Erudite, Katie	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544187	Erudite, Katie	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544516	Learner, Taylor	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544516	Learner, Taylor	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544676	Learner, Travis	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544676	Learner, Travis	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6545008	Illuminate, Brittney	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6545008	Illuminate, Brittney	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544748	Illuminate, Shelby	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544748	Illuminate, Shelby	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544903	Pupil, Elijah	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6545032	Scholar, Robert	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6545032	Scholar, Robert	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544427	Erudite, James	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544427	Erudite, James	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544677	Erudite, Ian	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544677	Erudite, Ian	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6543785	Intern, Breanna	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6543785	Intern, Breanna	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544187	Erudite, Katie	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544187	Erudite, Katie	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544959	Study, Erin	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544959	Study, Erin	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6545008	Illuminate, Brittney	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6545008	Illuminate, Brittney	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544556	Learner, Tiffany	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544556	Learner, Tiffany	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544748	Illuminate, Shelby	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544748	Illuminate, Shelby	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544509	Study, Shawn	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544509	Study, Shawn	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544231	Student, Alexander	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544231	Student, Alexander	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544903	Pupil, Elijah	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544903	Pupil, Elijah	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544427	Erudite, James	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544427	Erudite, James	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544949	Study, Olivia	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544949	Study, Olivia	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6543810	Academic, Alexa	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6543810	Academic, Alexa	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6543728	Illuminate, Jennifer	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6543728	Illuminate, Jennifer	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6543718	Illuminate, Brittany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543718	Illuminate, Brittany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543646	Learner, Brian	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543646	Learner, Brian	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543988	Illuminate, Cassandra	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543988	Illuminate, Cassandra	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544008	Illuminate, Brittney	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544008	Illuminate, Brittney	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543785	Intern, Breanna	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543785	Intern, Breanna	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544145	Intern, Melissa	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544145	Intern, Melissa	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544046	Learner, Brian	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544046	Learner, Brian	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544320	Academic, Elizabeth	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544320	Academic, Elizabeth	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544156	Learner, Tiffany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544156	Learner, Tiffany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543868	Illuminate, Devin	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543868	Illuminate, Devin	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543558	Illuminate, Sara	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543558	Illuminate, Sara	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543611	Student, Michael	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543611	Student, Michael	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543979	Study, Erica	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543979	Study, Erica	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543747	Erudite, Kimberly	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543747	Erudite, Kimberly	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544236	Learner, Cody	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544236	Learner, Cody	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544387	Erudite, Katie	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544387	Erudite, Katie	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544047	Erudite, Steven	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544047	Erudite, Steven	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543776	Learner, Destiny	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543776	Learner, Destiny	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544210	Academic, Alexa	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544210	Academic, Alexa	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543756	Learner, Tiffany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543756	Learner, Tiffany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543439	Study, Jordan	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543439	Study, Jordan	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544486	Learner, Jesus	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544486	Learner, Jesus	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544356	Learner, Tiffany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544356	Learner, Tiffany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543726	Learner, Stephanie	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543726	Learner, Stephanie	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543866	Learner, Dakota	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543866	Learner, Dakota	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544596	Learner, Cheyenne	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544596	Learner, Cheyenne	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543718	Illuminate, Brittany	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543785	Intern, Breanna	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543541	Student, Anna	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544145	Intern, Melissa	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544558	Illuminate, Sara	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544001	Student, Selena	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544221	Student, Andrew	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543746	Learner, Abigail	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544354	Apprentice, Maria	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543434	Apprentice, Kyle	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543776	Learner, Destiny	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543825	Intern, Ryan	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544147	Erudite, Kimberly	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543726	Learner, Stephanie	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544647	Erudite, Steven	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543893	Pupil, Derek	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544098	Illuminate, Edward	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544596	Learner, Cheyenne	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543728	Illuminate, Jennifer	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543718	Illuminate, Brittany	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543863	Pupil, Hunter	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543412	Scholar, Matthew	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543988	Illuminate, Cassandra	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543545	Intern, Melissa	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544008	Illuminate, Brittney	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543785	Intern, Breanna	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543541	Student, Anna	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544145	Intern, Melissa	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544046	Learner, Brian	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544558	Illuminate, Sara	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544001	Student, Selena	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544156	Learner, Tiffany	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544221	Student, Andrew	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543581	Student, Alexandria	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543558	Illuminate, Sara	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543611	Student, Michael	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543746	Learner, Abigail	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543755	Intern, Christina	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544354	Apprentice, Maria	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544387	Erudite, Katie	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543681	Student, Paul	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544609	Study, Molly	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543414	Apprentice, Jacob	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543965	Intern, Andrea	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543889	Study, Mitchell	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544147	Erudite, Kimberly	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544210	Academic, Alexa	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544486	Learner, Jesus	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544356	Learner, Tiffany	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543743	Pupil, Kelsey	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543898	Illuminate, Edward	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544123	Pupil, Megan	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543802	Scholar, Caroline	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543866	Learner, Dakota	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544941	Student, Anna	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544351	Student, Michelle	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544354	Apprentice, Maria	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544556	Learner, Tiffany	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544556	Learner, Tiffany	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6545032	Scholar, Robert	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544427	Erudite, James	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544677	Erudite, Ian	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6543745	Intern, Melissa	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6543745	Intern, Melissa	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543840	Academic, Aaron	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6544022	Scholar, Joseph	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543877	Erudite, Ian	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6544236	Learner, Cody	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6544236	Learner, Cody	GENV-4821	GENV 4821 A	01:00PM	03:50PM		Y				Timothy	Reiffenstein
+6543681	Student, Paul	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543681	Student, Paul	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543681	Student, Paul	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6543434	Apprentice, Kyle	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543417	Erudite, Tyler	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543810	Academic, Alexa	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543810	Academic, Alexa	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6544941	Student, Anna	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6543571	Student, Gabrielle	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6543571	Student, Gabrielle	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6544340	Academic, Katherine	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6544509	Study, Shawn	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6544147	Erudite, Kimberly	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6544486	Learner, Jesus	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6544118	Illuminate, Brittany	GENV-3531	GENV 3531 A	06:30PM	09:20PM				Y		James	Burke
+6543379	Study, Erica	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543288	Illuminate, Bradley	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543412	Scholar, Matthew	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6544320	Academic, Elizabeth	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543621	Student, Andrew	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543755	Intern, Christina	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6543755	Intern, Christina	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6544387	Erudite, Katie	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6544609	Study, Molly	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6543414	Apprentice, Jacob	GENV-3811	GENV 3811 A	02:30PM	03:50PM		Y		Y		Leslie	Kern
+6544001	Student, Selena	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6543581	Student, Alexandria	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6543816	Learner, Nicholas	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6544129	Study, Nicole	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6544129	Study, Nicole	GENV-4821	GENV 4821 A	01:00PM	03:50PM		Y				Timothy	Reiffenstein
+6543743	Pupil, Kelsey	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6543743	Pupil, Kelsey	GENV-4821	GENV 4821 A	01:00PM	03:50PM		Y				Timothy	Reiffenstein
+6543920	Academic, Elizabeth	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6544545	Intern, Melissa	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544545	Intern, Melissa	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544545	Intern, Melissa	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543704	Apprentice, Miguel	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544094	Apprentice, Gregory	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543716	Learner, Taylor	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543460	Academic, Juan	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543647	Erudite, Steven	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543775	Intern, Kristen	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543773	Pupil, Vanessa	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544328	Illuminate, Jennifer	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543596	Learner, Cheyenne	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6545028	Illuminate, Justin	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544144	Apprentice, Allison	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544426	Learner, David	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543768	Illuminate, Paige	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544048	Illuminate, Adam	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543870	Academic, Evan	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544065	Intern, Connor	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6545038	Illuminate, Christian	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544977	Erudite, Emma	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543407	Erudite, Grace	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544388	Illuminate, Cassandra	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543784	Apprentice, Briana	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543784	Apprentice, Briana	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543811	Student, Michael	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544303	Pupil, Elijah	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543510	Academic, Noah	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543477	Erudite, Ian	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543889	Study, Mitchell	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544358	Illuminate, Sara	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544015	Intern, Joshua	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543653	Pupil, Patrick	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543545	Intern, Melissa	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544549	Study, Olivia	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6544010	Academic, Alexa	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544503	Pupil, Elijah	BIOL-3201	BIOL 3201 A	09:30AM	10:20AM	Y		Y		Y	Suzanne	Currie
+6543799	Study, Alicia	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544559	Study, Erin	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544630	Academic, William	BIOL-3651	BIOL 3651 A	12:30PM	01:20PM	Y		Y		Y	Diana	Hamilton
+6543927	Erudite, Courtney	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543286	Learner, Jesus	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543895	Intern, Antonio	BIOL-3651	BIOL 3651 A	12:30PM	01:20PM	Y		Y		Y	Diana	Hamilton
+6543965	Intern, Andrea	BIOL-3651	BIOL 3651 A	12:30PM	01:20PM	Y		Y		Y	Diana	Hamilton
+6543679	Study, Taylor	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543400	Academic, Catherine	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543882	Scholar, Kenneth	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544226	Learner, David	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544226	Learner, David	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543741	Student, Anna	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544539	Study, Madison	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544482	Scholar, Kenneth	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544786	Learner, Amy	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544786	Learner, Amy	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543971	Student, Gabrielle	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543971	Student, Gabrielle	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544428	Illuminate, Justin	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543842	Scholar, Eric	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544328	Illuminate, Jennifer	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544063	Pupil, Hunter	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6544063	Pupil, Hunter	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543732	Scholar, Amber	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543539	Study, Madison	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543853	Pupil, Patrick	BIOL-3401	BIOL 3401 A	08:30AM	09:20AM	Y		Y		Y	Ronald	Aiken
+6543325	Intern, Lauren	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544161	Student, Natalie	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544531	Student, Brianna	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544564	Apprentice, Heather	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543239	Study, Jordan	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544487	Erudite, Blake	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6545003	Pupil, Jamie	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544422	Scholar, Joseph	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544200	Academic, Catherine	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543648	Illuminate, Adam	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544581	Student, Alexandria	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544541	Student, Anna	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543671	Student, Trevor	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6544259	Study, Cameron	BIOL-3211	BIOL 3211 A	10:00AM	11:20AM		Y		Y		Suzanne	Currie
+6543250	Academic, Timothy	FINH-3021	FINH 3021 A	11:30AM	12:50PM		Y		Y		Gemey	Kelly
+6543250	Academic, Timothy	FINH-4091	FINH 4091 A	06:00PM	08:50PM		Y				Andrea	Terry
+6543481	Student, Paul	ECON-1001	ECON 1001 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Law
+6543443	Pupil, Samuel	MUSC-1521	MUSC 1521 A	02:30PM	03:20PM	Y		Y		Y	Colleen	Renihan
+6543443	Pupil, Samuel	BIOL-320L	BIOL 320L 2	01:00PM	03:50PM		Y				Suzanne	Currie
+6543464	Apprentice, Caleb	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543464	Apprentice, Caleb	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543464	Apprentice, Caleb	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543464	Apprentice, Caleb	FINA-2401	FINA 2401 A	02:30PM	05:20PM					Y	Paul	Griffin
+				08:30AM	11:20AM					Y		
+6543299	Study, Peter	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543586	Learner, Amy	FREN-3621	FREN 3621 A	09:30AM	10:20AM	Y		Y		Y	Mark	Lee
+6543586	Learner, Amy	GERM-2001	GERM 2001 A	12:30PM	01:20PM	Y		Y		Y	Lisa	Deighton
+				02:30PM	03:20PM			Y				
+				10:30AM	11:20AM	Y						
+				04:30PM	05:20PM	Y						
+6543299	Study, Peter	SOCI-3001	SOCI 3001 A	09:30AM	10:20AM	Y		Y		Y	Fabrizio	Antonelli
+6544411	Student, Michael	ECON-3201	ECON 3201 A	10:30AM	11:20AM	Y		Y		Y	Niels	Anthonisen
+6543226	Learner, David	ECON-3301	ECON 3301 A	08:30AM	09:20AM	Y		Y		Y	Niels	Anthonisen
+6543226	Learner, David	MATH-2211	MATH 2211 A	11:30AM	12:50PM		Y		Y		Catharine	Baker
+6543226	Learner, David	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543226	Learner, David	ECON-4700F	ECON 4700F A	10:00AM	11:20AM		Y		Y		Craig	Brett
+6543405	Intern, Sabrina	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543423	Pupil, John	GENV-1201	GENV 1201 A	11:30AM	12:50PM		Y		Y		Leslie	Kern
+6543423	Pupil, John	ENGL-2701	ENGL 2701 A	01:00PM	02:20PM		Y		Y		Ross	Bullen
+6543423	Pupil, John	ENGL-3871	ENGL 3871 A	08:30AM	09:50AM		Y		Y		Peter	Brown
+6543485	Intern, Ethan	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543485	Intern, Ethan	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543314	Apprentice, Samantha	BIOL-3451	BIOL 3451 A	11:30AM	12:20PM	Y		Y		Y	Ronald	Aiken
+6543314	Apprentice, Samantha	BIOL-345L	BIOL 345L 1	01:30PM	04:20PM	Y					Ronald	Aiken
+6543846	Learner, Brian	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543846	Learner, Brian	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543485	Intern, Ethan	HIST-2411	HIST 2411 A	12:30PM	01:20PM	Y		Y		Y	Denis	McKim
+				01:30PM	02:20PM					Y		
+6543965	Intern, Andrea	BIOL-2301	BIOL 2301 A	10:30AM	11:20AM	Y		Y		Y	Irena	Kaczmarska
+6543965	Intern, Andrea	BIOL-230L	BIOL 230L 2	01:30PM	04:20PM		Y				Irena	Kaczmarska
+6544071	Student, Trevor	COMP-1631	COMP 1631 B	10:30AM	11:20AM	Y		Y		Y	Andrew	Hamilton-Wright
+											Robert	Rosebrugh
+6544071	Student, Trevor	COMP-163L	COMP 163L 2	08:30AM	11:20AM		Y				Laurie	Ricker
+6544071	Student, Trevor	PHYS-4851	PHYS 4851 A	01:00PM	02:20PM		Y		Y		Mohammad	Ahmady
+6544071	Student, Trevor	PHYS-3101	PHYS 3101 A	11:30AM	12:20PM	Y		Y		Y	Zinkoo	Yun
+6544071	Student, Trevor	PHYS-310L	PHYS 310L 1	02:30PM	05:20PM				Y			TBA2
+6543364	Apprentice, Heather	FREN-3101	FREN 3101 A	10:00AM	11:20AM		Y		Y		Valerie	Narayana
+6543485	Intern, Ethan	ENGL-1201	ENGL 1201 F	02:30PM	03:50PM	Y		Y			Karen	Bamford
+6543313	Pupil, Emily	ENGL-2201	ENGL 2201 A	11:30AM	12:50PM		Y		Y		Jake	Morrissey
+6543313	Pupil, Emily	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543272	Scholar, Dustin	FREN-3101	FREN 3101 A	10:00AM	11:20AM		Y		Y		Valerie	Narayana
+6543272	Scholar, Dustin	FREN-3621	FREN 3621 A	09:30AM	10:20AM	Y		Y		Y	Mark	Lee
+6543272	Scholar, Dustin	FREN-3721	FREN 3721 A	11:30AM	12:20PM	Y		Y		Y	Christianne	Bell
+6543272	Scholar, Dustin	FREN-3801	FREN 3801 A	01:00PM	02:20PM		Y		Y		Valerie	Narayana
+6543520	Academic, Elizabeth	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543520	Academic, Elizabeth	FINA-3101	FINA 3101 A	08:30AM	11:20AM	Y		Y			Leah	Garnett
+6543520	Academic, Elizabeth	FINA-3201	FINA 3201 A	08:30AM	11:20AM					Y	Erik	Edson
+				02:30PM	05:20PM					Y		
+6543520	Academic, Elizabeth	FINA-3301	FINA 3301 A	02:30PM	05:20PM	Y		Y			Jerry	Ropson
+6543520	Academic, Elizabeth	FINH-3021	FINH 3021 A	11:30AM	12:50PM		Y		Y		Gemey	Kelly
+6543362	Scholar, Brooke	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543362	Scholar, Brooke	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543362	Scholar, Brooke	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543362	Scholar, Brooke	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543494	Apprentice, Gregory	COMM-3271	COMM 3271 A	09:30AM	12:20PM	Y					Rosemary	Polegato
+6543494	Apprentice, Gregory	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543362	Scholar, Brooke	GENS-1401	GENS 1401 A	10:00AM	11:20AM		Y		Y		Colin	Laroque
+6543362	Scholar, Brooke	GENS-140L	GENS 140L 2	04:00PM	05:20PM		Y				Graham	Clark
+6543433	Pupil, Jonathan	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543433	Pupil, Jonathan	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543400	Academic, Catherine	COMP-1631	COMP 1631 B	10:30AM	11:20AM	Y		Y		Y	Andrew	Hamilton-Wright
+											Robert	Rosebrugh
+6543400	Academic, Catherine	COMP-163L	COMP 163L 3	02:30PM	05:20PM			Y			Laurie	Ricker
+6543355	Intern, Christina	BIOL-2101	BIOL 2101 A	09:30AM	10:20AM	Y		Y		Y	Margaret	Beaton
+6543355	Intern, Christina	BIOL-210L	BIOL 210L 1	01:30PM	04:20PM			Y			Margaret	Beaton
+6543355	Intern, Christina	BIOL-2301	BIOL 2301 A	10:30AM	11:20AM	Y		Y		Y	Irena	Kaczmarska
+6543400	Academic, Catherine	PSYC-3151	PSYC 3151 A	12:30PM	01:20PM	Y		Y		Y	Terry	Belke
+6543400	Academic, Catherine	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543400	Academic, Catherine	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543353	Pupil, Sydney	COMP-3721	COMP 3721 A	01:00PM	02:20PM		Y		Y		Laurie	Ricker
+6543353	Pupil, Sydney	MATH-2211	MATH 2211 A	11:30AM	12:50PM		Y		Y		Catharine	Baker
+6543463	Pupil, Hunter	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6543494	Apprentice, Gregory	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543363	Pupil, Marissa	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6543332	Scholar, Amber	ANTH-3541	ANTH 3541 A	01:30PM	04:20PM					Y	Marilyn	Walker
+6543332	Scholar, Amber	ANTH-4021	ANTH 4021 A	01:00PM	02:20PM		Y		Y		Patricia	Kelly Spurles
+6543332	Scholar, Amber	ANTH-4721	ANTH 4721 A	02:30PM	05:20PM			Y			Robert	Adlam
+6543305	Intern, Chase	FINA-2301	FINA 2301 A	02:30PM	05:20PM		Y		Y		Chris	Down
+6543305	Intern, Chase	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543305	Intern, Chase	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543305	Intern, Chase	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543479	Study, Taylor	HIST-3531	HIST 3531 A	09:30AM	10:20AM	Y		Y		Y	Elaine	Naylor
+6543955	Intern, Christina	ECON-3901	ECON 3901 A	01:30PM	02:20PM	Y		Y		Y	Stephen	Law
+6543955	Intern, Christina	HIST-3001	HIST 3001 A	01:00PM	02:20PM		Y		Y		Robin	Nadeau
+6543955	Intern, Christina	INLR-4101	INLR 4101 A	10:00AM	11:20AM		Y		Y		David	Thomas
+6543365	Intern, Andrea	COMP-3611	COMP 3611 A	10:00AM	11:20AM		Y		Y		Liam	Keliher
+6543365	Intern, Andrea	COMP-3721	COMP 3721 A	01:00PM	02:20PM		Y		Y		Laurie	Ricker
+6543365	Intern, Andrea	COMP-3811	COMP 3811 A	01:30PM	02:20PM	Y		Y		Y	Robert	Rosebrugh
+6543365	Intern, Andrea	COMP-4631	COMP 4631 A	12:30PM	01:20PM	Y		Y		Y	Laurie	Ricker
+6543350	Academic, Mary	FREN-1801	FREN 1801 A	02:30PM	03:50PM		Y		Y		Christina	Ionescu
+6543350	Academic, Mary	RELG-1671	RELG 1671 A	10:30AM	11:20AM	Y		Y		Y	John	Perkin
+6543350	Academic, Mary	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543325	Intern, Lauren	BIOC-4201	BIOC 4201 A	09:30AM	10:20AM	Y		Y		Y	Tyson	MacCormack
+6543446	Learner, Brian	PHYS-4851	PHYS 4851 A	01:00PM	02:20PM		Y		Y		Mohammad	Ahmady
+6543446	Learner, Brian	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543446	Learner, Brian	PHYS-3001	PHYS 3001 A	01:30PM	02:20PM	Y		Y		Y	Anne	Pellerin
+6543446	Learner, Brian	PHYS-300L	PHYS 300L 1	02:30PM	05:20PM			Y			Anne	Pellerin
+6543337	Erudite, Alyssa	JAPA-1001	JAPA 1001 A	10:30AM	11:20AM	Y		Y		Y	Miyako	Oe
+6543337	Erudite, Alyssa	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543337	Erudite, Alyssa	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543547	Erudite, Kimberly	FINA-3401	FINA 3401 A	08:30AM	11:20AM		Y		Y		Ryan	Suter
+6543547	Erudite, Kimberly	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543547	Erudite, Kimberly	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543547	Erudite, Kimberly	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543548	Illuminate, Shelby	HIST-3531	HIST 3531 A	09:30AM	10:20AM	Y		Y		Y	Elaine	Naylor
+6544672	Scholar, Dustin	CHEM-4351	CHEM 4351 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Westcott
+6544672	Scholar, Dustin	GERM-3001	GERM 3001 A	12:30PM	01:20PM	Y		Y		Y	Renata	Schellenberg
+				04:00PM	04:50PM				Y			
+6543472	Scholar, Dustin	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543472	Scholar, Dustin	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543472	Scholar, Dustin	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543472	Scholar, Dustin	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543472	Scholar, Dustin	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543325	Intern, Lauren	BIOL-321L	BIOL 321L 2	01:00PM	03:50PM		Y					
+6543325	Intern, Lauren	CLAS-3601	CLAS 3601 A	08:30AM	09:50AM		Y		Y		Ilaria	Battiloro
+6543548	Illuminate, Shelby	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543558	Illuminate, Sara	ENGL-1111	ENGL 1111 A	02:30PM	03:50PM		Y		Y		Robert	Lapp
+6544156	Learner, Tiffany	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543558	Illuminate, Sara	BIOL-2101	BIOL 2101 A	09:30AM	10:20AM	Y		Y		Y	Margaret	Beaton
+6543558	Illuminate, Sara	BIOL-210L	BIOL 210L 1	01:30PM	04:20PM			Y			Margaret	Beaton
+6543471	Student, Trevor	ENGL-2211	ENGL 2211 A	10:30AM	11:20AM	Y		Y		Y	Karen	Bamford
+6543471	Student, Trevor	RELG-3971	RELG 3971 A	02:30PM	05:20PM	Y					Fiona	Black
+				05:30PM	07:50PM			Y				
+6543563	Pupil, Marissa	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543595	Intern, Angela	CHEM-4351	CHEM 4351 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Westcott
+6543595	Intern, Angela	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543490	Academic, Garrett	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543269	Study, Luis	COMP-261L	COMP 261L 1	02:30PM	05:20PM		Y				Liam	Keliher
+6543391	Student, Caitlin	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543269	Study, Luis	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543269	Study, Luis	PHYS-3001	PHYS 3001 A	01:30PM	02:20PM	Y		Y		Y	Anne	Pellerin
+6543269	Study, Luis	PHYS-300L	PHYS 300L 1	02:30PM	05:20PM			Y			Anne	Pellerin
+6543269	Study, Luis	MATH-3111	MATH 3111 A	10:30AM	11:20AM	Y		Y		Y	Geoffrey	Cruttwell
+6543269	Study, Luis	PHYS-3101	PHYS 3101 A	11:30AM	12:20PM	Y		Y		Y	Zinkoo	Yun
+6543269	Study, Luis	PHYS-310L	PHYS 310L 1	02:30PM	05:20PM				Y			TBA2
+6543421	Student, Andrew	PHIL-1611	PHIL 1611 A	01:00PM	02:20PM		Y		Y		Jane	Dryden
+6543421	Student, Andrew	PHIL-1621	PHIL 1621 A	08:30AM	09:50AM		Y		Y		Robbie	Moser
+6543421	Student, Andrew	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543421	Student, Andrew	PHYS-102L	PHYS 102L 3	04:00PM	05:20PM				Y		Anne	Pellerin
+6543490	Academic, Garrett	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543370	Academic, Sierra	SOCI-3001	SOCI 3001 A	09:30AM	10:20AM	Y		Y		Y	Fabrizio	Antonelli
+6543370	Academic, Sierra	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543370	Academic, Sierra	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543547	Erudite, Kimberly	FINH-4091	FINH 4091 A	06:00PM	08:50PM		Y				Andrea	Terry
+6543502	Scholar, Lucas	ENGL-2201	ENGL 2201 A	11:30AM	12:50PM		Y		Y		Jake	Morrissey
+6543487	Erudite, Blake	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543391	Student, Caitlin	PSYC-1001	PSYC 1001 B	11:30AM	12:20PM	Y		Y		Y	Terry	Belke
+6544560	Academic, Jordan	BIOC-3041	BIOC 3041 A	10:30AM	11:20AM	Y		Y		Y	Jeffrey	Waller
+6543487	Erudite, Blake	CHEM-3231	CHEM 3231 A	08:30AM	09:20AM	Y		Y		Y	Gregory	Sandala
+6544560	Academic, Jordan	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543487	Erudite, Blake	CHEM-323L	CHEM 323L 2	01:00PM	03:50PM				Y		Gregory	Sandala
+6544560	Academic, Jordan	CHEM-3131	CHEM 3131 A	10:00AM	11:20AM		Y		Y		Andrew	Grant
+6544560	Academic, Jordan	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543373	Pupil, Vanessa	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543373	Pupil, Vanessa	PHYS-3001	PHYS 3001 A	01:30PM	02:20PM	Y		Y		Y	Anne	Pellerin
+6543373	Pupil, Vanessa	PHYS-300L	PHYS 300L 1	02:30PM	05:20PM			Y			Anne	Pellerin
+6543373	Pupil, Vanessa	ECON-3301	ECON 3301 A	08:30AM	09:20AM	Y		Y		Y	Niels	Anthonisen
+6543510	Academic, Noah	BIOL-345L	BIOL 345L 1	01:30PM	04:20PM	Y					Ronald	Aiken
+6543510	Academic, Noah	BIOL-320L	BIOL 320L 2	01:00PM	03:50PM		Y				Suzanne	Currie
+6543510	Academic, Noah	BIOL-3451	BIOL 3451 A	11:30AM	12:20PM	Y		Y		Y	Ronald	Aiken
+6543488	Illuminate, Bradley	CLAS-3201	CLAS 3201 A	02:30PM	03:50PM		Y		Y		Ivan	Cohen
+6543488	Illuminate, Bradley	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6544156	Learner, Tiffany	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6544156	Learner, Tiffany	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543488	Illuminate, Bradley	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543515	Intern, Sarah	ECON-3201	ECON 3201 A	10:30AM	11:20AM	Y		Y		Y	Niels	Anthonisen
+6543515	Intern, Sarah	FREN-2401	FREN 2401 C	01:00PM	02:20PM		Y		Y		Monika	Boehringer
+6543515	Intern, Sarah	INLR-4101	INLR 4101 A	10:00AM	11:20AM		Y		Y		David	Thomas
+6543609	Study, Molly	CANA-3431	CANA 3431 A	02:30PM	03:50PM		Y		Y		Andrew	Nurse
+6543609	Study, Molly	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543593	Pupil, Kathryn	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543488	Illuminate, Bradley	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543620	Academic, Austin	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543622	Scholar, Joseph	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543620	Academic, Austin	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543575	Intern, Kristen	RELG-1681	RELG 1681 A	11:30AM	12:50PM		Y		Y		Samuel	Borsman
+6543478	Illuminate, Carlos	SPAN-1101	SPAN 1101 B	09:30AM	10:20AM	Y		Y		Y	Maritza	Farina
+6543478	Illuminate, Carlos	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543575	Intern, Kristen	CHEM-4351	CHEM 4351 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Westcott
+6543478	Illuminate, Carlos	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543575	Intern, Kristen	CHEM-3241	CHEM 3241 A	10:30AM	11:20AM	Y		Y		Y	Gregory	Sandala
+6543317	Erudite, Hannah	FINH-3141	FINH 3141 A	01:30PM	02:50PM	Y		Y			Andrea	Terry
+6543447	Erudite, Steven	LATI-1001	LATI 1001 A	10:30AM	11:20AM	Y		Y		Y	Ilaria	Battiloro
+6543357	Erudite, Chelsea	HIST-2031	HIST 2031 A	08:30AM	09:20AM	Y		Y		Y	William	Wilson
+6543478	Illuminate, Carlos	CHEM-2311	CHEM 2311 A	10:00AM	11:20AM		Y		Y		Glen	Briand
+6543575	Intern, Kristen	CHEM-324L	CHEM 324L 1	01:30PM	04:20PM	Y					Gregory	Sandala
+6543447	Erudite, Steven	RELG-3701	RELG 3701 A	10:00AM	11:20AM		Y		Y		Andrew	Wilson
+6543288	Illuminate, Bradley	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543478	Illuminate, Carlos	CHEM-231L	CHEM 231L 2	01:30PM	04:20PM			Y			Susan	Wheaton
+				01:30PM	04:20PM			Y				
+6543357	Erudite, Chelsea	HIST-3531	HIST 3531 A	09:30AM	10:20AM	Y		Y		Y	Elaine	Naylor
+6543394	Apprentice, Jenna	CLAS-2021	CLAS 2021 A	03:30PM	04:20PM	Y		Y		Y	Robin	Nadeau
+6543394	Apprentice, Jenna	GREK-1001	GREK 1001 A	09:30AM	10:20AM	Y		Y		Y	Ivan	Cohen
+6543297	Erudite, Dalton	COMM-3271	COMM 3271 A	09:30AM	12:20PM	Y					Rosemary	Polegato
+6543394	Apprentice, Jenna	WGST-2001	WGST 2001 A	01:00PM	02:20PM		Y		Y		Marie	Hammond-Callaghan
+6543297	Erudite, Dalton	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543566	Learner, Laura	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543593	Pupil, Kathryn	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543394	Apprentice, Jenna	FINH-3021	FINH 3021 A	11:30AM	12:50PM		Y		Y		Gemey	Kelly
+6543566	Learner, Laura	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6543394	Apprentice, Jenna	FINH-3141	FINH 3141 A	01:30PM	02:50PM	Y		Y			Andrea	Terry
+6543567	Erudite, Miranda	PSYC-2001	PSYC 2001 A	10:00AM	11:20AM		Y		Y		Stephen	Claxton-Oldfield
+6543566	Learner, Laura	ENGL-3551	ENGL 3551 A	01:00PM	02:20PM	Y		Y			Cordula	Quint
+6543474	Apprentice, Jeffrey	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543566	Learner, Laura	SPAN-3331	SPAN 3331 A	02:30PM	03:50PM	Y		Y			Juan Carlos	Martinez
+6543605	Intern, Sabrina	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543457	Erudite, Alex	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543605	Intern, Sabrina	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543457	Erudite, Alex	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543603	Pupil, Jamie	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543603	Pupil, Jamie	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543603	Pupil, Jamie	COMM-3271	COMM 3271 A	09:30AM	12:20PM	Y					Rosemary	Polegato
+6543593	Pupil, Kathryn	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543334	Apprentice, Danielle	DRAM-3151	DRAM 3151 A	01:00PM	02:20PM		Y		Y		Glen	Nichols
+6543567	Erudite, Miranda	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543567	Erudite, Miranda	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543317	Erudite, Hannah	FINH-4091	FINH 4091 A	06:00PM	08:50PM		Y				Andrea	Terry
+6543357	Erudite, Chelsea	BIOL-3511	BIOL 3511 A	11:30AM	12:50PM		Y		Y		Margaret	Beaton
+6543357	Erudite, Chelsea	BIOL-351L	BIOL 351L 1	01:00PM	03:50PM		Y				Margaret	Beaton
+6543447	Erudite, Steven	CLAS-3601	CLAS 3601 A	08:30AM	09:50AM		Y		Y		Ilaria	Battiloro
+6543357	Erudite, Chelsea	CHEM-2111	CHEM 2111 A	12:30PM	01:20PM	Y		Y		Y	Stephen	Westcott
+6543622	Scholar, Joseph	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543407	Erudite, Grace	BIOL-320L	BIOL 320L 1	01:30PM	04:20PM	Y					Suzanne	Currie
+6543567	Erudite, Miranda	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543567	Erudite, Miranda	PSYC-2201	PSYC 2201 A	11:30AM	12:20PM	Y		Y		Y	Jennifer	Tomes
+6543567	Erudite, Miranda	PSYC-220L	PSYC 220L 3	01:00PM	01:50PM				Y		Jennifer	Tomes
+6543450	Academic, Timothy	FINH-3021	FINH 3021 A	11:30AM	12:50PM		Y		Y		Gemey	Kelly
+6543608	Illuminate, Brittney	GENS-1401	GENS 1401 A	10:00AM	11:20AM		Y		Y		Colin	Laroque
+6543608	Illuminate, Brittney	GENS-140L	GENS 140L 1	02:30PM	03:50PM		Y				Graham	Clark
+6543407	Erudite, Grace	WGST-2001	WGST 2001 A	01:00PM	02:20PM		Y		Y		Marie	Hammond-Callaghan
+6543450	Academic, Timothy	FINH-4091	FINH 4091 A	06:00PM	08:50PM		Y				Andrea	Terry
+6543608	Illuminate, Brittney	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543407	Erudite, Grace	WGST-200L	WGST 200L 1	01:00PM	02:20PM		Y		Y		Marie	Hammond-Callaghan
+6543608	Illuminate, Brittney	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543611	Student, Michael	GENS-3401	GENS 3401 B	01:00PM	03:50PM				Y		David	Lieske
+6543407	Erudite, Grace	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543608	Illuminate, Brittney	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543455	Intern, Sean	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543455	Intern, Sean	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543455	Intern, Sean	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543455	Intern, Sean	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543593	Pupil, Kathryn	SOCI-3001	SOCI 3001 A	09:30AM	10:20AM	Y		Y		Y	Fabrizio	Antonelli
+6543495	Intern, Antonio	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543495	Intern, Antonio	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543495	Intern, Antonio	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543317	Erudite, Hannah	HIST-2411	HIST 2411 A	12:30PM	01:20PM	Y		Y		Y	Denis	McKim
+				01:30PM	02:20PM					Y		
+6543611	Student, Michael	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6543450	Academic, Timothy	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543455	Intern, Sean	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543488	Illuminate, Bradley	SPAN-1101	SPAN 1101 B	09:30AM	10:20AM	Y		Y		Y	Maritza	Farina
+6543457	Erudite, Alex	DRAM-2151	DRAM 2151 A	01:00PM	02:20PM	Y		Y			Glen	Nichols
+6543593	Pupil, Kathryn	HIST-2051	HIST 2051 A	12:30PM	01:20PM	Y		Y		Y	Tyson	Sukava
+6543602	Scholar, Caroline	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543436	Learner, Cody	MUSC-1521	MUSC 1521 A	02:30PM	03:20PM	Y		Y		Y	Colleen	Renihan
+6543436	Learner, Cody	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543602	Scholar, Caroline	BIOL-4621	BIOL 4621 A	11:30AM	12:50PM		Y		Y		Vett	Lloyd
+6543288	Illuminate, Bradley	POLS-2101	POLS 2101 A	08:30AM	09:20AM	Y		Y		Y	Mario	Levesque
+6543334	Apprentice, Danielle	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6543620	Academic, Austin	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543602	Scholar, Caroline	COMP-1631	COMP 1631 A	09:30AM	10:20AM	Y		Y		Y	Laurie	Ricker
+6543501	Student, Scott	COMM-3151	COMM 3151 A	01:30PM	02:20PM	Y		Y		Y	Rhonda	McIver
+6543602	Scholar, Caroline	COMP-163L	COMP 163L 2	08:30AM	11:20AM		Y				Laurie	Ricker
+6543295	Intern, Antonio	ENGL-1111	ENGL 1111 A	02:30PM	03:50PM		Y		Y		Robert	Lapp
+6543501	Student, Scott	COMM-3431	COMM 3431 A	06:00PM	08:50PM	Y		Y		Y	Abdal	Khan
+6543501	Student, Scott	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6543295	Intern, Antonio	HIST-2411	HIST 2411 A	12:30PM	01:20PM	Y		Y		Y	Denis	McKim
+				01:30PM	02:20PM					Y		
+6543501	Student, Scott	COMM-4141	COMM 4141 A	02:30PM	03:50PM		Y		Y		Brent	White
+6543239	Study, Jordan	BIOL-321L	BIOL 321L 2	01:00PM	03:50PM		Y					
+6543448	Illuminate, Adam	FINH-2001	FINH 2001 A	01:00PM	02:20PM		Y		Y		Andrea	Terry
+6543448	Illuminate, Adam	ANTH-3021	ANTH 3021 A	08:30AM	09:50AM		Y		Y		Patricia	Kelly Spurles
+6543239	Study, Jordan	BIOL-2101	BIOL 2101 A	09:30AM	10:20AM	Y		Y		Y	Margaret	Beaton
+6543239	Study, Jordan	BIOL-210L	BIOL 210L 3	01:00PM	03:50PM				Y		Margaret	Beaton
+6543602	Scholar, Caroline	PHYS-2801	PHYS 2801 A	10:30AM	11:20AM	Y		Y		Y	Mihai	Gherase
+6543602	Scholar, Caroline	PHYS-280L	PHYS 280L 1	02:30PM	05:20PM					Y	Mihai	Gherase
+6543511	Student, Jessica	MUSC-3401	MUSC 3401 A	11:30AM	12:50PM		Y		Y		Jeffrey	Martin
+6543511	Student, Jessica	POLS-3321	POLS 3321 A	01:00PM	02:20PM		Y		Y		James	Devine
+6543392	Scholar, Lindsey	MUSC-3121	MUSC 3121 A	01:30PM	02:20PM	Y		Y		Y	Kevin	Morse
+6543392	Scholar, Lindsey	MUSC-4501	MUSC 4501 A								Stephen	Runge
+6543295	Intern, Antonio	HIST-4300F	HIST 4300F A	02:30PM	05:20PM	Y					William	Wilson
+6543465	Intern, Connor	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543465	Intern, Connor	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543465	Intern, Connor	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543465	Intern, Connor	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543717	Erudite, Hannah	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543717	Erudite, Hannah	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543717	Erudite, Hannah	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543667	Erudite, Stephen	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543667	Erudite, Stephen	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543667	Erudite, Stephen	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543769	Study, Katelyn	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6543705	Intern, Chase	ANTH-4021	ANTH 4021 A	01:00PM	02:20PM		Y		Y		Patricia	Kelly Spurles
+6543769	Study, Katelyn	COMM-4141	COMM 4141 A	02:30PM	03:50PM		Y		Y		Brent	White
+6543667	Erudite, Stephen	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543769	Study, Katelyn	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543762	Scholar, Brooke	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543769	Study, Katelyn	COMM-3151	COMM 3151 A	01:30PM	02:20PM	Y		Y		Y	Rhonda	McIver
+6543762	Scholar, Brooke	RELG-3971	RELG 3971 A	02:30PM	05:20PM	Y					Fiona	Black
+				05:30PM	07:50PM			Y				
+6543757	Erudite, Chelsea	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543757	Erudite, Chelsea	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543780	Academic, Jacqueline	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543780	Academic, Jacqueline	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543766	Learner, Laura	INLR-4101	INLR 4101 A	10:00AM	11:20AM		Y		Y		David	Thomas
+6543766	Learner, Laura	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543766	Learner, Laura	SPAN-3331	SPAN 3331 A	02:30PM	03:50PM	Y		Y			Juan Carlos	Martinez
+6543641	Student, Benjamin	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543641	Student, Benjamin	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543641	Student, Benjamin	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543788	Illuminate, Cassandra	CLAS-1641	CLAS 1641 A	01:30PM	02:20PM	Y		Y		Y	Ivan	Cohen
+6543710	Academic, Noah	HIST-3531	HIST 3531 A	09:30AM	10:20AM	Y		Y		Y	Elaine	Naylor
+6543788	Illuminate, Cassandra	COMP-1631	COMP 1631 A	09:30AM	10:20AM	Y		Y		Y	Laurie	Ricker
+6543788	Illuminate, Cassandra	COMP-163L	COMP 163L 1	02:30PM	05:20PM	Y					Laurie	Ricker
+6543647	Erudite, Steven	BIOL-2701	BIOL 2701 A	08:30AM	09:20AM	Y		Y		Y	Felix	Baerlocher
+6543710	Academic, Noah	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543788	Illuminate, Cassandra	PHYS-2801	PHYS 2801 A	10:30AM	11:20AM	Y		Y		Y	Mihai	Gherase
+6543695	Intern, Antonio	COMM-3151	COMM 3151 A	01:30PM	02:20PM	Y		Y		Y	Rhonda	McIver
+6543788	Illuminate, Cassandra	PHYS-280L	PHYS 280L 1	02:30PM	05:20PM					Y	Mihai	Gherase
+6543625	Intern, Ryan	ENGL-3011	ENGL 3011 A	01:30PM	02:20PM	Y		Y		Y	Jake	Morrissey
+6543695	Intern, Antonio	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6543745	Intern, Melissa	HIST-2411	HIST 2411 A	12:30PM	01:20PM	Y		Y		Y	Denis	McKim
+				01:30PM	02:20PM					Y		
+6543695	Intern, Antonio	COMM-4141	COMM 4141 A	02:30PM	03:50PM		Y		Y		Brent	White
+6543625	Intern, Ryan	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543759	Study, Erin	POLS-1001	POLS 1001 A	10:30AM	11:20AM	Y		Y		Y	Wayne	Hunt
+6543653	Pupil, Patrick	BIOL-320L	BIOL 320L 1	01:30PM	04:20PM	Y					Suzanne	Currie
+6543695	Intern, Antonio	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543625	Intern, Ryan	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543431	Student, Alexander	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543653	Pupil, Patrick	BIOL-2301	BIOL 2301 A	10:30AM	11:20AM	Y		Y		Y	Irena	Kaczmarska
+6543625	Intern, Ryan	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543653	Pupil, Patrick	BIOL-230L	BIOL 230L 2	01:30PM	04:20PM		Y				Irena	Kaczmarska
+6543759	Study, Erin	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543777	Erudite, Emma	CLAS-3601	CLAS 3601 A	08:30AM	09:50AM		Y		Y		Ilaria	Battiloro
+6543777	Erudite, Emma	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6543759	Study, Erin	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543759	Study, Erin	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543771	Student, Gabrielle	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543787	Erudite, Katie	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543660	Academic, Juan	COMM-3341	COMM 3341 A	10:00AM	11:20AM		Y		Y		Judith	Holton
+6543787	Erudite, Katie	CHEM-2111	CHEM 2111 A	12:30PM	01:20PM	Y		Y		Y	Stephen	Westcott
+6543737	Erudite, Alyssa	CLAS-1641	CLAS 1641 A	01:30PM	02:20PM	Y		Y		Y	Ivan	Cohen
+6543787	Erudite, Katie	CHEM-211L	CHEM 211L 3	01:30PM	04:20PM					Y	Susan	Wheaton
+				01:30PM	04:20PM					Y		
+6543737	Erudite, Alyssa	CLAS-3601	CLAS 3601 A	08:30AM	09:50AM		Y		Y		Ilaria	Battiloro
+6543261	Student, Logan	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543787	Erudite, Katie	CHEM-3241	CHEM 3241 A	10:30AM	11:20AM	Y		Y		Y	Gregory	Sandala
+6543737	Erudite, Alyssa	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543646	Learner, Brian	FREN-1801	FREN 1801 A	02:30PM	03:50PM		Y		Y		Christina	Ionescu
+6543787	Erudite, Katie	CHEM-324L	CHEM 324L 1	01:30PM	04:20PM	Y					Gregory	Sandala
+6543737	Erudite, Alyssa	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543737	Erudite, Alyssa	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543770	Academic, Sierra	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543719	Study, Amanda	PSYC-1001	PSYC 1001 B	11:30AM	12:20PM	Y		Y		Y	Terry	Belke
+6543749	Study, Olivia	FREN-3621	FREN 3621 A	09:30AM	10:20AM	Y		Y		Y	Mark	Lee
+6543647	Erudite, Steven	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543664	Apprentice, Caleb	PHIL-2701	PHIL 2701 A	01:00PM	02:20PM	Y		Y			Robin	Weiss
+6543766	Learner, Laura	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543766	Learner, Laura	MATH-231L	MATH 231L 3	10:30AM	11:20AM			Y			Robert	Sealy
+6543660	Academic, Juan	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543705	Intern, Chase	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543630	Academic, William	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543630	Academic, William	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543630	Academic, William	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543647	Erudite, Steven	CANA-2011	CANA 2011 A	10:00AM	11:20AM		Y				Christl	Verduyn
+6543647	Erudite, Steven	CANA-201L	CANA 201L 1	10:00AM	11:20AM				Y		Christl	Verduyn
+6543749	Study, Olivia	ENGL-3011	ENGL 3011 A	01:30PM	02:20PM	Y		Y		Y	Jake	Morrissey
+6543771	Student, Gabrielle	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543771	Student, Gabrielle	ENGL-3651	ENGL 3651 A	10:00AM	11:20AM		Y		Y		Carrie	MacMillan
+6543730	Academic, Victoria	FREN-3801	FREN 3801 A	01:00PM	02:20PM		Y		Y		Valerie	Narayana
+6543730	Academic, Victoria	FREN-4001	FREN 4001 A	10:00AM	11:20AM		Y		Y		Monika	Boehringer
+6543660	Academic, Juan	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543664	Apprentice, Caleb	PHIL-3731	PHIL 3731 A	02:30PM	03:50PM		Y		Y		Robbie	Moser
+6543705	Intern, Chase	RELG-2831	RELG 2831 A	02:30PM	03:50PM		Y		Y		Andrew	Wilson
+6543456	Learner, Jesse	LATI-1001	LATI 1001 A	10:30AM	11:20AM	Y		Y		Y	Ilaria	Battiloro
+6543456	Learner, Jesse	ANTH-3541	ANTH 3541 A	01:30PM	04:20PM					Y	Marilyn	Walker
+6543456	Learner, Jesse	CLAS-3001	CLAS 3001 A	01:00PM	02:20PM		Y		Y		Robin	Nadeau
+6543456	Learner, Jesse	CLAS-3201	CLAS 3201 A	02:30PM	03:50PM		Y		Y		Ivan	Cohen
+6543730	Academic, Victoria	SPAN-3101	SPAN 3101 A	08:30AM	09:50AM		Y		Y		Lauren	Beck
+6543663	Pupil, Hunter	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543691	Student, Marcus	CANA-2011	CANA 2011 A	10:00AM	11:20AM		Y				Christl	Verduyn
+6543691	Student, Marcus	CANA-201L	CANA 201L 3	10:00AM	11:20AM				Y		Andrew	Nurse
+6543691	Student, Marcus	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6543691	Student, Marcus	COMM-4141	COMM 4141 A	02:30PM	03:50PM		Y		Y		Brent	White
+6543787	Erudite, Katie	CHEM-3321	CHEM 3321 A	11:30AM	12:50PM		Y		Y		Glen	Briand
+6543787	Erudite, Katie	CHEM-332L	CHEM 332L 2	01:30PM	04:20PM			Y			Susan	Wheaton
+6543780	Academic, Jacqueline	GENS-1401	GENS 1401 A	10:00AM	11:20AM		Y		Y		Colin	Laroque
+6543780	Academic, Jacqueline	GENS-140L	GENS 140L 1	02:30PM	03:50PM		Y				Graham	Clark
+6543768	Illuminate, Paige	BIOL-320L	BIOL 320L 2	01:00PM	03:50PM		Y				Suzanne	Currie
+6543768	Illuminate, Paige	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543768	Illuminate, Paige	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543768	Illuminate, Paige	BIOL-3351	BIOL 3351 A	12:30PM	01:20PM	Y		Y		Y	Irena	Kaczmarska
+6543768	Illuminate, Paige	BIOL-335L	BIOL 335L 1	01:30PM	04:20PM	Y					Irena	Kaczmarska
+6543770	Academic, Sierra	POLS-4200F	POLS 4200F A	02:30PM	05:20PM			Y			Wayne	Hunt
+6543749	Study, Olivia	ENGL-3871	ENGL 3871 A	08:30AM	09:50AM		Y		Y		Peter	Brown
+6543663	Pupil, Hunter	CLAS-1641	CLAS 1641 A	01:30PM	02:20PM	Y		Y		Y	Ivan	Cohen
+6543768	Illuminate, Paige	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543663	Pupil, Hunter	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543663	Pupil, Hunter	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543663	Pupil, Hunter	ECON-3301	ECON 3301 A	08:30AM	09:20AM	Y		Y		Y	Niels	Anthonisen
+6543412	Scholar, Matthew	BIOL-3351	BIOL 3351 A	12:30PM	01:20PM	Y		Y		Y	Irena	Kaczmarska
+6543640	Academic, Aaron	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543640	Academic, Aaron	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543412	Scholar, Matthew	BIOL-335L	BIOL 335L 1	01:30PM	04:20PM	Y					Irena	Kaczmarska
+6543722	Scholar, Rachel	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543722	Scholar, Rachel	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543740	Academic, Katherine	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543740	Academic, Katherine	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543722	Scholar, Rachel	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543705	Intern, Chase	ANTH-3541	ANTH 3541 A	01:30PM	04:20PM					Y	Marilyn	Walker
+6543740	Academic, Katherine	ENGL-1111	ENGL 1111 A	02:30PM	03:50PM		Y		Y		Robert	Lapp
+6543740	Academic, Katherine	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543633	Pupil, Jonathan	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543628	Illuminate, Justin	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543628	Illuminate, Justin	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543587	Erudite, Katie	MATH-3031	MATH 3031 A	01:00PM	02:20PM		Y		Y		Catharine	Baker
+6543587	Erudite, Katie	MATH-3111	MATH 3111 A	10:30AM	11:20AM	Y		Y		Y	Geoffrey	Cruttwell
+6543587	Erudite, Katie	MATH-3211	MATH 3211 A	08:30AM	09:20AM	Y		Y		Y	Mark	Hamilton
+6543587	Erudite, Katie	PHIL-3731	PHIL 3731 A	02:30PM	03:50PM		Y		Y		Robbie	Moser
+6543674	Apprentice, Jeffrey	MUSC-2141	MUSC 2141 A	01:00PM	02:20PM		Y		Y		Kevin	Morse
+6543674	Apprentice, Jeffrey	MUSC-3991	MUSC 3991 A	02:30PM	03:50PM		Y		Y		Helen	Pridmore
+6543490	Academic, Garrett	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6543409	Study, Molly	MUSC-1001	MUSC 1001 A	01:30PM	02:20PM	Y		Y		Y	Danise	Ferguson
+6543409	Study, Molly	COMP-3721	COMP 3721 A	01:00PM	02:20PM		Y		Y		Laurie	Ricker
+6543771	Student, Gabrielle	ENGL-3011	ENGL 3011 A	01:30PM	02:20PM	Y		Y		Y	Jake	Morrissey
+6543392	Scholar, Lindsey	ENGL-3651	ENGL 3651 A	10:00AM	11:20AM		Y		Y		Carrie	MacMillan
+6543392	Scholar, Lindsey	ENGL-3811	ENGL 3811 A	11:30AM	12:20PM	Y		Y		Y	Terrence	Craig
+6543601	Student, Selena	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543483	Pupil, Nathaniel	ENGL-2701	ENGL 2701 A	01:00PM	02:20PM		Y		Y		Ross	Bullen
+6543483	Pupil, Nathaniel	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543483	Pupil, Nathaniel	ENGL-3871	ENGL 3871 A	08:30AM	09:50AM		Y		Y		Peter	Brown
+6543732	Scholar, Amber	CLAS-2051	CLAS 2051 A	12:30PM	01:20PM	Y		Y		Y	Tyson	Sukava
+6543732	Scholar, Amber	BIOL-340L	BIOL 340L 1	01:30PM	04:20PM			Y			Ronald	Aiken
+6543732	Scholar, Amber	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543732	Scholar, Amber	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543732	Scholar, Amber	BIOL-3111	BIOL 3111 A	08:30AM	09:50AM		Y		Y		Felix	Baerlocher
+6543700	Academic, Victor	HIST-2021	HIST 2021 A	03:30PM	04:20PM	Y		Y		Y	Robin	Nadeau
+6543700	Academic, Victor	HIST-2031	HIST 2031 A	08:30AM	09:20AM	Y		Y		Y	William	Wilson
+6543732	Scholar, Amber	BIOL-311L	BIOL 311L 1	01:00PM	03:50PM		Y				Felix	Baerlocher
+6543707	Erudite, Seth	GENV-3201	GENV 3201 A	08:30AM	09:50AM		Y		Y		Bradley	Walters
+6543682	Scholar, Kenneth	MATH-3031	MATH 3031 A	01:00PM	02:20PM		Y		Y		Catharine	Baker
+6543396	Learner, Cheyenne	GENV-4101	GENV 4101 A	06:30PM	09:20PM		Y				Bradley	Walters
+6543848	Illuminate, Adam	PSYC-3151	PSYC 3151 A	12:30PM	01:20PM	Y		Y		Y	Terry	Belke
+6543318	Illuminate, Brittany	COMM-3111	COMM 3111 A	12:30PM	01:20PM	Y		Y		Y	Rhonda	McIver
+6543834	Apprentice, Kyle	PSYC-3151	PSYC 3151 A	12:30PM	01:20PM	Y		Y		Y	Terry	Belke
+6543901	Student, Scott	DRAM-2151	DRAM 2151 A	01:00PM	02:20PM	Y		Y			Glen	Nichols
+6543870	Academic, Evan	MUSC-1001	MUSC 1001 A	01:30PM	02:20PM	Y		Y		Y	Danise	Ferguson
+6543834	Apprentice, Kyle	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543901	Student, Scott	FREN-3721	FREN 3721 A	11:30AM	12:20PM	Y		Y		Y	Christianne	Bell
+6543901	Student, Scott	FREN-3801	FREN 3801 A	01:00PM	02:20PM		Y		Y		Valerie	Narayana
+6543870	Academic, Evan	BIOL-320L	BIOL 320L 2	01:00PM	03:50PM		Y				Suzanne	Currie
+6543901	Student, Scott	FREN-4001	FREN 4001 A	10:00AM	11:20AM		Y		Y		Monika	Boehringer
+6543870	Academic, Evan	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543966	Learner, Laura	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543966	Learner, Laura	MUSC-3311	MUSC 3311 A	10:00AM	11:20AM		Y		Y		Jeffrey	Martin
+6543809	Study, Molly	HIST-3531	HIST 3531 A	09:30AM	10:20AM	Y		Y		Y	Elaine	Naylor
+6543898	Illuminate, Edward	BIOL-3111	BIOL 3111 A	08:30AM	09:50AM		Y		Y		Felix	Baerlocher
+6543898	Illuminate, Edward	BIOL-311L	BIOL 311L 1	01:00PM	03:50PM		Y				Felix	Baerlocher
+6543639	Study, Jordan	MUSC-3141	MUSC 3141 A	04:00PM	05:20PM		Y				Kevin	Morse
+6543910	Academic, Noah	PSYC-1001	PSYC 1001 B	11:30AM	12:20PM	Y		Y		Y	Terry	Belke
+6543931	Student, Brianna	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543910	Academic, Noah	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543931	Student, Brianna	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543925	Intern, Lauren	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543954	Apprentice, Maria	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543910	Academic, Noah	BIOL-4201	BIOL 4201 A	09:30AM	10:20AM	Y		Y		Y	Tyson	MacCormack
+6543931	Student, Brianna	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543848	Illuminate, Adam	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543954	Apprentice, Maria	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543910	Academic, Noah	FREN-2401	FREN 2401 B	10:30AM	11:20AM	Y		Y		Y	Christianne	Bell
+6543870	Academic, Evan	PSYC-1001	PSYC 1001 B	11:30AM	12:20PM	Y		Y		Y	Terry	Belke
+6543954	Apprentice, Maria	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543848	Illuminate, Adam	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543882	Scholar, Kenneth	BIOL-340L	BIOL 340L 1	01:30PM	04:20PM			Y			Ronald	Aiken
+6543882	Scholar, Kenneth	BIOL-3111	BIOL 3111 A	08:30AM	09:50AM		Y		Y		Felix	Baerlocher
+6543924	Apprentice, Alexis	PHIL-3101	PHIL 3101 A	02:30PM	03:50PM	Y		Y			Robbie	Moser
+6543882	Scholar, Kenneth	BIOL-311L	BIOL 311L 1	01:00PM	03:50PM		Y				Felix	Baerlocher
+6543924	Apprentice, Alexis	PHIL-3731	PHIL 3731 A	02:30PM	03:50PM		Y		Y		Robbie	Moser
+6543882	Scholar, Kenneth	BIOL-3411	BIOL 3411 A	11:30AM	12:50PM		Y		Y		Matthew	Litvak
+6543918	Illuminate, Brittany	FREN-2401	FREN 2401 A	08:30AM	09:20AM	Y		Y		Y	Christianne	Bell
+6543918	Illuminate, Brittany	INLR-4101	INLR 4101 A	10:00AM	11:20AM		Y		Y		David	Thomas
+6543882	Scholar, Kenneth	BIOL-341L	BIOL 341L 1	01:30PM	04:20PM				Y		Matthew	Litvak
+6543928	Illuminate, Jennifer	ANTH-3541	ANTH 3541 A	01:30PM	04:20PM					Y	Marilyn	Walker
+6543928	Illuminate, Jennifer	DRAM-3151	DRAM 3151 A	01:00PM	02:20PM		Y		Y		Glen	Nichols
+6543962	Scholar, Brooke	PSYC-3151	PSYC 3151 A	12:30PM	01:20PM	Y		Y		Y	Terry	Belke
+6543928	Illuminate, Jennifer	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6543895	Intern, Antonio	BIOL-3411	BIOL 3411 A	11:30AM	12:50PM		Y		Y		Matthew	Litvak
+6543962	Scholar, Brooke	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543895	Intern, Antonio	BIOL-341L	BIOL 341L 1	01:30PM	04:20PM				Y		Matthew	Litvak
+6543962	Scholar, Brooke	SOCI-2121	SOCI 2121 A	10:00AM	11:20AM		Y		Y		Morgan	Poteet
+6543805	Intern, Sabrina	MATH-3031	MATH 3031 A	01:00PM	02:20PM		Y		Y		Catharine	Baker
+6543809	Study, Molly	CLAS-3601	CLAS 3601 A	08:30AM	09:50AM		Y		Y		Ilaria	Battiloro
+6543809	Study, Molly	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543882	Scholar, Kenneth	CANA-2011	CANA 2011 A	10:00AM	11:20AM		Y				Christl	Verduyn
+6543882	Scholar, Kenneth	CANA-201L	CANA 201L 1	10:00AM	11:20AM				Y		Christl	Verduyn
+6543764	Apprentice, Heather	MATH-3031	MATH 3031 A	01:00PM	02:20PM		Y		Y		Catharine	Baker
+6543764	Apprentice, Heather	MATH-3111	MATH 3111 A	10:30AM	11:20AM	Y		Y		Y	Geoffrey	Cruttwell
+6543858	Illuminate, Jeremy	CHEM-3111	CHEM 3111 A	12:30PM	01:20PM	Y		Y		Y	Andrew	Grant
+6543764	Apprentice, Heather	MATH-3211	MATH 3211 A	08:30AM	09:20AM	Y		Y		Y	Mark	Hamilton
+6543858	Illuminate, Jeremy	CHEM-311L	CHEM 311L 1	01:30PM	04:20PM					Y	Andrew	Grant
+6543918	Illuminate, Brittany	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543861	Student, Logan	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543764	Apprentice, Heather	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543884	Apprentice, Corey	ENGL-2201	ENGL 2201 A	11:30AM	12:50PM		Y		Y		Jake	Morrissey
+6543861	Student, Logan	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543884	Apprentice, Corey	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543861	Student, Logan	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543915	Intern, Sarah	HIST-1641	HIST 1641 A	02:30PM	03:50PM	Y		Y			William	Lundell
+6543884	Apprentice, Corey	ENGL-3871	ENGL 3871 A	08:30AM	09:50AM		Y		Y		Peter	Brown
+6543682	Scholar, Kenneth	PHYS-3701	PHYS 3701 A	12:30PM	01:20PM	Y		Y		Y	Ralf	Bruning
+6543915	Intern, Sarah	HIST-2411	HIST 2411 A	12:30PM	01:20PM	Y		Y		Y	Denis	McKim
+				01:30PM	02:20PM					Y		
+6543682	Scholar, Kenneth	PHYS-370L	PHYS 370L 1	02:30PM	05:20PM					Y	Ralf	Bruning
+6543816	Learner, Nicholas	RELG-1671	RELG 1671 A	10:30AM	11:20AM	Y		Y		Y	John	Perkin
+6543915	Intern, Sarah	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543707	Erudite, Seth	POLS-3200F	POLS 3200F A	02:30PM	05:20PM	Y					Wayne	Hunt
+6543915	Intern, Sarah	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543915	Intern, Sarah	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543895	Intern, Antonio	WGST-3001	WGST 3001 A	10:00AM	11:20AM		Y		Y		Marie	Hammond-Callaghan
+6543700	Academic, Victor	HIST-2511	HIST 2511 A	11:30AM	12:20PM	Y		Y		Y	Elaine	Naylor
+				11:30AM	12:20PM					Y		
+				11:30AM	12:20PM					Y		
+6543919	Study, Amanda	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543893	Pupil, Derek	ECON-1001	ECON 1001 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Law
+6543919	Study, Amanda	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543523	Pupil, Megan	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6543900	Academic, Victor	PHYS-4851	PHYS 4851 A	01:00PM	02:20PM		Y		Y		Mohammad	Ahmady
+6543879	Study, Taylor	COMM-3271	COMM 3271 A	09:30AM	12:20PM	Y					Rosemary	Polegato
+6543808	Illuminate, Brittney	GERM-2811	GERM 2811 A	01:00PM	02:20PM		Y		Y		Renata	Schellenberg
+6543808	Illuminate, Brittney	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543686	Learner, Jesus	COMM-3501	COMM 3501 B	01:00PM	02:20PM		Y		Y		Timothy	Hynes
+6543925	Intern, Lauren	POLS-3321	POLS 3321 A	01:00PM	02:20PM		Y		Y		James	Devine
+6543686	Learner, Jesus	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543686	Learner, Jesus	ECON-3201	ECON 3201 A	10:30AM	11:20AM	Y		Y		Y	Niels	Anthonisen
+6543686	Learner, Jesus	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6543879	Study, Taylor	SPAN-3331	SPAN 3331 A	02:30PM	03:50PM	Y		Y			Juan Carlos	Martinez
+6543847	Erudite, Steven	PHYS-1051	PHYS 1051 A	10:00AM	11:20AM		Y		Y		David	Hornidge
+6543921	Student, Kayla	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543921	Student, Kayla	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543921	Student, Kayla	POLS-3321	POLS 3321 A	01:00PM	02:20PM		Y		Y		James	Devine
+6543834	Apprentice, Kyle	PSYC-2101	PSYC 2101 A	09:30AM	10:20AM	Y		Y		Y	Lisa	Hamilton
+6543834	Apprentice, Kyle	PSYC-210L	PSYC 210L 1	01:00PM	01:50PM		Y				Lisa	Hamilton
+6543919	Study, Amanda	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543847	Erudite, Steven	CHEM-3111	CHEM 3111 A	12:30PM	01:20PM	Y		Y		Y	Andrew	Grant
+6543847	Erudite, Steven	CHEM-311L	CHEM 311L 1	01:30PM	04:20PM					Y	Andrew	Grant
+6543805	Intern, Sabrina	PSYC-1001	PSYC 1001 B	11:30AM	12:20PM	Y		Y		Y	Terry	Belke
+6543805	Intern, Sabrina	MUSC-3121	MUSC 3121 A	01:30PM	02:20PM	Y		Y		Y	Kevin	Morse
+6543847	Erudite, Steven	CHEM-3231	CHEM 3231 A	08:30AM	09:20AM	Y		Y		Y	Gregory	Sandala
+6543847	Erudite, Steven	CHEM-323L	CHEM 323L 2	01:00PM	03:50PM				Y		Gregory	Sandala
+6543919	Study, Amanda	GENS-1401	GENS 1401 A	10:00AM	11:20AM		Y		Y		Colin	Laroque
+6543919	Study, Amanda	GENS-140L	GENS 140L 1	02:30PM	03:50PM		Y				Graham	Clark
+6543523	Pupil, Megan	HIST-4300F	HIST 4300F A	02:30PM	05:20PM	Y					William	Wilson
+6543847	Erudite, Steven	CHEM-3321	CHEM 3321 A	11:30AM	12:50PM		Y		Y		Glen	Briand
+6543847	Erudite, Steven	CHEM-332L	CHEM 332L 2	01:30PM	04:20PM			Y			Susan	Wheaton
+6543921	Student, Kayla	POLS-4200F	POLS 4200F A	02:30PM	05:20PM			Y			Wayne	Hunt
+6543925	Intern, Lauren	SPAN-1101	SPAN 1101 D	11:30AM	12:50PM		Y		Y		Lauren	Beck
+6543863	Pupil, Hunter	CHEM-3131	CHEM 3131 A	10:00AM	11:20AM		Y		Y		Andrew	Grant
+6543898	Illuminate, Edward	BIOC-3031	BIOC 3031 B	01:30PM	05:20PM					Y	Jeffrey	Waller
+6543448	Illuminate, Adam	ANTH-3541	ANTH 3541 A	01:30PM	04:20PM					Y	Marilyn	Walker
+6543327	Erudite, Courtney	RELG-3701	RELG 3701 A	10:00AM	11:20AM		Y		Y		Andrew	Wilson
+6543930	Academic, Victoria	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543930	Academic, Victoria	MATH-231L	MATH 231L 2	09:30AM	10:20AM			Y			Robert	Sealy
+6543930	Academic, Victoria	MATH-2211	MATH 2211 A	11:30AM	12:50PM		Y		Y		Catharine	Baker
+6543811	Student, Michael	BIOL-320L	BIOL 320L 2	01:00PM	03:50PM		Y				Suzanne	Currie
+6543811	Student, Michael	BIOL-3411	BIOL 3411 A	11:30AM	12:50PM		Y		Y		Matthew	Litvak
+6543811	Student, Michael	BIOL-341L	BIOL 341L 1	01:30PM	04:20PM				Y		Matthew	Litvak
+6543802	Scholar, Caroline	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543858	Illuminate, Jeremy	LATI-1001	LATI 1001 A	10:30AM	11:20AM	Y		Y		Y	Ilaria	Battiloro
+6543954	Apprentice, Maria	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543799	Study, Alicia	BIOL-340L	BIOL 340L 1	01:30PM	04:20PM			Y			Ronald	Aiken
+6543664	Apprentice, Caleb	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543818	Illuminate, Brandon	BIOC-3521	BIOC 3521 A	11:30AM	12:50PM		Y		Y		Tyson	MacCormack
+6543818	Illuminate, Brandon	BIOC-352L	BIOC 352L 2	01:00PM	03:50PM				Y		Tyson	MacCormack
+6543818	Illuminate, Brandon	BIOL-3111	BIOL 3111 A	08:30AM	09:50AM		Y		Y		Felix	Baerlocher
+6543818	Illuminate, Brandon	BIOL-311L	BIOL 311L 1	01:00PM	03:50PM		Y				Felix	Baerlocher
+6543902	Scholar, Lucas	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543902	Scholar, Lucas	ENGL-3811	ENGL 3811 A	11:30AM	12:20PM	Y		Y		Y	Terrence	Craig
+6543902	Scholar, Lucas	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543834	Apprentice, Kyle	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543498	Illuminate, Edward	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6543834	Apprentice, Kyle	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543886	Learner, Jesus	FREN-3621	FREN 3621 A	09:30AM	10:20AM	Y		Y		Y	Mark	Lee
+6543886	Learner, Jesus	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543886	Learner, Jesus	HIST-3431	HIST 3431 A	01:00PM	02:20PM		Y		Y		Kathleen	Lord
+6543802	Scholar, Caroline	WGST-2001	WGST 2001 A	01:00PM	02:20PM		Y		Y		Marie	Hammond-Callaghan
+6543818	Illuminate, Brandon	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543385	Intern, Breanna	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6543385	Intern, Breanna	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6543524	Apprentice, Alexis	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543524	Apprentice, Alexis	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543524	Apprentice, Alexis	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543524	Apprentice, Alexis	MATH-1011	MATH 1011 A	08:30AM	09:50AM		Y		Y		Catharine	Baker
+6543524	Apprentice, Alexis	MATH-101L	MATH 101L 1	02:30PM	03:50PM	Y					Catharine	Baker
+6543524	Apprentice, Alexis	ENGL-1111	ENGL 1111 A	02:30PM	03:50PM		Y		Y		Robert	Lapp
+6543956	Learner, Tiffany	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543956	Learner, Tiffany	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543956	Learner, Tiffany	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543644	Apprentice, Dylan	HIST-2031	HIST 2031 A	08:30AM	09:20AM	Y		Y		Y	William	Wilson
+6543644	Apprentice, Dylan	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543696	Learner, Tanner	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543673	Pupil, Jared	CLAS-1641	CLAS 1641 A	01:30PM	02:20PM	Y		Y		Y	Ivan	Cohen
+6543673	Pupil, Jared	CLAS-3201	CLAS 3201 A	02:30PM	03:50PM		Y		Y		Ivan	Cohen
+6543673	Pupil, Jared	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6543673	Pupil, Jared	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543971	Student, Gabrielle	BIOL-321L	BIOL 321L 2	01:00PM	03:50PM		Y					
+6543971	Student, Gabrielle	BIOL-340L	BIOL 340L 2	01:00PM	03:50PM				Y		Ronald	Aiken
+6543913	Pupil, Emily	PSYC-3151	PSYC 3151 A	12:30PM	01:20PM	Y		Y		Y	Terry	Belke
+6543971	Student, Gabrielle	SPAN-1101	SPAN 1101 C	11:30AM	12:20PM	Y		Y		Y	Maritza	Farina
+6543913	Pupil, Emily	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543913	Pupil, Emily	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6544063	Pupil, Hunter	BIOL-321L	BIOL 321L 2	01:00PM	03:50PM		Y					
+6543911	Student, Jessica	ANTH-4021	ANTH 4021 A	01:00PM	02:20PM		Y		Y		Patricia	Kelly Spurles
+6544063	Pupil, Hunter	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543911	Student, Jessica	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543976	Learner, Destiny	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543976	Learner, Destiny	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543976	Learner, Destiny	SOCI-2121	SOCI 2121 A	10:00AM	11:20AM		Y		Y		Morgan	Poteet
+6543411	Student, Michael	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543377	Erudite, Emma	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6544057	Erudite, Alex	RELG-1671	RELG 1671 A	10:30AM	11:20AM	Y		Y		Y	John	Perkin
+6543411	Student, Michael	FREN-3101	FREN 3101 A	10:00AM	11:20AM		Y		Y		Valerie	Narayana
+6544057	Erudite, Alex	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6544014	Apprentice, Jacob	ENGL-3011	ENGL 3011 A	01:30PM	02:20PM	Y		Y		Y	Jake	Morrissey
+6543411	Student, Michael	FREN-3621	FREN 3621 A	09:30AM	10:20AM	Y		Y		Y	Mark	Lee
+6544014	Apprentice, Jacob	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6544014	Apprentice, Jacob	ENGL-3811	ENGL 3811 A	11:30AM	12:20PM	Y		Y		Y	Terrence	Craig
+6543402	Scholar, Caroline	GREK-1001	GREK 1001 A	09:30AM	10:20AM	Y		Y		Y	Ivan	Cohen
+6544014	Apprentice, Jacob	ENGL-3871	ENGL 3871 A	08:30AM	09:50AM		Y		Y		Peter	Brown
+6543402	Scholar, Caroline	RELG-1671	RELG 1671 A	10:30AM	11:20AM	Y		Y		Y	John	Perkin
+6543402	Scholar, Caroline	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543988	Illuminate, Cassandra	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6544088	Illuminate, Bradley	COMM-3271	COMM 3271 A	09:30AM	12:20PM	Y					Rosemary	Polegato
+6543393	Pupil, Kathryn	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6544088	Illuminate, Bradley	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543393	Pupil, Kathryn	COMM-4141	COMM 4141 A	02:30PM	03:50PM		Y		Y		Brent	White
+6544088	Illuminate, Bradley	FINH-3021	FINH 3021 A	11:30AM	12:50PM		Y		Y		Gemey	Kelly
+6543393	Pupil, Kathryn	COMM-4531	COMM 4531 A	09:30AM	12:20PM			Y			Nauman	Farooqi
+6543379	Study, Erica	GENS-1401	GENS 1401 A	10:00AM	11:20AM		Y		Y		Colin	Laroque
+6543379	Study, Erica	GENS-140L	GENS 140L 3	02:30PM	03:50PM			Y			Graham	Clark
+6543379	Study, Erica	SOCI-3231	SOCI 3231 A	04:00PM	05:20PM		Y		Y		Vanessa	Oliver
+6543379	Study, Erica	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543983	Pupil, Shannon	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543379	Study, Erica	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543983	Pupil, Shannon	ECON-3901	ECON 3901 A	01:30PM	02:20PM	Y		Y		Y	Stephen	Law
+6543993	Pupil, Kathryn	MATH-3031	MATH 3031 A	01:00PM	02:20PM		Y		Y		Catharine	Baker
+6543993	Pupil, Kathryn	MATH-3211	MATH 3211 A	08:30AM	09:20AM	Y		Y		Y	Mark	Hamilton
+6543386	Learner, Amy	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543988	Illuminate, Cassandra	SPAN-3311	SPAN 3311 A	10:30AM	11:20AM	Y		Y		Y	Juan Carlos	Martinez
+6543377	Erudite, Emma	ECON-4700F	ECON 4700F A	10:00AM	11:20AM		Y		Y		Craig	Brett
+6543976	Learner, Destiny	COMM-1011	COMM 1011 A	01:00PM	02:20PM		Y		Y		William	Waterman
+6543685	Intern, Ethan	CHEM-3131	CHEM 3131 A	10:00AM	11:20AM		Y		Y		Andrew	Grant
+6544150	Academic, Mary	BIOL-3511	BIOL 3511 A	11:30AM	12:50PM		Y		Y		Margaret	Beaton
+6544040	Academic, Aaron	RELG-1671	RELG 1671 A	10:30AM	11:20AM	Y		Y		Y	John	Perkin
+6544150	Academic, Mary	BIOL-351L	BIOL 351L 1	01:00PM	03:50PM		Y				Margaret	Beaton
+6544036	Learner, Cody	MUSC-3311	MUSC 3311 A	10:00AM	11:20AM		Y		Y		Jeffrey	Martin
+6544040	Academic, Aaron	BIOL-320L	BIOL 320L 2	01:00PM	03:50PM		Y				Suzanne	Currie
+6544036	Learner, Cody	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543979	Study, Erica	FREN-1801	FREN 1801 A	02:30PM	03:50PM		Y		Y		Christina	Ionescu
+6543911	Student, Jessica	ANTH-3821	ANTH 3821 A	09:30AM	10:20AM	Y		Y		Y	Robert	Adlam
+6543989	Study, Madeline	SOCI-1001	SOCI 1001 A	10:00AM	11:20AM		Y		Y		Erin	Steuter
+6543811	Student, Michael	PHIL-1621	PHIL 1621 A	08:30AM	09:50AM		Y		Y		Robbie	Moser
+6544063	Pupil, Hunter	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543993	Pupil, Kathryn	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543818	Illuminate, Brandon	BIOL-4201	BIOL 4201 A	09:30AM	10:20AM	Y		Y		Y	Tyson	MacCormack
+6543993	Pupil, Kathryn	PHIL-3731	PHIL 3731 A	02:30PM	03:50PM		Y		Y		Robbie	Moser
+6544122	Scholar, Rachel	ANTH-3821	ANTH 3821 A	09:30AM	10:20AM	Y		Y		Y	Robert	Adlam
+6543685	Intern, Ethan	CHEM-4351	CHEM 4351 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Westcott
+6543889	Study, Mitchell	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543879	Study, Taylor	FREN-1801	FREN 1801 A	02:30PM	03:50PM		Y		Y		Christina	Ionescu
+6543393	Pupil, Kathryn	MUSC-1001	MUSC 1001 A	01:30PM	02:20PM	Y		Y		Y	Danise	Ferguson
+6543406	Learner, Bailey	BIOL-3111	BIOL 3111 A	08:30AM	09:50AM		Y		Y		Felix	Baerlocher
+6543406	Learner, Bailey	BIOL-311L	BIOL 311L 1	01:00PM	03:50PM		Y				Felix	Baerlocher
+6543655	Intern, Sean	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6543655	Intern, Sean	FINA-4801	FINA 4801 A								Thaddeus	Holownia
+6543655	Intern, Sean	FINA-4821	FINA 4821 A								Thaddeus	Holownia
+6543655	Intern, Sean	FINH-4091	FINH 4091 A	06:00PM	08:50PM		Y				Andrea	Terry
+6543989	Study, Madeline	PHIL-2511	PHIL 2511 A	02:30PM	03:50PM		Y		Y		Mark	Fedyk
+6543568	Illuminate, Paige	SPAN-3101	SPAN 3101 A	08:30AM	09:50AM		Y		Y		Lauren	Beck
+6543889	Study, Mitchell	PHYS-102L	PHYS 102L 3	04:00PM	05:20PM				Y		Anne	Pellerin
+6544040	Academic, Aaron	BIOL-3451	BIOL 3451 A	11:30AM	12:20PM	Y		Y		Y	Ronald	Aiken
+6544040	Academic, Aaron	BIOL-345L	BIOL 345L 1	01:30PM	04:20PM	Y					Ronald	Aiken
+6544063	Pupil, Hunter	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543406	Learner, Bailey	CLAS-2051	CLAS 2051 A	12:30PM	01:20PM	Y		Y		Y	Tyson	Sukava
+6544003	Pupil, Jamie	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6544150	Academic, Mary	PSYC-1001	PSYC 1001 B	11:30AM	12:20PM	Y		Y		Y	Terry	Belke
+6543835	Intern, Kevin	COMM-3501	COMM 3501 A	08:30AM	09:50AM		Y		Y		Timothy	Hynes
+6543835	Intern, Kevin	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6543835	Intern, Kevin	ECON-3201	ECON 3201 A	10:30AM	11:20AM	Y		Y		Y	Niels	Anthonisen
+6544024	Apprentice, Zachary	ENGL-3651	ENGL 3651 A	10:00AM	11:20AM		Y		Y		Carrie	MacMillan
+6544024	Apprentice, Zachary	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6544024	Apprentice, Zachary	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6544003	Pupil, Jamie	SOCI-2121	SOCI 2121 A	10:00AM	11:20AM		Y		Y		Morgan	Poteet
+6544025	Intern, Ryan	GENV-2201	GENV 2201 A	10:00AM	11:20AM		Y		Y		Timothy	Reiffenstein
+6544025	Intern, Ryan	FINH-3141	FINH 3141 A	01:30PM	02:50PM	Y		Y			Andrea	Terry
+6544025	Intern, Ryan	FINH-4091	FINH 4091 A	06:00PM	08:50PM		Y				Andrea	Terry
+6543378	Illuminate, Savannah	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543378	Illuminate, Savannah	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543413	Pupil, Christopher	DRAM-3161	DRAM 3161 A	11:30AM	12:50PM		Y		Y		Decima	Mitchell
+6543685	Intern, Ethan	CHEM-3241	CHEM 3241 A	10:30AM	11:20AM	Y		Y		Y	Gregory	Sandala
+6543685	Intern, Ethan	CHEM-324L	CHEM 324L 1	01:30PM	04:20PM	Y					Gregory	Sandala
+6543440	Academic, Aaron	ENGL-2211	ENGL 2211 A	10:30AM	11:20AM	Y		Y		Y	Karen	Bamford
+6543440	Academic, Aaron	ENGL-3871	ENGL 3871 A	08:30AM	09:50AM		Y		Y		Peter	Brown
+6543440	Academic, Aaron	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6544022	Scholar, Joseph	ECON-3201	ECON 3201 A	10:30AM	11:20AM	Y		Y		Y	Niels	Anthonisen
+6543355	Intern, Christina	BIOL-2701	BIOL 2701 A	08:30AM	09:20AM	Y		Y		Y	Felix	Baerlocher
+6543513	Pupil, Emily	PHIL-3101	PHIL 3101 A	02:30PM	03:50PM	Y		Y			Robbie	Moser
+6544150	Academic, Mary	GENS-1401	GENS 1401 A	10:00AM	11:20AM		Y		Y		Colin	Laroque
+6543440	Academic, Aaron	ENGL-3811	ENGL 3811 A	11:30AM	12:20PM	Y		Y		Y	Terrence	Craig
+6544044	Apprentice, Dylan	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6544044	Apprentice, Dylan	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543588	Illuminate, Cassandra	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543588	Illuminate, Cassandra	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543741	Student, Anna	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543741	Student, Anna	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543709	Study, Shawn	CANA-2011	CANA 2011 A	10:00AM	11:20AM		Y				Christl	Verduyn
+6543657	Erudite, Alex	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543709	Study, Shawn	CANA-201L	CANA 201L 3	10:00AM	11:20AM				Y		Andrew	Nurse
+6543842	Scholar, Eric	ENGL-1201	ENGL 1201 B	10:30AM	11:20AM	Y		Y		Y	Carrie	MacMillan
+6543579	Study, Erica	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543657	Erudite, Alex	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543842	Scholar, Eric	BIOL-321L	BIOL 321L 1	01:30PM	04:20PM	Y						
+6543845	Intern, José	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543842	Scholar, Eric	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543709	Study, Shawn	POLS-3321	POLS 3321 A	01:00PM	02:20PM		Y		Y		James	Devine
+6543747	Erudite, Kimberly	CHEM-3321	CHEM 3321 A	11:30AM	12:50PM		Y		Y		Glen	Briand
+6543852	Scholar, Richard	CHEM-4351	CHEM 4351 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Westcott
+6543643	Pupil, Samuel	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6543709	Study, Shawn	POLS-3200F	POLS 3200F A	02:30PM	05:20PM	Y					Wayne	Hunt
+6543747	Erudite, Kimberly	CHEM-332L	CHEM 332L 2	01:30PM	04:20PM			Y			Susan	Wheaton
+6543842	Scholar, Eric	BIOC-3521	BIOC 3521 A	11:30AM	12:50PM		Y		Y		Tyson	MacCormack
+6543842	Scholar, Eric	BIOC-352L	BIOC 352L 1	01:00PM	03:50PM		Y				Tyson	MacCormack
+6543709	Study, Shawn	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543598	Illuminate, Mackenzie	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543709	Study, Shawn	POLS-4200F	POLS 4200F A	02:30PM	05:20PM			Y			Wayne	Hunt
+6543598	Illuminate, Mackenzie	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543697	Erudite, Dalton	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543742	Scholar, Haley	SOCI-2121	SOCI 2121 A	10:00AM	11:20AM		Y		Y		Morgan	Poteet
+6543422	Scholar, Joseph	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543914	Apprentice, Samantha	PSYC-3001	PSYC 3001 A	10:00AM	11:20AM		Y		Y		Louise	Wasylkiw
+6543742	Scholar, Haley	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543914	Apprentice, Samantha	PSYC-300L	PSYC 300L 1	01:00PM	03:50PM		Y				Louise	Wasylkiw
+6543422	Scholar, Joseph	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543588	Illuminate, Cassandra	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543742	Scholar, Haley	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543670	Academic, Evan	COMM-3431	COMM 3431 A	06:00PM	08:50PM	Y		Y		Y	Abdal	Khan
+6543422	Scholar, Joseph	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543588	Illuminate, Cassandra	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543742	Scholar, Haley	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543670	Academic, Evan	COMM-4131	COMM 4131 A	01:00PM	02:20PM		Y		Y		Rhonda	McIver
+6543670	Academic, Evan	COMM-4141	COMM 4141 A	02:30PM	03:50PM		Y		Y		Brent	White
+6543742	Scholar, Haley	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543670	Academic, Evan	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543698	Illuminate, Edward	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543890	Academic, Garrett	ANTH-3401	ANTH 3401 A	12:30PM	01:20PM	Y		Y		Y	Robert	Adlam
+6543748	Illuminate, Shelby	CLAS-1641	CLAS 1641 A	01:30PM	02:20PM	Y		Y		Y	Ivan	Cohen
+6543852	Scholar, Richard	FREN-3101	FREN 3101 A	10:00AM	11:20AM		Y		Y		Valerie	Narayana
+6543890	Academic, Garrett	ANTH-3541	ANTH 3541 A	01:30PM	04:20PM					Y	Marilyn	Walker
+6543748	Illuminate, Shelby	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543748	Illuminate, Shelby	PHYS-102L	PHYS 102L 2	01:00PM	02:20PM				Y		Anne	Pellerin
+6543890	Academic, Garrett	ANTH-4721	ANTH 4721 A	02:30PM	05:20PM			Y			Robert	Adlam
+6543669	Study, Luis	COMM-2101	COMM 2101 A	08:30AM	09:20AM	Y		Y		Y	Brent	White
+6543755	Intern, Christina	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543669	Study, Luis	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6544044	Apprentice, Dylan	PSYC-2601	PSYC 2601 A	08:30AM	09:20AM	Y		Y		Y	Nancy	Garon
+6543699	Study, Peter	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543699	Study, Peter	ENGL-3911	ENGL 3911 A	11:30AM	12:50PM		Y		Y		Deborah	Wills
+6543699	Study, Peter	HIST-3251	HIST 3251 A	11:30AM	12:20PM	Y		Y		Y	Robert	Cupido
+6543920	Academic, Elizabeth	GERM-2001	GERM 2001 A	12:30PM	01:20PM	Y		Y		Y	Lisa	Deighton
+				02:30PM	03:20PM			Y				
+				10:30AM	11:20AM	Y						
+				04:30PM	05:20PM	Y						
+6543920	Academic, Elizabeth	INLR-3401	INLR 3401 A	04:00PM	05:20PM		Y		Y		Geoff	Martin
+6543920	Academic, Elizabeth	WGST-3001	WGST 3001 A	10:00AM	11:20AM		Y		Y		Marie	Hammond-Callaghan
+6543669	Study, Luis	CHEM-3241	CHEM 3241 A	10:30AM	11:20AM	Y		Y		Y	Gregory	Sandala
+6543669	Study, Luis	CHEM-324L	CHEM 324L 1	01:30PM	04:20PM	Y					Gregory	Sandala
+6543598	Illuminate, Mackenzie	POLS-4200F	POLS 4200F A	02:30PM	05:20PM			Y			Wayne	Hunt
+6543767	Erudite, Miranda	LATI-1001	LATI 1001 A	10:30AM	11:20AM	Y		Y		Y	Ilaria	Battiloro
+6543741	Student, Anna	BIOL-321L	BIOL 321L 1	01:30PM	04:20PM	Y						
+6543767	Erudite, Miranda	BIOC-3521	BIOC 3521 A	11:30AM	12:50PM		Y		Y		Tyson	MacCormack
+6543767	Erudite, Miranda	BIOC-352L	BIOC 352L 1	01:00PM	03:50PM		Y				Tyson	MacCormack
+6543440	Academic, Aaron	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543748	Illuminate, Shelby	MATH-2311	MATH 2311 A	08:30AM	09:20AM	Y				Y	Robert	Sealy
+6543748	Illuminate, Shelby	MATH-231L	MATH 231L 2	09:30AM	10:20AM			Y			Robert	Sealy
+6543680	Academic, Bryan	SOCI-3311	SOCI 3311 A	01:00PM	02:20PM		Y		Y		Vanessa	Oliver
+6543806	Learner, Bailey	CHEM-3131	CHEM 3131 A	10:00AM	11:20AM		Y		Y		Andrew	Grant
+6543680	Academic, Bryan	SOCI-3451	SOCI 3451 A	10:30AM	11:20AM	Y		Y		Y	Erin	Steuter
+6543806	Learner, Bailey	CHEM-3111	CHEM 3111 A	12:30PM	01:20PM	Y		Y		Y	Andrew	Grant
+6543680	Academic, Bryan	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543738	Illuminate, Rebecca	PSYC-3151	PSYC 3151 A	12:30PM	01:20PM	Y		Y		Y	Terry	Belke
+6543803	Pupil, Jamie	INLR-4101	INLR 4101 A	10:00AM	11:20AM		Y		Y		David	Thomas
+6543803	Pupil, Jamie	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543803	Pupil, Jamie	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543579	Study, Erica	ECON-3301	ECON 3301 A	08:30AM	09:20AM	Y		Y		Y	Niels	Anthonisen
+6543803	Pupil, Jamie	SOCI-4011	SOCI 4011 A	02:30PM	05:20PM	Y					Erin	Steuter
+6543803	Pupil, Jamie	SOCI-4551	SOCI 4551 A	02:30PM	05:20PM			Y			Morgan	Poteet
+6543453	Pupil, Patrick	HIST-2021	HIST 2021 A	03:30PM	04:20PM	Y		Y		Y	Robin	Nadeau
+6544029	Study, Anthony	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6544029	Study, Anthony	CHEM-3131	CHEM 3131 A	10:00AM	11:20AM		Y		Y		Andrew	Grant
+6543453	Pupil, Patrick	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6543731	Student, Brianna	COMM-3501	COMM 3501 B	01:00PM	02:20PM		Y		Y		Timothy	Hynes
+6544044	Apprentice, Dylan	ENGL-2201	ENGL 2201 A	11:30AM	12:50PM		Y		Y		Jake	Morrissey
+6544044	Apprentice, Dylan	PHIL-3731	PHIL 3731 A	02:30PM	03:50PM		Y		Y		Robbie	Moser
+6543914	Apprentice, Samantha	PHYS-1021	PHYS 1021 A	11:30AM	12:50PM		Y		Y		Anne	Pellerin
+6543914	Apprentice, Samantha	PHYS-102L	PHYS 102L 1	04:00PM	05:20PM	Y					Anne	Pellerin
+6543796	Learner, Cheyenne	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543796	Learner, Cheyenne	ENGL-3811	ENGL 3811 A	11:30AM	12:20PM	Y		Y		Y	Terrence	Craig
+6543835	Intern, Kevin	COMM-4251	COMM 4251 A	03:00PM	04:20PM	Y		Y			Peter	Sianchuk
+6543796	Learner, Cheyenne	PHIL-3731	PHIL 3731 A	02:30PM	03:50PM		Y		Y		Robbie	Moser
+6543477	Erudite, Ian	BIOL-3451	BIOL 3451 A	11:30AM	12:20PM	Y		Y		Y	Ronald	Aiken
+6543679	Study, Taylor	PSYC-3301	PSYC 3301 A	10:30AM	11:20AM	Y		Y		Y	Louise	Wasylkiw
+6543477	Erudite, Ian	BIOL-345L	BIOL 345L 1	01:30PM	04:20PM	Y					Ronald	Aiken
+6543875	Intern, Gabriel	ENGL-3651	ENGL 3651 A	10:00AM	11:20AM		Y		Y		Carrie	MacMillan
+6543435	Intern, Kevin	POLS-2101	POLS 2101 A	08:30AM	09:20AM	Y		Y		Y	Mario	Levesque
+6543862	Scholar, Mark	FINA-3101	FINA 3101 A	08:30AM	11:20AM	Y		Y			Leah	Garnett
+6543862	Scholar, Mark	FINA-3301	FINA 3301 A	02:30PM	05:20PM	Y		Y			Jerry	Ropson
+6543862	Scholar, Mark	FINA-3501	FINA 3501 A	02:30PM	05:20PM		Y		Y		Thaddeus	Holownia
+6544038	Illuminate, Christian	MUSC-1001	MUSC 1001 A	01:30PM	02:20PM	Y		Y		Y	Danise	Ferguson
+6543862	Scholar, Mark	FINA-4701	FINA 4701 A	01:00PM	02:20PM		Y		Y		Jerry	Ropson
+6544038	Illuminate, Christian	POLS-1001	POLS 1001 A	10:30AM	11:20AM	Y		Y		Y	Wayne	Hunt
+6543619	Study, Daniel	MATH-3031	MATH 3031 A	01:00PM	02:20PM		Y		Y		Catharine	Baker
+6543619	Study, Daniel	MATH-3111	MATH 3111 A	10:30AM	11:20AM	Y		Y		Y	Geoffrey	Cruttwell
+6544038	Illuminate, Christian	ANTH-4021	ANTH 4021 A	01:00PM	02:20PM		Y		Y		Patricia	Kelly Spurles
+6543619	Study, Daniel	MATH-3211	MATH 3211 A	08:30AM	09:20AM	Y		Y		Y	Mark	Hamilton
+6543619	Study, Daniel	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543679	Study, Taylor	PSYC-2201	PSYC 2201 A	11:30AM	12:20PM	Y		Y		Y	Jennifer	Tomes
+6543778	Illuminate, Savannah	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543679	Study, Taylor	PSYC-220L	PSYC 220L 3	01:00PM	01:50PM				Y		Jennifer	Tomes
+6543552	Scholar, Kaitlyn	HIST-3121	HIST 3121 A	11:30AM	12:50PM		Y		Y		William	Lundell
+6543778	Illuminate, Savannah	POLS-3200F	POLS 3200F A	02:30PM	05:20PM	Y					Wayne	Hunt
+6543778	Illuminate, Savannah	POLS-4200F	POLS 4200F A	02:30PM	05:20PM			Y			Wayne	Hunt
+6543767	Erudite, Miranda	BIOC-3031	BIOC 3031 B	01:30PM	05:20PM					Y	Jeffrey	Waller
+6543875	Intern, Gabriel	ENGL-3421	ENGL 3421 A	03:30PM	04:50PM	Y		Y			Robert	Lapp
+6543545	Intern, Melissa	RELG-1671	RELG 1671 A	10:30AM	11:20AM	Y		Y		Y	John	Perkin
+6543739	Study, Madison	COMM-4531	COMM 4531 A	09:30AM	12:20PM			Y			Nauman	Farooqi
+6543731	Student, Brianna	COMM-4301	COMM 4301 A	02:30PM	03:50PM		Y		Y		Rosemary	Polegato
+6544004	Apprentice, Kaitlin	POLS-3221	POLS 3221 A	09:30AM	10:20AM	Y		Y		Y	David	Thomas
+6544004	Apprentice, Kaitlin	ECON-3301	ECON 3301 A	08:30AM	09:20AM	Y		Y		Y	Niels	Anthonisen
+6543975	Intern, Kristen	PSYC-2101	PSYC 2101 A	09:30AM	10:20AM	Y		Y		Y	Lisa	Hamilton
+6543975	Intern, Kristen	PSYC-210L	PSYC 210L 1	01:00PM	01:50PM		Y				Lisa	Hamilton
+6543753	Pupil, Sydney	ECON-3201	ECON 3201 A	10:30AM	11:20AM	Y		Y		Y	Niels	Anthonisen
+6543753	Pupil, Sydney	ECON-3301	ECON 3301 A	08:30AM	09:20AM	Y		Y		Y	Niels	Anthonisen
+6543753	Pupil, Sydney	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6544032	Scholar, Robert	PHYS-4851	PHYS 4851 A	01:00PM	02:20PM		Y		Y		Mohammad	Ahmady
+6544032	Scholar, Robert	PHYS-3701	PHYS 3701 A	12:30PM	01:20PM	Y		Y		Y	Ralf	Bruning
+6544032	Scholar, Robert	PHYS-370L	PHYS 370L 1	02:30PM	05:20PM					Y	Ralf	Bruning
+6544032	Scholar, Robert	MATH-3311	MATH 3311 A	08:30AM	09:50AM		Y		Y		Andrew	Irwin
+6543713	Pupil, Emily	ENGL-2201	ENGL 2201 A	11:30AM	12:50PM		Y		Y		Jake	Morrissey
+6543713	Pupil, Emily	FREN-2401	FREN 2401 B	10:30AM	11:20AM	Y		Y		Y	Christianne	Bell
+6543713	Pupil, Emily	SOCI-2221	SOCI 2221 A	11:30AM	12:20PM	Y		Y		Y	Vanessa	Oliver
+6543713	Pupil, Emily	SOCI-2231	SOCI 2231 A	06:00PM	08:50PM	Y					Anthony	Roberts
+6543753	Pupil, Sydney	ECON-4700F	ECON 4700F A	10:00AM	11:20AM		Y		Y		Craig	Brett
+6544004	Apprentice, Kaitlin	POLS-3031	POLS 3031 A	02:30PM	03:50PM		Y		Y		Loralea	Michaelis
+6543746	Learner, Abigail	BIOC-4011	BIOC 4011 A	12:30PM	01:20PM	Y		Y		Y	Christopher	Dieni
+6543406	Learner, Bailey	BIOL-3451	BIOL 3451 A	11:30AM	12:20PM	Y		Y		Y	Ronald	Aiken
+6543406	Learner, Bailey	BIOL-345L	BIOL 345L 1	01:30PM	04:20PM	Y					Ronald	Aiken
+6543374	Apprentice, Kelly	MATH-2211	MATH 2211 A	11:30AM	12:50PM		Y		Y		Catharine	Baker
+6543704	Apprentice, Miguel	BIOC-3031	BIOC 3031 A	01:30PM	05:20PM	Y					Jeffrey	Waller
+6543486	Learner, Jesus	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543435	Intern, Kevin	INLR-3401	INLR 3401 A	04:00PM	05:20PM		Y		Y		Geoff	Martin
+6543650	Academic, Timothy	PSYC-3331	PSYC 3331 A	09:30AM	10:20AM	Y		Y		Y	Stephen	Claxton-Oldfield
+6543704	Apprentice, Miguel	CHEM-2111	CHEM 2111 A	12:30PM	01:20PM	Y		Y		Y	Stephen	Westcott

@@ -1,0 +1,1 @@
+Student	Name	Course	Course/Section	Start Time	End Time	Mon	Tues	Wed	Thurs	Fri	(Link to) Course Section First Name	(Link to) Course Section Sec All Faculty Last Names

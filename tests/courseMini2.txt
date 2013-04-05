@@ -1,0 +1,141 @@
+Student	Name	Course	Course/Section	Start Time	End Time	Mon	Tues	Wed	Thurs	Fri	(Link to) Course Section First Name	(Link to) Course Section Sec All Faculty Last Names
+6544222	Scholar, Joseph	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544222	Scholar, Joseph	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544990	Academic, Crystal	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544187	Erudite, Katie	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544187	Erudite, Katie	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544516	Learner, Taylor	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544516	Learner, Taylor	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544676	Learner, Travis	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544676	Learner, Travis	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6545008	Illuminate, Brittney	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6545008	Illuminate, Brittney	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544748	Illuminate, Shelby	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544748	Illuminate, Shelby	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544903	Pupil, Elijah	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6545032	Scholar, Robert	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6545032	Scholar, Robert	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544427	Erudite, James	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544427	Erudite, James	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6544677	Erudite, Ian	GENS-2421	GENS 2421 A	01:00PM	02:20PM		Y		Y		Graham	Clark
+6544677	Erudite, Ian	GENS-242L	GENS 242L 1	02:30PM	03:50PM					Y	Graham	Clark
+6543785	Intern, Breanna	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6543785	Intern, Breanna	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544187	Erudite, Katie	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544187	Erudite, Katie	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544959	Study, Erin	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544959	Study, Erin	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6545008	Illuminate, Brittney	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6545008	Illuminate, Brittney	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544556	Learner, Tiffany	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544556	Learner, Tiffany	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544748	Illuminate, Shelby	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544748	Illuminate, Shelby	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544509	Study, Shawn	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544509	Study, Shawn	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544231	Student, Alexander	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544231	Student, Alexander	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544903	Pupil, Elijah	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544903	Pupil, Elijah	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544427	Erudite, James	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544427	Erudite, James	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6544949	Study, Olivia	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6544949	Study, Olivia	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6543810	Academic, Alexa	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6543810	Academic, Alexa	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6543728	Illuminate, Jennifer	GENS-2431	GENS 2431 A	12:30PM	01:20PM	Y		Y		Y	David	Lieske
+6543728	Illuminate, Jennifer	GENS-243L	GENS 243L 1	02:30PM	05:20PM			Y			David	Lieske
+6543718	Illuminate, Brittany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543718	Illuminate, Brittany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543646	Learner, Brian	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543646	Learner, Brian	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543988	Illuminate, Cassandra	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543988	Illuminate, Cassandra	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544008	Illuminate, Brittney	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544008	Illuminate, Brittney	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543785	Intern, Breanna	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543785	Intern, Breanna	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544145	Intern, Melissa	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544145	Intern, Melissa	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544046	Learner, Brian	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544046	Learner, Brian	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544320	Academic, Elizabeth	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544320	Academic, Elizabeth	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544156	Learner, Tiffany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544156	Learner, Tiffany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543868	Illuminate, Devin	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543868	Illuminate, Devin	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543558	Illuminate, Sara	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543558	Illuminate, Sara	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543611	Student, Michael	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543611	Student, Michael	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543979	Study, Erica	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543979	Study, Erica	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543747	Erudite, Kimberly	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543747	Erudite, Kimberly	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544236	Learner, Cody	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544236	Learner, Cody	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544387	Erudite, Katie	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544387	Erudite, Katie	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544047	Erudite, Steven	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544047	Erudite, Steven	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543776	Learner, Destiny	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543776	Learner, Destiny	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544210	Academic, Alexa	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544210	Academic, Alexa	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543756	Learner, Tiffany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543756	Learner, Tiffany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543439	Study, Jordan	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543439	Study, Jordan	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544486	Learner, Jesus	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544486	Learner, Jesus	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544356	Learner, Tiffany	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544356	Learner, Tiffany	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543726	Learner, Stephanie	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543726	Learner, Stephanie	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543866	Learner, Dakota	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6543866	Learner, Dakota	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6544596	Learner, Cheyenne	GENS-3421	GENS 3421 A	08:30AM	09:50AM		Y		Y		Georgia	Klein
+6544596	Learner, Cheyenne	GENS-342L	GENS 342L 1	02:30PM	05:20PM	Y					Georgia	Klein
+6543718	Illuminate, Brittany	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543785	Intern, Breanna	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543541	Student, Anna	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544145	Intern, Melissa	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544558	Illuminate, Sara	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544001	Student, Selena	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544221	Student, Andrew	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543746	Learner, Abigail	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544354	Apprentice, Maria	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543434	Apprentice, Kyle	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543776	Learner, Destiny	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543825	Intern, Ryan	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544147	Erudite, Kimberly	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543726	Learner, Stephanie	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544647	Erudite, Steven	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543893	Pupil, Derek	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544098	Illuminate, Edward	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6544596	Learner, Cheyenne	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543728	Illuminate, Jennifer	GENS-3461	GENS 3461 A	10:30AM	11:20AM	Y		Y		Y	Georgia	Klein
+6543718	Illuminate, Brittany	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543863	Pupil, Hunter	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543412	Scholar, Matthew	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543988	Illuminate, Cassandra	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543545	Intern, Melissa	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544008	Illuminate, Brittney	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543785	Intern, Breanna	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543541	Student, Anna	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544145	Intern, Melissa	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544046	Learner, Brian	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544558	Illuminate, Sara	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544001	Student, Selena	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544156	Learner, Tiffany	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544221	Student, Andrew	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543581	Student, Alexandria	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543558	Illuminate, Sara	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543611	Student, Michael	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543746	Learner, Abigail	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543755	Intern, Christina	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544354	Apprentice, Maria	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544387	Erudite, Katie	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6543681	Student, Paul	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
+6544609	Study, Molly	GENS-3991	GENS 3991 A	06:30PM	09:20PM			Y			Melissa	Grey
