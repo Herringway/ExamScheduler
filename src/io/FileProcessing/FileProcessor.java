@@ -124,6 +124,10 @@ public class FileProcessor {
                 for (ScheduledExamInterface secExam : exams.getExams(schDay, timePer)) {
                     Course sec = secExam.getCourse();
                     Room roomB = secExam.getRoom();
+                    if (sec == null)
+                    	throw new NullPointerException("Scheduled exam contained null course");
+                    if (roomB == null)
+                    	throw new NullPointerException("Scheduled exam contained null room");
 					System.out.printf("\t %s happens on %d, period %d\n",sec.toString(),schDay,timePer);
 
                     /*
