@@ -35,6 +35,6 @@ public class Student {
 
         // Set<String> courseSet=courseList.keySet();
         // String[] courseIdentifierArray=(String[]) courseSet.toArray();
-        return (String[]) courseSet.toArray();
+        return courseSet.toArray(new String[] {});
     }
 }
