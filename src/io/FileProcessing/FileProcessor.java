@@ -115,6 +115,7 @@ public class FileProcessor {
             }
 
             String curDayString = curDay.get(Calendar.DAY_OF_MONTH) + "-" + (curDay.get(Calendar.MONTH) + 1) + "-" + curDay.get(Calendar.YEAR);
+			System.out.printf("Schedule day %d of %d, %s\n",schDay,numExamDays,curDayString);
             String dayOfWeek = curDay.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.CANADA);
 
             for (int timePer = 0; timePer < 3; timePer++) {
@@ -123,6 +124,7 @@ public class FileProcessor {
                 for (ScheduledExamInterface secExam : exams.getExams(schDay, timePer)) {
                     Course sec = secExam.getCourse();
                     Room roomB = secExam.getRoom();
+					System.out.printf("\t %s happens on %d, period %d\n",sec.toString(),schDay,timePer);
 
                     /*
                      * int intEndTime = (startTimes[timePer] + sec.getExamLength()) % 24;
@@ -130,15 +132,16 @@ public class FileProcessor {
                      */
 
                     // examSet.add(new Exam(sec.toString(), curDayString, dayOfWeek, startTime, endTime, roomB.getName()));
-                    examSet.add(new Exam(sec.toString(), curDayString, dayOfWeek, roomB.getName()));
+                    examSet.add(new Exam(sec.toString(), curDayString, dayOfWeek, ""+timePer, roomB.getName()));
                 }
             }
-
+			curDay.add(Calendar.DAY_OF_YEAR, 1);
+			
             schDay++;
         }
 
         // String[] headers = new String[] { "Course", "Exam Date", "Exam Day", "Start Time", "End Time", "Location" };
-        String[] headers = new String[] { "Course", "Exam Date", "Exam Day", "Location" };
+        String[] headers = new String[] { "Course", "Exam Date", "Exam Day", "Exam Period", "Location" };
 
         writeExams(path, headers, examSet);
     }
