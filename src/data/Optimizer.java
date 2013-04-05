@@ -199,7 +199,6 @@ public class Optimizer extends Thread {
 
         Schedule sched = this.optimizeSchedule();
 
-        threadCreator.schedulerFinished();
 
         try {
             FileProcessor.writeExamFile(saveFilePath, sched, startDate);
@@ -208,6 +207,7 @@ public class Optimizer extends Thread {
             // TODO deal with it
             e.printStackTrace();
         }
+        threadCreator.schedulerFinished();
     }
 
     public Optimizer(CourseDB c, RoomDB r, StudentDB s, ScheduleRunningPanel threadCreator, String saveFilePath, Calendar startDate) {
