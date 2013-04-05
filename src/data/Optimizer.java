@@ -290,6 +290,12 @@ public class Optimizer extends Thread {
                     System.out.println("Looking for a room in our slot that fits.");
 
                     Room goodRoom = Rab.getRoomWithBestCapacity(spaceReq);
+                    if(goodRoom == null){
+                    	System.out.println("\n\n THIS SHOULD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
+                    	System.out.println("This is the original node.");
+                    	throw new NullPointerException("Unable to find room for exam");
+                    }
+                    
                     Exam temp = new Exam(nodes[i].getCourse(), goodRoom);
 
                     Rab.addExam(temp);
@@ -324,6 +330,11 @@ public class Optimizer extends Thread {
 
                         int spaceReq = adjToI[j].getStudentLevel();
                         Room goodRoom = Rcd.getRoomWithBestCapacity(spaceReq);
+                        if(goodRoom == null){
+                        	System.out.println("\n\n THIS SHOLD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
+                        	System.out.println("We're currently just dealing with the adjacent nodes.");
+                        	throw new NullPointerException("Unable to find room for exam");
+                        }
                         Exam temp = new Exam(adjToI[j].getCourse(), goodRoom);
 
                         Rcd.addExam(temp);
