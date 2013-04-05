@@ -9,3 +9,19 @@
 - Error handling in both data and io **
 
 - Coordination with Optimizer thread... E.g. reporting back errors, no schedule found, etc.
+
+- show log in error popup
+
+- update percentage complete label
+
+- run history (time)
+	- previous directory 
+	
+- open with excel, .csv filter
+
+- schedule summary statistics
+	- tbd from Zack
+	
+- back button on review panel
+
+- consistent order in review schedules
