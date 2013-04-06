@@ -11,6 +11,7 @@ import data.Optimizer;
 import org.apache.log4j.Logger;
 
 import ui.ExamSchedulerMain;
+import ui.RunHistory;
 
 //~--- JDK imports ------------------------------------------------------------
 
@@ -50,6 +51,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
     private boolean firstStart = true;
     private static Logger log = Logger.getLogger(ScheduleRunningPanel.class.getName());
     private Optimizer optimizer_threaded = null;
+    private RunHistory runHistory = new RunHistory();
 
     /**
      * Constructs ScheduleRunningPanel.
@@ -143,7 +145,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         internalCenterPanel.add(startTimeLabel, gbc_startTimeLabel);
 
-        JLabel percentCompleteTitleLabel = new JLabel("Percentage complete");
+        JLabel percentCompleteTitleLabel = new JLabel("Exams Scheduled");
 
         percentCompleteTitleLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
 
@@ -190,6 +192,24 @@ public class ScheduleRunningPanel extends ApplicationPanel {
         gbc_runTimeLabel.gridy = 2;
 
         internalCenterPanel.add(runTimeLabel, gbc_runTimeLabel);
+
+        JButton viewHistoryButton = new JButton("View History");
+
+        viewHistoryButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent arg0) {
+                runHistory.setVisible(true);
+            }
+        });
+        viewHistoryButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/clock.png")));
+        viewHistoryButton.setToolTipText("View the time taken to find previous schedules");
+
+        GridBagConstraints gbc_viewHistoryButton = new GridBagConstraints();
+
+        gbc_viewHistoryButton.insets = new Insets(0, 0, 5, 5);
+        gbc_viewHistoryButton.gridx = 1;
+        gbc_viewHistoryButton.gridy = 3;
+
+        internalCenterPanel.add(viewHistoryButton, gbc_viewHistoryButton);
 
         JPanel internalSouthPanel = new JPanel();
         FlowLayout flowLayout = (FlowLayout) internalSouthPanel.getLayout();
@@ -261,6 +281,8 @@ public class ScheduleRunningPanel extends ApplicationPanel {
     }
 
     public void schedulerFinished() {
+        runHistory.store(startTimeLabel.getText(), runTimeLabel.getText());
+
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
 

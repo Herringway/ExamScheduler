@@ -79,7 +79,7 @@ public class ApplicationFrame extends JFrame {
                 }
             }
         });
-        setBounds(100, 100, 628, 369);
+        setBounds(100, 100, 628, 337);
 
         JPanel contentPane = new JPanel();
 
@@ -192,7 +192,7 @@ public class ApplicationFrame extends JFrame {
     /**
      * Show the current log (for this use session) to the user.
      */
-    private void showLog() {
+    public void showLog() {
         @SuppressWarnings("rawtypes") Enumeration e = Logger.getRootLogger().getAllAppenders();
 
         while (e.hasMoreElements()) {
