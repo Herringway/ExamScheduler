@@ -196,6 +196,7 @@ public class Optimizer extends Thread {
             arrNode = thisNodeList.toArray(arrNode);
 
             nodes[i].setAdjNodes(arrNode);
+            System.out.println("Schedule has been created.");
         }
 
         
@@ -216,7 +217,7 @@ public class Optimizer extends Thread {
     }
 
     public Optimizer(CourseDB c, RoomDB r, StudentDB s, ScheduleRunningPanel threadCreator, String saveFilePath, Calendar startDate) {
-        System.out.println("Beginning the initializing of optimization.");
+    //    System.out.println("Beginning the initializing of optimization.");
 
         courses = c;
         rooms = r;
@@ -230,13 +231,13 @@ public class Optimizer extends Thread {
             System.exit(0);
         }
 
-        System.out.println("The Course, Room, and Student Databases are initialized in the optimizer.");
+        //System.out.println("The Course, Room, and Student Databases are initialized in the optimizer.");
     }
 
     // The method to be called to perform the optimization. This is part B in our notes.
     public Schedule optimizeSchedule() {
         if (numNodesProcessed == numOfCourses) {    // A simple check to see if we've made our schedule.
-            System.out.println("We have. Returning our schedule.");
+        //    System.out.println("We have. Returning our schedule.");
 
             return newSchedule;
         }
@@ -252,57 +253,58 @@ public class Optimizer extends Thread {
        // System.out.println("Part B Starting now:");
 
         for (int i = 0; i < nodes.length; i++) {
-            System.out.println("Checking to see if we've finished our schedule. We have scheduled " + numNodesProcessed + " nodes");
+        //    System.out.println("Checking to see if we've finished our schedule. We have scheduled " + numNodesProcessed + " nodes");
 
             if (numNodesProcessed == numOfCourses) {    // A simple check to see if we've made our schedule.
-                System.out.println("We have. Returning our schedule.");
+               // System.out.println("We have. Returning our schedule.");
 
                 return newSchedule;
             }
 
-            int zeroVal = 0;
+            int zeroVal = 0; 	// Originally meant to be used to handle the case where we can't fit an exam into an empty schedule. 
+            					// We now throw an exception instead.
 
-            System.out.println("We have not. Checking to see if the course we're looking at has been scheduled.");
+         //   System.out.println("We have not. Checking to see if the course we're looking at has been scheduled.");
 
             if (!nodes[i].isThisColoured()) {    // If the node we're looking at is not coloured, we'll do our best to colour it.
-                System.out.println("It has not been, trying to colour it now.");
+              //  System.out.println("It has not been, trying to colour it now.");
 
                 ScheduledExamSlot Rab = null;
 
                 if (i == zeroVal) {    // If this is the first node we see, it gets special treatment.
-                    System.out.println("This is the first node to look at. Entering getFirstColour...");
+                  //  System.out.println("This is the first node to look at. Entering getFirstColour...");
 
                     Rab = getFirstColour(nodes[i]);
 
                     if (Rab == null) {
-                        System.out.println("There is no schedule possible, there is no room that can fit the largest class.");
+                    	
+                    	throw new NullPointerException("Unable to find room that can fit the exam for " + nodes[i].getCourse().toString());
+                        //zeroVal++;
 
-                        zeroVal++;
-
-                        continue;
+                        //continue;
                     }
                 } else {
                     Rab = getSmallestAvailableColour(nodes[i]);
                 }
 
                 if (Rab != null) {
-                    System.out.println("We've managed to get a \"colour\" that works. Now processing the node.");
-                    System.out.println("Getting space requirements for the course... ");
+                  //  System.out.println("We've managed to get a \"colour\" that works. Now processing the node.");
+              //      System.out.println("Getting space requirements for the course... ");
 
                     int spaceReq = nodes[i].getStudentLevel();
 
-                    System.out.println("This course requires " + spaceReq + " seats.");
-                    System.out.println("Looking for a room in our slot that fits.");
+                 //   System.out.println("This course requires " + spaceReq + " seats.");
+                 //   System.out.println("Looking for a room in our slot that fits.");
 
                     Room goodRoom = Rab.getRoomWithBestCapacity(spaceReq);
                     if(goodRoom == null){
-                    	System.out.println("\n\n THIS SHOULD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
-                    	System.out.println("This is the original node.");
+                   // 	System.out.println("\n\n THIS SHOULD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
+                    //	System.out.println("This is the original node.");
                     	throw new NullPointerException("Unable to find room for exam");
                     }
-                    System.out.println("In standard nodes, printing out days and time");
-                    System.out.println(Rab.getDay());
-                    System.out.println(Rab.getTimeSlot());
+                  //  System.out.println("In standard nodes, printing out days and time");
+                   // System.out.println(Rab.getDay());
+                   // System.out.println(Rab.getTimeSlot());
                     Exam temp = new Exam(nodes[i].getCourse(), goodRoom);
 
                     Rab.addExam(temp);
@@ -312,23 +314,23 @@ public class Optimizer extends Thread {
                 }
             }
 
-            System.out.println("It has been scheduled. Checking neighbours and sorting them...");
+          //  System.out.println("It has been scheduled. Checking neighbours and sorting them...");
             nodes[i].sortAdjNodes();
 
             Node[] adjToI = nodes[i].getAdjNodes();
 
-            System.out.println("Nodes sorted and are in their own list. Now scanning...");
+           // System.out.println("Nodes sorted and are in their own list. Now scanning...");
 
             for (int j = 0; j < adjToI.length; j++) {
              //   System.out.println("If an adjacent node is not coloured, attempt to colour it.");
 
                 if (!adjToI[j].isThisColoured()) {
-                    System.out.println("Attempting to colour an adjacent node.");
-                    System.out.println("Entering getSmallestAvailableColour");
+                   // System.out.println("Attempting to colour an adjacent node.");
+                   // System.out.println("Entering getSmallestAvailableColour");
 
                     ScheduledExamSlot Rcd = getSmallestAvailableColour(adjToI[j]);
-
-                    System.out.println("If we found an available colour, process that node.");
+//
+                    //System.out.println("If we found an available colour, process that node.");
 
                     if (Rcd != null) {
                         numNodesProcessed++;
@@ -337,13 +339,13 @@ public class Optimizer extends Thread {
                         Room goodRoom = Rcd.getRoomWithBestCapacity(spaceReq);
                         
                         if(goodRoom == null){
-                        	System.out.println("\n\n THIS SHOLD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
-                        	System.out.println("We're currently just dealing with the adjacent nodes.");
+                        	//System.out.println("\n\n THIS SHOLD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
+                        	//System.out.println("We're currently just dealing with the adjacent nodes.");
                         	throw new NullPointerException("Unable to find room for exam");
                         }
-                        System.out.println("In adjacency nodes, printing out days and time");
-                        System.out.println(Rcd.getDay());
-                        System.out.println(Rcd.getTimeSlot());
+                    //    System.out.println("In adjacency nodes, printing out days and time");
+                   //     System.out.println(Rcd.getDay());
+                   //     System.out.println(Rcd.getTimeSlot());
                         Exam temp = new Exam(adjToI[j].getCourse(), goodRoom);
 
                         Rcd.addExam(temp);
@@ -355,9 +357,9 @@ public class Optimizer extends Thread {
             //System.out.println("List scanned, go look at more courses.");
         }    // for int i
 
-        System.out.println("All nodes should be handled at this point.");
+        //System.out.println("All nodes should be handled at this point.");
 
-        if (numNodesProcessed != numOfCourses) {
+        if (numNodesProcessed != numOfCourses) { // This should throw an exception, but I'm not sure what kind. 
             System.out.println("SOMETHING HAS GONE HORRIBLY WRONG! WE THINK WE'RE FINISHED BUT WE ARE NOT");
             System.out.println("\n");
             System.out.println("The number of nodes processed : " + numNodesProcessed);
@@ -367,7 +369,7 @@ public class Optimizer extends Thread {
             return null;
         }
 
-        System.out.println("--------------- We're done with Optimizer -----------------");
+        //System.out.println("--------------- We're done with Optimizer -----------------");
 
         return newSchedule;
     }
@@ -378,7 +380,7 @@ public class Optimizer extends Thread {
 
     // As described in part C, apparently we'll need this?
     private ScheduledExamSlot getFirstColour(Node Ci) {
-        System.out.println(" ------ INSIDE GET FIRSTCOLOUR --------");
+        //System.out.println(" ------ INSIDE GET FIRSTCOLOUR --------");
 
         for (int i = 0; i < newSchedule.getNumDays(); i++) {
             for (int j = 0; j < newSchedule.getNumExamsPerDay(); j++) {
@@ -397,77 +399,77 @@ public class Optimizer extends Thread {
                 }
 
                 if (available > 0) {
-                    System.out.println(" ------- LEAVING WITH A VALID VALUE ------");
+          //          System.out.println(" ------- LEAVING WITH A VALID VALUE ------");
 
                     return Rij;
                 }
             }
         }
 
-        System.out.println("------------LEAVING UNABLE TO ENTER A VALUE ------------");
+       // System.out.println("------------LEAVING UNABLE TO ENTER A VALUE ------------");
 
         return null;
     }
 
     // Again, we will need this and it looks like a doozy to write.
     private ScheduledExamSlot getSmallestAvailableColour(Node Ci) {
-        System.out.println("------------ INSIDE getSmallestAvailableColour --------------");
+       // System.out.println("------------ INSIDE getSmallestAvailableColour --------------");
 
         Node[] adjNodes = Ci.getAdjNodes();
 
-        System.out.println("Ci's adjacency matrix is length : " + adjNodes.length);
+        //System.out.println("Ci's adjacency matrix is length : " + adjNodes.length);
 
         boolean isValid;
         ScheduledExamSlot Rjk = null;
         ScheduledExamSlot Ref = null;
 
-        System.out.println("\nEntering first for loop; will run " + MAX_NUM_OF_DAYS + " time.");
+        //System.out.println("\nEntering first for loop; will run " + MAX_NUM_OF_DAYS + " time.");
 
         for (int j = 0; j < MAX_NUM_OF_DAYS; j++) {
-            System.out.println("Entering second for loop; will run " + newSchedule.getNumExamsPerDay() + " times, multiplied by " + MAX_NUM_OF_DAYS);
+            //System.out.println("Entering second for loop; will run " + newSchedule.getNumExamsPerDay() + " times, multiplied by " + MAX_NUM_OF_DAYS);
 
             for (int k = 0; k < newSchedule.getNumExamsPerDay(); k++) {
                 Rjk = newSchedule.getExamSlot(j, k);
                 
-                System.out.println("Evaluating a slot. Check to see what's j and k values are.");
-                System.out.println("The day (J) is = " + Rjk.getDay());
-                System.out.println("The timeslot (K) is = " + Rjk.getTimeSlot());
+              //  System.out.println("Evaluating a slot. Check to see what's j and k values are.");
+              //  System.out.println("The day (J) is = " + Rjk.getDay());
+              //  System.out.println("The timeslot (K) is = " + Rjk.getTimeSlot());
                 
                 
                 isValid = true;
 
-                System.out.println("\nEntering third for loop; will run " + adjNodes.length + " times, multiplied by "
-                                   + MAX_NUM_OF_DAYS * newSchedule.getNumExamsPerDay());
+                //System.out.println("\nEntering third for loop; will run " + adjNodes.length + " times, multiplied by "
+                //                   + MAX_NUM_OF_DAYS * newSchedule.getNumExamsPerDay());
 
                 for (int r = 0; r < adjNodes.length; r++) {
-                    System.out.println("We're now in a case where we are checking every possibility in terms of nodes adjacent to a node.");
+                    //System.out.println("We're now in a case where we are checking every possibility in terms of nodes adjacent to a node.");
 
                     Ref = adjNodes[r].getSlot();
 
-                    System.out.println("Checking to see if this adjacent node is in a slot already.");
+                    //System.out.println("Checking to see if this adjacent node is in a slot already.");
 
                     if (Ref != null) {
-                        System.out.println("This adjacent node has been slotted; getting it's info now...");
+                        //System.out.println("This adjacent node has been slotted; getting it's info now...");
 
                         int day = Ref.getDay();
                         int timeSlot = Ref.getTimeSlot();
 
-                        System.out.println("\nThis exam takes place on day " + day);
-                        System.out.println("This exam is during time slot " + timeSlot);
-                        System.out.println(
-                            "Checking to see if we're not looking at the same day/slot combo as the potential slot for the node we're looking for.");
+                        //System.out.println("\nThis exam takes place on day " + day);
+                        //System.out.println("This exam is during time slot " + timeSlot);
+                        //System.out.println(
+                        //    "Checking to see if we're not looking at the same day/slot combo as the potential slot for the node we're looking for.");
 
                         if ((day != j) || (timeSlot != k)) {
-                        	System.out.println("It is not. Now running a battery of other tests.");
+                        	//System.out.println("It is not. Now running a battery of other tests.");
                             if (Math.abs(day - j) == 0) {
                                 if (Math.abs(timeSlot - k) <= 0) {
-                                	System.out.println("It failed the D1 D2 stuff.");
+                              //  	System.out.println("It failed the D1 D2 stuff.");
                                 	isValid = false;
 
                                     break;
                                 }    // end D1
                             }    // end D2
-                            System.out.println("It passed the D1 and D2 stuff.");
+                           // System.out.println("It passed the D1 and D2 stuff.");
                             
                             // CONCURRENCY LIMIT????
                             Room[] rooms = Rjk.getRooms();
@@ -481,14 +483,16 @@ public class Optimizer extends Thread {
 
                             if (available == 0) {
                                 isValid = false;
-                            	System.out.println("It failed the concurrency limit stuff.");
+                            	//System.out.println("It failed the concurrency limit stuff.");
 
                                 break;
                             }
 
-                            System.out.println("It passed the concurrency limit stuff.");
+                           // System.out.println("It passed the concurrency limit stuff.");
                             
                             /*
+                             * checkThreeExamsConstraint checker, un comment to enforce this rule.
+                             * 
                             if (checkThreeExamsConstraint(Ci, Rjk, j) == false) {
                                 isValid = false;
                             	System.out.println("It failed the ThreeExamConstraint stuff.");
@@ -500,7 +504,7 @@ public class Optimizer extends Thread {
                             System.out.println("Three exam constraint has been omitted.");
                         }    // end if
                         else {
-                            System.out.println("It was.");
+                           // System.out.println("It was.");
                             isValid = false;
                             continue;
                             
@@ -512,8 +516,8 @@ public class Optimizer extends Thread {
                 }    // end for r
 
                 if (isValid == true) {
-                    System.out.println("Found smallest available colour for node " + Ci.getI());
-                    System.out.println("--------------------------- LEAVING getSmallestAvailableColour ---------------------");
+                    //System.out.println("Found smallest available colour for node " + Ci.getI());
+                    //System.out.println("--------------------------- LEAVING getSmallestAvailableColour ---------------------");
                     return Rjk;
                     
                 }
@@ -521,8 +525,8 @@ public class Optimizer extends Thread {
             }    // end for k
         }    // end for j
 
-        System.out.println("Failed to find smallest available colour for node " + Ci.getI());
-        System.out.println("--------------------------- LEAVING getSmallestAvailableColour ---------------------");
+        //System.out.println("Failed to find smallest available colour for node " + Ci.getI());
+        //System.out.println("--------------------------- LEAVING getSmallestAvailableColour ---------------------");
         return null;
     }
 
