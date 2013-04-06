@@ -90,26 +90,27 @@ public class Optimizer extends Thread {
     // Initializing the Optimizer object. Requires the course database, room database, and student database.
     // NOTE THIS INITIALISES THE NODE ARRAY, INITALISE NODE ARRAY IS NOW DEPRECATED, BUT IN THIS CASE, ACTUALLY DON'T USE IT.
     public void run() {
-        System.out.println("Now initializing private or protected variables. ");
+       // System.out.println("Now initializing private or protected variables. ");
 
+    	System.out.println("Scheduler has been started.");
         String[] courseIdentifierList = courses.getCourses();
 
         numOfCourses = courseIdentifierList.length;
         numNodesProcessed = 0;
 
-        System.out.println("numOfCourses initialised: numOfCourses = " + numOfCourses);
-        System.out.println("numNodesProcessed initialised: numNodesProcessed = " + numNodesProcessed);
+        //System.out.println("numOfCourses initialised: numOfCourses = " + numOfCourses);
+        //System.out.println("numNodesProcessed initialised: numNodesProcessed = " + numNodesProcessed);
 
         nodes = new Node[numOfCourses];
 
-        System.out.println("The array of nodes has been initialised");
+        //System.out.println("The array of nodes has been initialised");
 
         for (int i = 0; i < numOfCourses; i++) {
             nodes[i] = new Node(i, courses.getCourse(courseIdentifierList[i]));
         }
 
-        System.out.println("Elements of that array have been initialised");
-        System.out.println("Initialising weight matrix");
+        //System.out.println("Elements of that array have been initialised");
+        //System.out.println("Initialising weight matrix");
 
         weightMatrix = new int[numOfCourses][numOfCourses];
 
@@ -163,10 +164,12 @@ public class Optimizer extends Thread {
          *  Oh ye gods that was ugly. If anyone else has to look at that, I apologize in advance, I commented as best I could.
          *
          */
+        /*
         System.out.println("The weightMatrix has been constructed. ");
         System.out.println("Now assigning node degrees and adjacency lists");
         System.out.println("The number of courses: " + numOfCourses);
         System.out.println("The number of nodes: " + nodes.length);
+		*/
 
         for (int i = 0; i < numOfCourses; i++) {
             int Count = 0;
@@ -195,7 +198,9 @@ public class Optimizer extends Thread {
             nodes[i].setAdjNodes(arrNode);
         }
 
-        System.out.println("Node degrees and adjacency assigned");
+        
+        
+       // System.out.println("Node degrees and adjacency assigned");
 
         Schedule sched = this.optimizeSchedule();
 
@@ -237,17 +242,17 @@ public class Optimizer extends Thread {
         }
 
         // Create a new schedule
-        System.out.println("Making the Schedule Object.");
+    //    System.out.println("Making the Schedule Object.");
 
         newSchedule = new Schedule(MAX_NUM_OF_DAYS, NUM_EXAMS_PER_DAY, rooms);
 
-        System.out.println("Now starting step 1 part 1, sorting the array of nodes.");
+      //  System.out.println("Now starting step 1 part 1, sorting the array of nodes.");
         Arrays.sort(nodes);    // Step 1 part 1. Will implement further sorting if it proves necessary.
-        System.out.println("Step 1 of 1: Completed");
-        System.out.println("Part B Starting now:");
+       // System.out.println("Step 1 of 1: Completed");
+       // System.out.println("Part B Starting now:");
 
         for (int i = 0; i < nodes.length; i++) {
-            System.out.println("Checking to see if we've finished our schedule.");
+            System.out.println("Checking to see if we've finished our schedule. We have scheduled " + numNodesProcessed + " nodes");
 
             if (numNodesProcessed == numOfCourses) {    // A simple check to see if we've made our schedule.
                 System.out.println("We have. Returning our schedule.");
@@ -295,7 +300,9 @@ public class Optimizer extends Thread {
                     	System.out.println("This is the original node.");
                     	throw new NullPointerException("Unable to find room for exam");
                     }
-                    
+                    System.out.println("In standard nodes, printing out days and time");
+                    System.out.println(Rab.getDay());
+                    System.out.println(Rab.getTimeSlot());
                     Exam temp = new Exam(nodes[i].getCourse(), goodRoom);
 
                     Rab.addExam(temp);
@@ -305,17 +312,15 @@ public class Optimizer extends Thread {
                 }
             }
 
-            System.out.println("It has been coloured. Checking neighbours...");
-            System.out.println("Sorting adjacent nodes...");
+            System.out.println("It has been scheduled. Checking neighbours and sorting them...");
             nodes[i].sortAdjNodes();
 
             Node[] adjToI = nodes[i].getAdjNodes();
 
-            System.out.println("Nodes sorted and are in their own list.");
-            System.out.println("Scanning list...");
+            System.out.println("Nodes sorted and are in their own list. Now scanning...");
 
             for (int j = 0; j < adjToI.length; j++) {
-                System.out.println("If an adjacent node is not coloured, attempt to colour it.");
+             //   System.out.println("If an adjacent node is not coloured, attempt to colour it.");
 
                 if (!adjToI[j].isThisColoured()) {
                     System.out.println("Attempting to colour an adjacent node.");
@@ -330,11 +335,15 @@ public class Optimizer extends Thread {
 
                         int spaceReq = adjToI[j].getStudentLevel();
                         Room goodRoom = Rcd.getRoomWithBestCapacity(spaceReq);
+                        
                         if(goodRoom == null){
                         	System.out.println("\n\n THIS SHOLD NEVER, EVER HAPPEN LOGICALLY. GO CHECK getRoomWIthBestCapacity.");
                         	System.out.println("We're currently just dealing with the adjacent nodes.");
                         	throw new NullPointerException("Unable to find room for exam");
                         }
+                        System.out.println("In adjacency nodes, printing out days and time");
+                        System.out.println(Rcd.getDay());
+                        System.out.println(Rcd.getTimeSlot());
                         Exam temp = new Exam(adjToI[j].getCourse(), goodRoom);
 
                         Rcd.addExam(temp);
@@ -343,7 +352,7 @@ public class Optimizer extends Thread {
                 }
             }    // for int j
 
-            System.out.println("List scanned, go look at more courses.");
+            //System.out.println("List scanned, go look at more courses.");
         }    // for int i
 
         System.out.println("All nodes should be handled at this point.");
@@ -365,15 +374,6 @@ public class Optimizer extends Thread {
 
     public double getPercentCompleted() {
         return (double) numNodesProcessed / (double) numOfCourses;
-    }
-
-    private int calculateColourWeight(int slot, Node R) {
-        int i = R.getI();
-        int j = slot % NUM_EXAMS_PER_DAY;
-        int k = NUM_EXAMS_PER_DAY;
-        int ColorVal = (i - 1) * k + j;
-
-        return ColorVal;
     }
 
     // As described in part C, apparently we'll need this?
@@ -428,6 +428,12 @@ public class Optimizer extends Thread {
 
             for (int k = 0; k < newSchedule.getNumExamsPerDay(); k++) {
                 Rjk = newSchedule.getExamSlot(j, k);
+                
+                System.out.println("Evaluating a slot. Check to see what's j and k values are.");
+                System.out.println("The day (J) is = " + Rjk.getDay());
+                System.out.println("The timeslot (K) is = " + Rjk.getTimeSlot());
+                
+                
                 isValid = true;
 
                 System.out.println("\nEntering third for loop; will run " + adjNodes.length + " times, multiplied by "
@@ -452,14 +458,17 @@ public class Optimizer extends Thread {
                             "Checking to see if we're not looking at the same day/slot combo as the potential slot for the node we're looking for.");
 
                         if ((day != j) || (timeSlot != k)) {
+                        	System.out.println("It is not. Now running a battery of other tests.");
                             if (Math.abs(day - j) == 0) {
-                                if (Math.abs(timeSlot - k) <= 1) {
-                                    isValid = false;
+                                if (Math.abs(timeSlot - k) <= 0) {
+                                	System.out.println("It failed the D1 D2 stuff.");
+                                	isValid = false;
 
                                     break;
                                 }    // end D1
                             }    // end D2
-
+                            System.out.println("It passed the D1 and D2 stuff.");
+                            
                             // CONCURRENCY LIMIT????
                             Room[] rooms = Rjk.getRooms();
                             int available = 0;
@@ -472,37 +481,48 @@ public class Optimizer extends Thread {
 
                             if (available == 0) {
                                 isValid = false;
+                            	System.out.println("It failed the concurrency limit stuff.");
 
                                 break;
                             }
 
+                            System.out.println("It passed the concurrency limit stuff.");
+                            
+                            /*
                             if (checkThreeExamsConstraint(Ci, Rjk, j) == false) {
                                 isValid = false;
+                            	System.out.println("It failed the ThreeExamConstraint stuff.");
 
                                 break;
                             }
-                        }    // end if
-                                else {
-                            isValid = false;
+                            */
 
-                            break;
+                            System.out.println("Three exam constraint has been omitted.");
+                        }    // end if
+                        else {
+                            System.out.println("It was.");
+                            isValid = false;
+                            continue;
+                            
                         }
                     }    // end if Ref != null
-                            else {
-                        break;
-                    }
+                    //        else {
+                       // break;
+                    //}
                 }    // end for r
 
                 if (isValid == true) {
                     System.out.println("Found smallest available colour for node " + Ci.getI());
+                    System.out.println("--------------------------- LEAVING getSmallestAvailableColour ---------------------");
+                    return Rjk;
+                    
                 }
-
-                return Rjk;
+                
             }    // end for k
         }    // end for j
 
         System.out.println("Failed to find smallest available colour for node " + Ci.getI());
-
+        System.out.println("--------------------------- LEAVING getSmallestAvailableColour ---------------------");
         return null;
     }
 
