@@ -53,8 +53,10 @@ public class Schedule implements ExamScheduleInterface {
                 }
 
                 schedule[i][j] = new ScheduledExamSlot(roomList);
+                schedule[i][j].setDay(i);
+                schedule[i][j].setTimeSlot(j);
             }
-        }
+        }       
     }
 
     /*
