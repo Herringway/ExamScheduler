@@ -15,6 +15,8 @@ import java.util.Date;
 
 import javax.swing.JDialog;
 import javax.swing.JOptionPane;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
 
 /**
  * Singleton entry point of application.
@@ -33,6 +35,12 @@ public class ExamSchedulerMain {
      * Show the GUI.
      */
     private ExamSchedulerMain() {
+        try {
+            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException e) {
+            e.printStackTrace();
+        }
+
         applicationFrame = new ApplicationFrame();
 
         applicationFrame.setVisible(true);

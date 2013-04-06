@@ -33,8 +33,7 @@ import javax.swing.SwingConstants;
 public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
     private static Logger log = Logger.getLogger(FileProcessor.class.getName());
     private static final long serialVersionUID = -2079726290397496169L;
-    private JLabel examFileStatusLabel, roomFileStatusLabel, courseFileStatusLabel, chosenStartDateLabel, chosenOutputFileLabel, examFileLocation,
-                   roomFileLocation, courseFileLocation;
+    private JLabel roomFileStatusLabel, courseFileStatusLabel, chosenStartDate, outputFileLocation, roomFileLocation, courseFileLocation;
     private JPanel centerPanel;
 
     /**
@@ -50,7 +49,7 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         centerPanel = new JPanel();
 
         centerPanel.setBorder(null);
-        add(centerPanel, BorderLayout.WEST);
+        add(centerPanel, BorderLayout.CENTER);
         centerPanel.setLayout(new FormLayout(new ColumnSpec[] {
             FormFactory.RELATED_GAP_COLSPEC, FormFactory.DEFAULT_COLSPEC, FormFactory.RELATED_GAP_COLSPEC, FormFactory.DEFAULT_COLSPEC,
             FormFactory.RELATED_GAP_COLSPEC, FormFactory.DEFAULT_COLSPEC, FormFactory.RELATED_GAP_COLSPEC, FormFactory.DEFAULT_COLSPEC,
@@ -68,50 +67,40 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         startDateLabel.setFont(new Font("Dialog", Font.BOLD, 12));
         centerPanel.add(startDateLabel, "2, 2");
 
-        chosenStartDateLabel = new JLabel();
+        chosenStartDate = new JLabel();
 
-        chosenStartDateLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
-        centerPanel.add(chosenStartDateLabel, "4, 2");
+        chosenStartDate.setFont(new Font("Dialog", Font.PLAIN, 12));
+        centerPanel.add(chosenStartDate, "4, 2");
 
-        chosenOutputFileLabel = new JLabel();
-
-        chosenOutputFileLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
-        centerPanel.add(chosenOutputFileLabel, "4, 4");
-
-        JLabel lblOutputFileLocation = new JLabel("Output file location");
-
-        lblOutputFileLocation.setFont(new Font("Dialog", Font.BOLD, 12));
-        centerPanel.add(lblOutputFileLocation, "2, 4");
-
-        JLabel examFileLabel = new JLabel("Exam file status");
-
-        examFileLabel.setFont(new Font("Dialog", Font.BOLD, 12));
-        centerPanel.add(examFileLabel, "2, 6");
-
-        examFileLocation = new JLabel();
-
-        examFileLocation.setFont(new Font("Dialog", Font.PLAIN, 12));
-        centerPanel.add(examFileLocation, "4, 6");
-
-        JLabel courseFileLabel = new JLabel("Course file status");
+        JLabel courseFileLabel = new JLabel("Course file");
 
         courseFileLabel.setFont(new Font("Dialog", Font.BOLD, 12));
-        centerPanel.add(courseFileLabel, "2, 8");
+        centerPanel.add(courseFileLabel, "2, 4");
+
+        outputFileLocation = new JLabel();
+
+        outputFileLocation.setFont(new Font("Dialog", Font.PLAIN, 12));
+        centerPanel.add(outputFileLocation, "4, 8");
+
+        JLabel roomFileLabel = new JLabel("Room file");
+
+        roomFileLabel.setFont(new Font("Dialog", Font.BOLD, 12));
+        centerPanel.add(roomFileLabel, "2, 6");
 
         courseFileLocation = new JLabel();
 
         courseFileLocation.setFont(new Font("Dialog", Font.PLAIN, 12));
-        centerPanel.add(courseFileLocation, "4, 8");
+        centerPanel.add(courseFileLocation, "4, 4");
 
-        JLabel roomFileLabel = new JLabel("Room file status");
+        JLabel outputFileLabel = new JLabel("Output file");
 
-        roomFileLabel.setFont(new Font("Dialog", Font.BOLD, 12));
-        centerPanel.add(roomFileLabel, "2, 10");
+        outputFileLabel.setFont(new Font("Dialog", Font.BOLD, 12));
+        centerPanel.add(outputFileLabel, "2, 8");
 
         roomFileLocation = new JLabel();
 
         roomFileLocation.setFont(new Font("Dialog", Font.PLAIN, 12));
-        centerPanel.add(roomFileLocation, "4, 10");
+        centerPanel.add(roomFileLocation, "4, 6");
 
         JPanel northPanel = new JPanel();
 
@@ -146,7 +135,7 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
 
             roomFileStatusLabel.setFont(new Font("Dialog", Font.BOLD, 12));
             roomFileStatusLabel.setForeground(new Color(0, 128, 0));
-            centerPanel.add(roomFileStatusLabel, "6, 10");
+            centerPanel.add(roomFileStatusLabel, "6, 6");
         } catch (Exception e) {
             log.error(e.getMessage());
 
@@ -154,26 +143,20 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
 
             roomFileStatusLabel.setFont(new Font("Dialog", Font.BOLD, 12));
             roomFileStatusLabel.setForeground(new Color(128, 0, 0));
-            centerPanel.add(roomFileStatusLabel, "6, 10");
+            centerPanel.add(roomFileStatusLabel, "6, 6");
             inputFail(e.getMessage());
 
             return;
         }
 
         try {
-            FileProcessor.loadCourses(settings.getCourseFilePath(), settings.getExamFilePath());
+            FileProcessor.loadCourses(settings.getCourseFilePath(), null);
 
             courseFileStatusLabel = new JLabel("Okay");
 
             courseFileStatusLabel.setFont(new Font("Dialog", Font.BOLD, 12));
             courseFileStatusLabel.setForeground(new Color(0, 128, 0));
-            centerPanel.add(courseFileStatusLabel, "6, 8");
-
-            examFileStatusLabel = new JLabel("Okay");
-
-            examFileStatusLabel.setFont(new Font("Dialog", Font.BOLD, 12));
-            examFileStatusLabel.setForeground(new Color(0, 128, 0));
-            centerPanel.add(examFileStatusLabel, "6, 6");
+            centerPanel.add(courseFileStatusLabel, "6, 4");
         } catch (Exception e) {
             e.printStackTrace();
             log.error(e.getMessage());
@@ -182,13 +165,7 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
 
             courseFileStatusLabel.setFont(new Font("Dialog", Font.BOLD, 12));
             courseFileStatusLabel.setForeground(new Color(128, 0, 0));
-            centerPanel.add(courseFileStatusLabel, "6, 8");
-
-            examFileStatusLabel = new JLabel("Problems encountered");
-
-            examFileStatusLabel.setFont(new Font("Dialog", Font.BOLD, 12));
-            examFileStatusLabel.setForeground(new Color(128, 0, 0));
-            centerPanel.add(examFileStatusLabel, "6, 6");
+            centerPanel.add(courseFileStatusLabel, "6, 4");
             inputFail(e.getMessage());
 
             return;
@@ -209,12 +186,17 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         ExamSchedulerMain.getInstance().getApplicationFrame().disableContinue();
         ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
 
-        String m = "Error encountered when loading input files: " + message + "\n";
+        String m = "Problem encountered when loading input files: " + message + "\n";
 
-        m += "See the help file for correct input file format, and see the log file for more details about the error.\n";
-        m += "Application will exit now...";
+        m += "See the log for more information. The program will exit now.";
 
-        ExamSchedulerMain.getInstance().error(m, true);
+        String[] opts = { "Exit", "View Log" };
+
+        if ("View Log".equals(ExamSchedulerMain.getInstance().askUser("Problem Encountered", m, opts))) {
+            ExamSchedulerMain.getInstance().getApplicationFrame().showLog();
+        }
+
+        ExamSchedulerMain.getInstance().exit(1);
     }
 
     @Override
@@ -228,10 +210,9 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
 
         courseFileLocation.setText(settings.getCourseFilePath());
-        examFileLocation.setText(settings.getExamFilePath());
         roomFileLocation.setText(settings.getRoomFilePath());
-        chosenStartDateLabel.setText(ExamSchedulerMain.formatDate(settings.getStartDate().getTime(), "dd MMMM yyyy"));
-        chosenOutputFileLabel.setText(settings.getSaveFilePath());
+        chosenStartDate.setText(ExamSchedulerMain.formatDate(settings.getStartDate().getTime(), "dd MMMM yyyy"));
+        outputFileLocation.setText(settings.getSaveFilePath());
     }
 
     @Override

@@ -11,6 +11,7 @@ import data.Optimizer;
 import org.apache.log4j.Logger;
 
 import ui.ExamSchedulerMain;
+import ui.RunHistory;
 
 //~--- JDK imports ------------------------------------------------------------
 
@@ -50,6 +51,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
     private boolean firstStart = true;
     private static Logger log = Logger.getLogger(ScheduleRunningPanel.class.getName());
     private Optimizer optimizer_threaded = null;
+    private RunHistory runHistory = new RunHistory();
 
     /**
      * Constructs ScheduleRunningPanel.
@@ -92,6 +94,21 @@ public class ScheduleRunningPanel extends ApplicationPanel {
                 pauseToggleClicked();
             }
         });
+
+        JButton viewHistoryButton = new JButton("Past Schedules");
+
+        southPanel.add(viewHistoryButton);
+        viewHistoryButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent arg0) {
+                runHistory.setVisible(true);
+            }
+        });
+        viewHistoryButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/clock.png")));
+        viewHistoryButton.setToolTipText("View the time taken to find previous schedules");
+
+        Component horizontalStrut = Box.createHorizontalStrut(20);
+
+        southPanel.add(horizontalStrut);
         southPanel.add(pauseButton);
 
         GridBagConstraints gbc_startTimeLabel;
@@ -123,7 +140,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         JLabel timeStartedLabel = new JLabel("Time started");
 
-        timeStartedLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
+        timeStartedLabel.setFont(new Font("Dialog", Font.BOLD, 12));
 
         GridBagConstraints gbc_timeStartedLabel = new GridBagConstraints();
 
@@ -143,9 +160,9 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         internalCenterPanel.add(startTimeLabel, gbc_startTimeLabel);
 
-        JLabel percentCompleteTitleLabel = new JLabel("Percentage complete");
+        JLabel percentCompleteTitleLabel = new JLabel("Exams Scheduled");
 
-        percentCompleteTitleLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
+        percentCompleteTitleLabel.setFont(new Font("Dialog", Font.BOLD, 12));
 
         GridBagConstraints gbc_estimatedTimeLeftLabel = new GridBagConstraints();
 
@@ -169,7 +186,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         JLabel elapsedRunningTimeLabel = new JLabel("Elapsed running time");
 
-        elapsedRunningTimeLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
+        elapsedRunningTimeLabel.setFont(new Font("Dialog", Font.BOLD, 12));
 
         GridBagConstraints gbc_elapsedRunningTimeLabel = new GridBagConstraints();
 
@@ -261,6 +278,8 @@ public class ScheduleRunningPanel extends ApplicationPanel {
     }
 
     public void schedulerFinished() {
+        runHistory.store(startTimeLabel.getText(), runTimeLabel.getText());
+
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
 

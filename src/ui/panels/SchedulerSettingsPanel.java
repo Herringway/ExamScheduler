@@ -43,7 +43,6 @@ import javax.swing.filechooser.FileNameExtensionFilter;
  */
 public class SchedulerSettingsPanel extends ApplicationPanel {
     private static final long serialVersionUID = -9160953845530006827L;
-    private JTextField examFileText;
     private JTextField roomFileText;
     private JTextField courseFileText;
     private static Logger log = Logger.getLogger(SchedulerSettingsPanel.class.getName());
@@ -103,61 +102,68 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         instructionLabelInput.setFont(new Font("Dialog", Font.ITALIC, 12));
         internalNorthPanel.add(instructionLabelInput, "2, 2");
 
-        JButton examFileButton = new JButton("Exam File");
-
-        examFileButton.setToolTipText("Choose the location of the exam file");
-        examFileButton.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent arg0) {
-                setChosenInputFile(examFileText, "Open Exam File");
-            }
-        });
-        internalNorthPanel.add(examFileButton, "2, 4");
-
-        examFileText = new JTextField();
-
-        examFileText.setEditable(false);
-        examFileText.setToolTipText("Use the adjacent button to populate this text box");
-        examFileText.setColumns(10);
-        internalNorthPanel.add(examFileText, "4, 4, fill, default");
-
-        JButton roomFileButton = new JButton("Room File");
-
-        roomFileButton.setToolTipText("Choose the location of the room file");
-        roomFileButton.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent arg0) {
-                setChosenInputFile(roomFileText, "Open Room File");
-            }
-        });
-
         JButton courseFileButton = new JButton("Course File");
 
         courseFileButton.setToolTipText("Choose the location of the course file");
         courseFileButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent arg0) {
-                setChosenInputFile(courseFileText, "Open Course File");
+                JFileChooser chooser = new JFileChooser();
+                FileNameExtensionFilter filter = new FileNameExtensionFilter("Open Course File", "txt");
+
+                chooser.setDialogTitle("Open Room File");
+                chooser.setFileFilter(filter);
+
+                int returnVal = chooser.showOpenDialog(ExamSchedulerMain.getInstance().getApplicationFrame());
+
+                if (returnVal == JFileChooser.APPROVE_OPTION) {
+                    courseFileText.setText(chooser.getSelectedFile().getAbsolutePath());
+                }
+
+                checkContinue();
             }
         });
-        internalNorthPanel.add(courseFileButton, "2, 6");
+        internalNorthPanel.add(courseFileButton, "2, 4");
 
         courseFileText = new JTextField();
 
         courseFileText.setToolTipText("Use the adjacent button to populate this text box");
         courseFileText.setEditable(false);
         courseFileText.setColumns(10);
-        internalNorthPanel.add(courseFileText, "4, 6, fill, default");
-        internalNorthPanel.add(roomFileButton, "2, 8");
+        internalNorthPanel.add(courseFileText, "4, 4, fill, default");
+
+        JButton roomFileButton = new JButton("Room File");
+
+        roomFileButton.setToolTipText("Choose the location of the room file");
+        roomFileButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent arg0) {
+                JFileChooser chooser = new JFileChooser();
+                FileNameExtensionFilter filter = new FileNameExtensionFilter("Plain text files", "txt");
+
+                chooser.setDialogTitle("Open Room File");
+                chooser.setFileFilter(filter);
+
+                int returnVal = chooser.showOpenDialog(ExamSchedulerMain.getInstance().getApplicationFrame());
+
+                if (returnVal == JFileChooser.APPROVE_OPTION) {
+                    roomFileText.setText(chooser.getSelectedFile().getAbsolutePath());
+                }
+
+                checkContinue();
+            }
+        });
+        internalNorthPanel.add(roomFileButton, "2, 6");
 
         roomFileText = new JTextField();
 
         roomFileText.setToolTipText("Use the adjacent button to populate this text box");
         roomFileText.setEditable(false);
         roomFileText.setColumns(10);
-        internalNorthPanel.add(roomFileText, "4, 8, fill, default");
+        internalNorthPanel.add(roomFileText, "4, 6, fill, default");
 
         JLabel instructionLabelOutput = new JLabel("Output file location");
 
         instructionLabelOutput.setFont(new Font("Dialog", Font.ITALIC, 12));
-        internalNorthPanel.add(instructionLabelOutput, "2, 10");
+        internalNorthPanel.add(instructionLabelOutput, "2, 8");
 
         JButton outputFileButton = new JButton("Output File");
 
@@ -168,10 +174,18 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
 
                 fileChooser.setDialogTitle("Choose Schedule Output File Location");
 
+                FileNameExtensionFilter filter = new FileNameExtensionFilter("Plain text files", "txt");
+
+                fileChooser.setFileFilter(filter);
+
                 int userSelection = fileChooser.showSaveDialog(ExamSchedulerMain.getInstance().getApplicationFrame());
 
                 if (userSelection == JFileChooser.APPROVE_OPTION) {
                     String fileToSave = fileChooser.getSelectedFile().getAbsolutePath();
+
+                    if (!fileToSave.toLowerCase().endsWith(".txt")) {
+                        fileToSave += ".txt";
+                    }
 
                     outputFileText.setText(fileToSave);
                 }
@@ -179,14 +193,14 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
                 checkContinue();
             }
         });
-        internalNorthPanel.add(outputFileButton, "2, 12");
+        internalNorthPanel.add(outputFileButton, "2, 10");
 
         outputFileText = new JTextField();
 
         outputFileText.setToolTipText("Use the adjacent button to populate this text box");
         outputFileText.setEditable(false);
         outputFileText.setColumns(10);
-        internalNorthPanel.add(outputFileText, "4, 12, fill, default");
+        internalNorthPanel.add(outputFileText, "4, 10, fill, default");
 
         JPanel internalCenterPanel = new JPanel();
         FlowLayout flowLayout = (FlowLayout) internalCenterPanel.getLayout();
@@ -226,10 +240,6 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
     }
 
     private boolean allFilesSpecified() {
-        if ((examFileText.getText() == null) || (examFileText.getText().trim().length() < 1)) {
-            return false;
-        }
-
         if ((roomFileText.getText() == null) || (roomFileText.getText().trim().length() < 1)) {
             return false;
         }
@@ -243,22 +253,6 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         }
 
         return true;
-    }
-
-    public void setChosenInputFile(JTextField pathField, String title) {
-        JFileChooser chooser = new JFileChooser();
-        FileNameExtensionFilter filter = new FileNameExtensionFilter("Plain text files", "txt");
-
-        chooser.setDialogTitle(title);
-        chooser.setFileFilter(filter);
-
-        int returnVal = chooser.showOpenDialog(ExamSchedulerMain.getInstance().getApplicationFrame());
-
-        if (returnVal == JFileChooser.APPROVE_OPTION) {
-            pathField.setText(chooser.getSelectedFile().getAbsolutePath());
-        }
-
-        checkContinue();
     }
 
     @Override
@@ -275,10 +269,6 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
     @Override
     public void userRequestedClose() {
         ExamSchedulerMain.getInstance().exit(0);    // don't need to confirm with user
-    }
-
-    public String getExamFilePath() {
-        return examFileText.getText();
     }
 
     public String getRoomFilePath() {
