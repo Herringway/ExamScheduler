@@ -1,5 +1,5 @@
-2013-04-06 19:55:55 - Application startup, initializing user interface.
-2013-04-06 19:55:56 - Specifying scheduler settings
-2013-04-06 19:56:08 - Searching for schedules
-2013-04-06 19:56:13 - Scheduler finished
-2013-04-06 19:56:20 - Closing application
+2013-04-06 20:11:01 - Application startup, initializing user interface.
+2013-04-06 20:11:01 - Specifying scheduler settings
+2013-04-06 20:11:17 - Searching for schedules
+2013-04-06 20:11:21 - Scheduler finished
+2013-04-06 20:11:23 - Closing application

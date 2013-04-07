@@ -94,6 +94,21 @@ public class ScheduleRunningPanel extends ApplicationPanel {
                 pauseToggleClicked();
             }
         });
+
+        JButton viewHistoryButton = new JButton("Past Schedules");
+
+        southPanel.add(viewHistoryButton);
+        viewHistoryButton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent arg0) {
+                runHistory.setVisible(true);
+            }
+        });
+        viewHistoryButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/clock.png")));
+        viewHistoryButton.setToolTipText("View the time taken to find previous schedules");
+
+        Component horizontalStrut = Box.createHorizontalStrut(20);
+
+        southPanel.add(horizontalStrut);
         southPanel.add(pauseButton);
 
         GridBagConstraints gbc_startTimeLabel;
@@ -125,7 +140,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         JLabel timeStartedLabel = new JLabel("Time started");
 
-        timeStartedLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
+        timeStartedLabel.setFont(new Font("Dialog", Font.BOLD, 12));
 
         GridBagConstraints gbc_timeStartedLabel = new GridBagConstraints();
 
@@ -147,7 +162,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         JLabel percentCompleteTitleLabel = new JLabel("Exams Scheduled");
 
-        percentCompleteTitleLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
+        percentCompleteTitleLabel.setFont(new Font("Dialog", Font.BOLD, 12));
 
         GridBagConstraints gbc_estimatedTimeLeftLabel = new GridBagConstraints();
 
@@ -171,7 +186,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
         JLabel elapsedRunningTimeLabel = new JLabel("Elapsed running time");
 
-        elapsedRunningTimeLabel.setFont(new Font("Dialog", Font.PLAIN, 12));
+        elapsedRunningTimeLabel.setFont(new Font("Dialog", Font.BOLD, 12));
 
         GridBagConstraints gbc_elapsedRunningTimeLabel = new GridBagConstraints();
 
@@ -192,24 +207,6 @@ public class ScheduleRunningPanel extends ApplicationPanel {
         gbc_runTimeLabel.gridy = 2;
 
         internalCenterPanel.add(runTimeLabel, gbc_runTimeLabel);
-
-        JButton viewHistoryButton = new JButton("View History");
-
-        viewHistoryButton.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent arg0) {
-                runHistory.setVisible(true);
-            }
-        });
-        viewHistoryButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/clock.png")));
-        viewHistoryButton.setToolTipText("View the time taken to find previous schedules");
-
-        GridBagConstraints gbc_viewHistoryButton = new GridBagConstraints();
-
-        gbc_viewHistoryButton.insets = new Insets(0, 0, 5, 5);
-        gbc_viewHistoryButton.gridx = 1;
-        gbc_viewHistoryButton.gridy = 3;
-
-        internalCenterPanel.add(viewHistoryButton, gbc_viewHistoryButton);
 
         JPanel internalSouthPanel = new JPanel();
         FlowLayout flowLayout = (FlowLayout) internalSouthPanel.getLayout();
