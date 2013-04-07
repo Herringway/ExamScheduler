@@ -40,43 +40,35 @@
 	
 	
 	<p class="panel_header">Panel One</p>
-	<p><img class="panel_img" alt="" src="panel_one.jpg" /></p>
+	<p><img class="panel_img" alt="" src="Screen_1.jpg" /></p>
 	<p class="panel_description">The first panel allows the user to select the appropriate files to 
-	schedule the exams. The buttons labelled 'Course File' and 'Room File' both open a file selector dialog when clicked. Once both of the files have been chosen the user is ready to move on and should 
+	schedule the exams. The buttons labelled 'Course File' and 'Room File' both open a file selector dialogs when clicked. The user must also select a folder location and file name for the output file by clicking the button labelled 'Output File'; the extension '.csv' will be appended to the filename chosen.
+	Once all three of the files have been chosen the user is ready to move on and should 
 	click the 'Continue' button as depicted in the bottom-right corner.</p>
+	<p><img class="panel_img" alt="" src="Screen_2.jpg" /></p>
 	<hr class="light_line"/>
 	
 	<p class="panel_header">Panel Two</p>
-	<p><img class="panel_img" alt="" src="panel_two.jpg" /></p>
+	<p><img class="panel_img" alt="" src="Screen_3.jpg" /></p>
 	<p class="panel_description">The second panel is responsible for verifying 
-	the two input files selected in panel one. The three status labels 'Exam 
-	file status', 'Room file status' and 'Professor file status' will indicate 
-	if there is a problem with any of the files. If the three statuses all 
-	return okay then the user should again click the 'Continue' button.</p>
+	the two input files selected in panel one. The two status labels 'Exam 
+	file' and 'Room file' will indicate 
+	if there is a problem with any of the files. If the two statuses all 
+	return 'okay' then the user can again click the 'Continue' button,
+	which will no longer be greyed out.</p>
 	<hr class="light_line"/>
 
 	<p class="panel_header">Panel Three</p>
-	<p><img class="panel_img" alt="" src="panel_three.jpg" /></p>
+	<p><img class="panel_img" alt="" src="Screen_4.jpg" /></p>
 	<p class="panel_description">The third panel does the scheduling of the 
-	exams, the three labels indicate when the scheduling began, the estimated 
-	time remaining (approximation) and the current elapsed running time. The 
-	'Pause' button located above the 'Continue' button allows the user to halt 
-	(and resume) the scheduling of the exams. Once the scheduling is complete 
+	exams, the three labels indicate when the scheduling began, the percentage of exams scheduled, and the current elapsed running time. The 'Pause' button located above the 'Continue' button allows the user to halt (and resume) the scheduling of the exams. Once the scheduling is complete, 
 	the 'Continue' button will become clickable once again and should be clicked 
-	to move onto the final panel.</p>
+	to move onto the final panel. The 'Past Schedules' button allows the user to view previously created schedules, as long as said previous schedules are in the same directory as the current schedule.</p>
 	<hr class="light_line"/>
 	
 	<p class="panel_header">Panel Four</p>
-	<p><img class="panel_img" alt="" src="panel_four.jpg" /></p>
-	<p class="panel_description">The final panel displays the scheduled exam and 
-	its properties; the starting and ending date for the exam period, the length 
-	of the exam period (in days), the number of exam conflicts that exist in the 
-	schedule and the number of people with three consecutive exams. Below the 
-	scheduled exam panel there are two buttons; 'View' and 'Save'. The 'View' 
-	button opens the schedule to be viewed, and the 'Save' button allows the 
-	user to save the schedule in a desired format when pressed. When finished 
-	viewing and/or saving the schedule, the 'Finish' button in the bottom right 
-	will exit the program.</p>	
+	<p><img class="panel_img" alt="" src="Screen_5.jpg" /></p>
+	<p class="panel_description">The final panel displays once the scheduler is finished running. This panel lets the user know where the schedule .csv file has been stored. Once the scheduler is finished running, a popup window will let the user view the completed schedule by opening the .csv in a text editor. This displayed file is also saved in the directory the user specified in previous panels (in this case, "C:\outputDemo.csv"). The 'Finish' button in the bottom right will now close the program.</p>
 	
 </body>
 
