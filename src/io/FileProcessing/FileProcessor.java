@@ -91,7 +91,7 @@ public class FileProcessor {
      * @param path
      *            where to write the file to.
      * @param exams
-     * @param examDays
+     * @param validDay
      *            a filter that says whether a certain day is available to have
      *            exams on. It is assumed that there are enough days after the
      *            startDay to put the exams.
@@ -110,7 +110,12 @@ public class FileProcessor {
         // String[] amPM = new String[] { "AM", "PM" };
         while (schDay < numExamDays) {
             while (!validDay.apply(curDay)) {
-                System.out.println("Not valid " + curDay.get(Calendar.DAY_OF_WEEK));
+                System.out.println(
+                		curDay.get(Calendar.DAY_OF_MONTH)
+                		+ "-" + (curDay.get(Calendar.MONTH) + 1) 
+                		+ "-" + curDay.get(Calendar.YEAR) 
+                		+ " is not a valid exam day; moving to next day..."
+                		);
                 curDay.add(Calendar.DAY_OF_YEAR, 1);
             }
 

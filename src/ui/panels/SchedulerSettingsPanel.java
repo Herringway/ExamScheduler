@@ -111,7 +111,7 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
                 JFileChooser chooser = new JFileChooser();
                 FileNameExtensionFilter filter = new FileNameExtensionFilter("Open Course File", "txt");
 
-                chooser.setDialogTitle("Open Room File");
+                chooser.setDialogTitle("Open Course File");
                 chooser.setFileFilter(filter);
 
                 int returnVal = chooser.showOpenDialog(ExamSchedulerMain.getInstance().getApplicationFrame());
@@ -138,7 +138,7 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         roomFileButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent arg0) {
                 JFileChooser chooser = new JFileChooser();
-                FileNameExtensionFilter filter = new FileNameExtensionFilter("Plain text files", "txt");
+                FileNameExtensionFilter filter = new FileNameExtensionFilter("Open Room File", "txt");
 
                 chooser.setDialogTitle("Open Room File");
                 chooser.setFileFilter(filter);
@@ -184,8 +184,8 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
                 if (userSelection == JFileChooser.APPROVE_OPTION) {
                     String fileToSave = fileChooser.getSelectedFile().getAbsolutePath();
 
-                    if (!fileToSave.toLowerCase().endsWith(".txt")) {
-                        fileToSave += ".txt";
+                    if (!fileToSave.toLowerCase().endsWith(".csv")) {
+                        fileToSave += ".csv";
                     }
 
                     outputFileText.setText(fileToSave);
