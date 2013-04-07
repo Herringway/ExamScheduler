@@ -1,19 +1,15 @@
-- Output file not writing
-- No exceptions are thrown when processing exam file, when clearly it should fail
-- Error handling in both data and io **
-
-- schedule summary statistics
-	- tbd from Zack
-
+- error handling in both data and io (changes will ripple up to GUI)
 - log4j all messages
 
-- Help file needs update
+----------
 
+** - help file needs update
+
+- coordination with Optimizer thread... E.g. reporting back errors, no schedule found, etc.
+- open with excel, .csv file save filter in this case
 
 DONE - save schedule as text file
 DONE - consistent order in review schedules
-- Coordination with Optimizer thread... E.g. reporting back errors, no schedule found, etc.
 DONE - show log in error popup
 DONE - update percentage complete label
 DONE - run history (time)
-- open with excel, .csv filter

@@ -124,6 +124,9 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         status = "awaiting user confirmation";
     }
 
+    /**
+     * Get the input file paths from the previous panel and try to load them. Report errors to user.
+     */
     private void loadFiles() {
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
@@ -174,12 +177,19 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         inputSuccess();
     }
 
+    /**
+     * Will be called if the input files are valid.
+     */
     private void inputSuccess() {
         status = "input files okay, awaiting user confirmation";
 
         ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
     }
 
+    /**
+     * Will be called if an input file is invalid.
+     * @param message
+     */
     private void inputFail(String message) {
         status = "problems encountered, can not proceed";
 
@@ -205,6 +215,9 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         loadFiles();
     }
 
+    /**
+     * Set the labels that indicate previous settings.
+     */
     private void setLabels() {
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");

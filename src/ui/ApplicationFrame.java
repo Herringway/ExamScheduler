@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
 
 import ui.panels.ApplicationPanel;
 import ui.panels.ReviewSchedulerSettingsPanel;
-import ui.panels.ScheduleRunningPanel;
+import ui.panels.SchedulerRunningPanel;
 import ui.panels.SchedulerSettingsPanel;
 
 //~--- JDK imports ------------------------------------------------------------
@@ -60,7 +60,7 @@ public class ApplicationFrame extends JFrame {
     private JPanel northPanel;
     private JPanel southPanel;
     private static Logger log = Logger.getLogger(ApplicationFrame.class.getName());
-    private HashMap<String, ApplicationPanel> cardPanels;
+    private HashMap<String, ApplicationPanel> applicationPanels;
 
     /**
      * Create the frame.
@@ -89,16 +89,16 @@ public class ApplicationFrame extends JFrame {
 
         cardLayout = new CardLayout();
         cardPanel = new JPanel();
-        cardPanels = new HashMap<String, ApplicationPanel>();
+        applicationPanels = new HashMap<String, ApplicationPanel>();
 
         contentPane.add(cardPanel, BorderLayout.CENTER);
         cardPanel.setLayout(cardLayout);
-        cardPanels.put("Scheduler Settings", new SchedulerSettingsPanel("Scheduler Settings"));
-        cardPanels.put("Review Scheduler Settings", new ReviewSchedulerSettingsPanel("Review Scheduler Settings"));
-        cardPanels.put("Building Schedules", new ScheduleRunningPanel("Building Schedules"));
-        cardPanel.add("Scheduler Settings", cardPanels.get("Scheduler Settings"));    // 1st panel
-        cardPanel.add("Review Scheduler Settings", cardPanels.get("Review Scheduler Settings"));    // 2nd panel
-        cardPanel.add("Building Schedules", cardPanels.get("Building Schedules"));    // 3rd panel
+        applicationPanels.put("Scheduler Settings", new SchedulerSettingsPanel("Scheduler Settings"));
+        applicationPanels.put("Review Scheduler Settings", new ReviewSchedulerSettingsPanel("Review Scheduler Settings"));
+        applicationPanels.put("Building Schedules", new SchedulerRunningPanel("Building Schedules"));
+        cardPanel.add("Scheduler Settings", applicationPanels.get("Scheduler Settings"));    // 1st panel
+        cardPanel.add("Review Scheduler Settings", applicationPanels.get("Review Scheduler Settings"));    // 2nd panel
+        cardPanel.add("Building Schedules", applicationPanels.get("Building Schedules"));    // 3rd panel
 
         panel = new JPanel();
 
@@ -181,10 +181,16 @@ public class ApplicationFrame extends JFrame {
         disableContinue();
     }
 
+    /**
+     * Disable the continue button.
+     */
     public void disableContinue() {
         continueButton.setEnabled(false);
     }
 
+    /**
+     * Enable the continue button.
+     */
     public void enableContinue() {
         continueButton.setEnabled(true);
     }
@@ -201,9 +207,9 @@ public class ApplicationFrame extends JFrame {
             if (app instanceof FileAppender) {
                 try {
                     java.awt.Desktop.getDesktop().open(new File(((FileAppender) app).getFile()));
-                } catch (IOException e1) {
-                    e1.printStackTrace();
-                    log.error("Unable to show log file with system text editor: " + e1.getMessage());
+                } catch (IOException ex) {
+                    ex.printStackTrace();
+                    log.error("Unable to show log file with system text editor: " + ex.getMessage());
                 }
             }
         }
@@ -238,7 +244,7 @@ public class ApplicationFrame extends JFrame {
         java.net.URI uri = null;
 
         try {
-            fp = fp.replace(File.separator, "/");    // TODO this has been tested on Windows only
+            fp = fp.replace(File.separator, "/");
             uri = new java.net.URI("file:///" + fp);
 
             desktop.browse(uri);
@@ -305,8 +311,13 @@ public class ApplicationFrame extends JFrame {
         return null;
     }
 
+    /**
+     * Get a panel by identifier.
+     * @param identifier
+     * @return ApplicationPanel identified by identifier
+     */
     public ApplicationPanel getPanel(String identifier) {
-        return cardPanels.get(identifier);
+        return applicationPanels.get(identifier);
     }
 
     /**
@@ -324,12 +335,5 @@ public class ApplicationFrame extends JFrame {
      */
     public boolean canNavigateNext() {
         return shownCard < numCards;
-    }
-
-    /**
-     * @return True if there is a preceding card
-     */
-    public boolean canNavigateBack() {
-        return shownCard > 1;
     }
 }

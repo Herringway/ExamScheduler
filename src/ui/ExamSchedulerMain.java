@@ -38,6 +38,7 @@ public class ExamSchedulerMain {
         try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException e) {
+            log.error("Unable to set system look and feel, reverting to default");
             e.printStackTrace();
         }
 
@@ -84,8 +85,6 @@ public class ExamSchedulerMain {
      * @param status Indicate exit status
      */
     public void exit(int status) {
-
-        // TODO any housekeeping before exiting
         log.info("Closing application");
         System.exit(status);
     }
@@ -143,10 +142,16 @@ public class ExamSchedulerMain {
         return formatDate(new Date(), "dd MMMM yyyy HH:mm:ss a");
     }
 
-    public static String formatDate(Date d, String format) {
+    /**
+     * Format a date.
+     * @param date
+     * @param format
+     * @return Formatted date
+     */
+    public static String formatDate(Date date, String format) {
         DateFormat dateFormat = new SimpleDateFormat(format);
 
-        return dateFormat.format(d);
+        return dateFormat.format(date);
     }
 
     /**
@@ -160,7 +165,7 @@ public class ExamSchedulerMain {
                     ExamSchedulerMain.getInstance();
                 } catch (Exception e) {
                     e.printStackTrace();
-                    log.error("Failed to initialize: " + e.getMessage());
+                    log.error("Failed to initialize interface: " + e.getMessage());
                 }
             }
         });
