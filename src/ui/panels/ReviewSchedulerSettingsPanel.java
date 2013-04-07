@@ -130,8 +130,10 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
     private void loadFiles() {
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
-
+        
         try {
+            log.info("Loading room file now");
+        	
             FileProcessor.loadRooms(settings.getRoomFilePath());
 
             roomFileStatusLabel = new JLabel("Okay");
@@ -153,6 +155,8 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
         }
 
         try {
+            log.info("Loading course file now");
+        	
             FileProcessor.loadCourses(settings.getCourseFilePath(), null);
 
             courseFileStatusLabel = new JLabel("Okay");
@@ -181,9 +185,8 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
      * Will be called if the input files are valid.
      */
     private void inputSuccess() {
-        status = "input files okay, awaiting user confirmation";
-
-        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+    	log.info("Input files successfully loaded");
+        updateStatus("input files okay, awaiting user confirmation");
     }
 
     /**
@@ -191,10 +194,9 @@ public class ReviewSchedulerSettingsPanel extends ApplicationPanel {
      * @param message
      */
     private void inputFail(String message) {
-        status = "problems encountered, can not proceed";
+        updateStatus("problems encountered, can not proceed");
 
         ExamSchedulerMain.getInstance().getApplicationFrame().disableContinue();
-        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
 
         String m = "Problem encountered when loading input files: " + message + "\n";
 
