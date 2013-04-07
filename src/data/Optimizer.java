@@ -490,18 +490,16 @@ public class Optimizer extends Thread {
 
                            // System.out.println("It passed the concurrency limit stuff.");
                             
-                            /*
-                             * checkThreeExamsConstraint checker, un comment to enforce this rule.
-                             * 
+                
                             if (checkThreeExamsConstraint(Ci, Rjk, j) == false) {
                                 isValid = false;
-                            	System.out.println("It failed the ThreeExamConstraint stuff.");
+                            //	System.out.println("It failed the ThreeExamConstraint stuff.");
 
                                 break;
                             }
-                            */
+                            
 
-                            System.out.println("Three exam constraint has been omitted.");
+                            //System.out.println("Three exam constraint has been omitted.");
                         }    // end if
                         else {
                            // System.out.println("It was.");
@@ -532,25 +530,30 @@ public class Optimizer extends Thread {
 
     // I really get the feeling that they didn't think this through, but we apparently need this too?
     private boolean checkThreeExamsConstraint(Node Ci, ScheduledExamSlot Rjk, int j) {
-        Course courseI = Ci.getCourse();
+      //  System.out.println("Within three exams constraint");
+    	Course courseI = Ci.getCourse();
         Section[] sectionsI = courseI.getSectionValues();
         HashSet<Integer> Si = new HashSet<Integer>();
 
         // Builds a list of students in courses on Node Ci.
         for (int b = 0; b < sectionsI.length; b++) {
             Integer[] students = sectionsI[b].getStudents();
-
-            for (int c = 0; c < students.length; b++) {
+        //    System.out.println("First for loop : " + b);
+            for (int c = 0; c < students.length; c++) {
                 Si.add(students[c]);
+          //      System.out.println("Second for loop : " + c);
             }
         }
 
+        //System.out.println("first component dealt with.");
         // Iterate across every student
         for (int r = 0; r < Si.size(); r++) {
             int counter = 0;
 
+          //  System.out.println("First for loop, r value : " + r);
             // Across every exam timeslot of a day
             for (int q = 0; q < newSchedule.getNumExamsPerDay(); q++) {
+            //	System.out.println("Second for loop, q value : " + q);
                 ScheduledExamSlot ses = newSchedule.getExamSlot(j, q);
                 ArrayList<Exam> exams = ses.getExams();
                 ArrayList<Course> CRS = new ArrayList<Course>();

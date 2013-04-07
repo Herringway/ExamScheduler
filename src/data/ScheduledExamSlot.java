@@ -76,7 +76,7 @@ public class ScheduledExamSlot {
             int seatsAvailable = roomsAvailable[i].getResource(Resource.SEAT);
             int numRemaining = seatsAvailable - StudentNum;
 
-            if (((bestFit == -1) && (numRemaining > 0)) || ((bestFit > numRemaining) && (bestFit > 0))) {
+            if (((bestFit == -1) && (numRemaining > 0)) || ((bestFit > numRemaining + 10) && (bestFit > 0))) {
                 bestFit = numRemaining;
                 roomIndex = i;
             }
