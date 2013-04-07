@@ -171,6 +171,7 @@ public class FileProcessor {
 
             wr.writeEntry(vals);
         }
+        wr.closeFile();
     }
 
     private static class Exam implements Comparable<Exam> {

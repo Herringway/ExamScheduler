@@ -198,4 +198,12 @@ public class DSVWriter {
 
         this.writeHeader = input;
     }
+    /**
+     * Closes the file.
+     * @throws IOException
+     * @author Cameron Ross
+     */
+    public void closeFile() throws IOException {
+    	fileRef.close();
+    }
 }
