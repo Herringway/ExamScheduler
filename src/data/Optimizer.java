@@ -14,7 +14,7 @@ import SharedData.Section;
 
 import io.FileProcessing.FileProcessor;
 
-import ui.panels.ScheduleRunningPanel;
+import ui.panels.SchedulerRunningPanel;
 
 //~--- JDK imports ------------------------------------------------------------
 
@@ -58,7 +58,7 @@ import java.util.HashSet;
 public class Optimizer extends Thread {
 
     // The panel that created this thread (report back upon completion)
-    ScheduleRunningPanel threadCreator;
+    SchedulerRunningPanel threadCreator;
 
     // Where to save the completed schedule
     private String saveFilePath;
@@ -216,8 +216,8 @@ public class Optimizer extends Thread {
         threadCreator.schedulerFinished();
     }
 
-    public Optimizer(CourseDB c, RoomDB r, StudentDB s, ScheduleRunningPanel threadCreator, String saveFilePath, Calendar startDate) {
-    //    System.out.println("Beginning the initializing of optimization.");
+    public Optimizer(CourseDB c, RoomDB r, StudentDB s, SchedulerRunningPanel threadCreator, String saveFilePath, Calendar startDate) {
+        //System.out.println("Beginning the initializing of optimization.");
 
         courses = c;
         rooms = r;

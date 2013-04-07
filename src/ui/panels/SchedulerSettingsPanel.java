@@ -40,6 +40,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  * A panel that is shown when initializing scheduler.
+ * @author Christian
  */
 public class SchedulerSettingsPanel extends ApplicationPanel {
     private static final long serialVersionUID = -9160953845530006827L;
@@ -47,7 +48,7 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
     private JTextField courseFileText;
     private static Logger log = Logger.getLogger(SchedulerSettingsPanel.class.getName());
     private JTextField outputFileText;
-    private DatePicker dp;
+    private DatePicker datePicker;
 
     /**
      * Constructs SchedulerSettingsPanel.
@@ -217,12 +218,15 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
 
         internalCenterPanel.add(horizontalStrut);
 
-        dp = new DatePicker();
+        datePicker = new DatePicker();
 
-        dp.setToolTipText("Select a date for the first exam");
-        internalCenterPanel.add(dp);
+        datePicker.setToolTipText("Select a date for the first exam");
+        internalCenterPanel.add(datePicker);
     }
 
+    /**
+     * Check to see if the user is allowed to proceed (i.e. all input has been given).
+     */
     private void checkContinue() {
         if (allFilesSpecified()) {
             ExamSchedulerMain.getInstance().getApplicationFrame().enableContinue();
@@ -239,6 +243,9 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         }
     }
 
+    /**
+     * @return True if the user has specified all the required file paths, false otherwise
+     */
     private boolean allFilesSpecified() {
         if ((roomFileText.getText() == null) || (roomFileText.getText().trim().length() < 1)) {
             return false;
@@ -271,22 +278,34 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         ExamSchedulerMain.getInstance().exit(0);    // don't need to confirm with user
     }
 
+    /**
+     * @return Room file path specified by user
+     */
     public String getRoomFilePath() {
         return roomFileText.getText();
     }
 
+    /**
+     * @return Course file path specified by user
+     */
     public String getCourseFilePath() {
         return courseFileText.getText();
     }
 
+    /**
+     * @return Save file path specified by user
+     */
     public String getSaveFilePath() {
         return outputFileText.getText();
     }
 
+    /**
+     * @return Start date specified by user
+     */
     public Calendar getStartDate() {
         Calendar cal = Calendar.getInstance();
 
-        cal.setTime(dp.getDate());
+        cal.setTime(datePicker.getDate());
 
         return cal;
     }

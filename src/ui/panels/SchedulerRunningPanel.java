@@ -42,14 +42,15 @@ import javax.swing.Timer;
 
 /**
  * A panel to be shown when scheduler stage is active.
+ * @author Christian
  */
-public class ScheduleRunningPanel extends ApplicationPanel {
+public class SchedulerRunningPanel extends ApplicationPanel {
     private static final long serialVersionUID = -3712954268378404263L;
     private JButton pauseButton;
     private boolean paused = true;
     private JLabel startTimeLabel, percentCompleteLabel, runTimeLabel, infoLabel;
     private boolean firstStart = true;
-    private static Logger log = Logger.getLogger(ScheduleRunningPanel.class.getName());
+    private static Logger log = Logger.getLogger(SchedulerRunningPanel.class.getName());
     private Optimizer optimizer_threaded = null;
     private RunHistory runHistory = new RunHistory();
 
@@ -57,7 +58,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
      * Constructs ScheduleRunningPanel.
      * @param name ScheduleRunningPanel name
      */
-    public ScheduleRunningPanel(String name) {
+    public SchedulerRunningPanel(String name) {
         super(name);
 
         setLayout(new BorderLayout(0, 0));
@@ -103,7 +104,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
                 runHistory.setVisible(true);
             }
         });
-        viewHistoryButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/clock.png")));
+        viewHistoryButton.setIcon(new ImageIcon(SchedulerRunningPanel.class.getResource("/ui/img/clock.png")));
         viewHistoryButton.setToolTipText("View the time taken to find previous schedules");
 
         Component horizontalStrut = Box.createHorizontalStrut(20);
@@ -228,7 +229,7 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
                     secs++;
 
-                    setRunTimeEstimate();
+                    setProgressPercentageLabel();
                 }
             }
             private String format(long seconds) {
@@ -255,16 +256,29 @@ public class ScheduleRunningPanel extends ApplicationPanel {
         new Timer(delay, taskPerformer).start();
     }
 
-    private void setRunTimeEstimate() {
-        percentCompleteLabel.setText(roundTwoDecimals(optimizer_threaded.getPercentCompleted() * 100) + "%");
-    }
-
-    double roundTwoDecimals(double d) {
+    /**
+     * Set the JLabel that indicates progress.
+     */
+    private void setProgressPercentageLabel() {
         DecimalFormat twoDForm = new DecimalFormat("#.##");
 
-        return Double.valueOf(twoDForm.format(d));
+        Double.valueOf(twoDForm.format(optimizer_threaded.getPercentCompleted() * 100));
+        percentCompleteLabel.setText(Double.valueOf(twoDForm.format(optimizer_threaded.getPercentCompleted() * 100)) + "%");
     }
 
+    /**
+     * Updates the information JLabel (display text to user in the panel).
+     */
+    private void setInfoLabel() {
+        SchedulerSettingsPanel settings =
+            (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
+
+        infoLabel.setText("The schedule will be automatically saved to: " + settings.getSaveFilePath());
+    }
+
+    /**
+     * Called when the user clicks the Pause/Resume button.
+     */
     private void pauseToggleClicked() {
         if (paused) {
             paused = false;
@@ -277,37 +291,10 @@ public class ScheduleRunningPanel extends ApplicationPanel {
         }
     }
 
-    public void schedulerFinished() {
-        runHistory.store(startTimeLabel.getText(), runTimeLabel.getText());
-
-        SchedulerSettingsPanel settings =
-            (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
-
-        ExamSchedulerMain.getInstance().getApplicationFrame().enableContinue();
-        log.info("Scheduler finished");
-
-        paused = true;
-
-        pauseButton.setEnabled(false);
-
-        status = "scheduler finished";
-
-        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
-        setRunTimeEstimate();
-
-        String[] opts = { "Yes", "No" };
-
-        if ("Yes".equals(ExamSchedulerMain.getInstance().askUser("Schedule Found!", "The schedule has been saved, view it now?", opts))) {
-            try {
-                java.awt.Desktop.getDesktop().open(new File(settings.getSaveFilePath()));
-            } catch (IOException e) {
-
-                // TODO
-                e.printStackTrace();
-            }
-        }
-    }
-
+    /**
+     * Called when the scheduler is to be paused.
+     */
+    @SuppressWarnings("deprecation")
     private void schedulerPaused() {
         log.info("Paused search for schedules");
 
@@ -321,6 +308,10 @@ public class ScheduleRunningPanel extends ApplicationPanel {
         optimizer_threaded.suspend();    // deprecated due to deadlock risk, but I'm fairly certain this is safe for our program
     }
 
+    /**
+     * Called when the scheduler is to be started.
+     */
+    @SuppressWarnings("deprecation")
     private void schedulerStarted() {
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
@@ -351,22 +342,50 @@ public class ScheduleRunningPanel extends ApplicationPanel {
         ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
     }
 
-    private void setInfoLabel() {
-        SchedulerSettingsPanel settings =
-            (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
-
-        infoLabel.setText("The schedule will be automatically saved to: " + settings.getSaveFilePath());
-    }
-
+    /**
+     * Called to update the Pause/Resume button display.
+     */
     private void setPauseResumeButton() {
         if (paused) {
             pauseButton.setText("Resume");
-            pauseButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/resume.png")));
+            pauseButton.setIcon(new ImageIcon(SchedulerRunningPanel.class.getResource("/ui/img/resume.png")));
             pauseButton.setToolTipText("Resume scheduler");
         } else {
             pauseButton.setText("Pause");
-            pauseButton.setIcon(new ImageIcon(ScheduleRunningPanel.class.getResource("/ui/img/pause.png")));
+            pauseButton.setIcon(new ImageIcon(SchedulerRunningPanel.class.getResource("/ui/img/pause.png")));
             pauseButton.setToolTipText("Pause the scheduler (DO NOT close application!)");
+        }
+    }
+
+    /**
+     * Called when the scheduler is finished.
+     */
+    public void schedulerFinished() {
+        runHistory.store(startTimeLabel.getText(), runTimeLabel.getText());    // store the elapsed running time to a properties file for later retrieval
+
+        SchedulerSettingsPanel settings =
+            (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
+
+        ExamSchedulerMain.getInstance().getApplicationFrame().enableContinue();
+        log.info("Scheduler finished");
+
+        paused = true;
+
+        pauseButton.setEnabled(false);
+
+        status = "scheduler finished";
+
+        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+        setProgressPercentageLabel();
+
+        String[] opts = { "Yes", "No" };
+
+        if ("Yes".equals(ExamSchedulerMain.getInstance().askUser("Schedule Found!", "The schedule has been saved, view it now?", opts))) {
+            try {
+                java.awt.Desktop.getDesktop().open(new File(settings.getSaveFilePath()));
+            } catch (IOException e) {
+                log.error("Unable to open schedule: " + e.getMessage());
+            }
         }
     }
 
@@ -377,9 +396,4 @@ public class ScheduleRunningPanel extends ApplicationPanel {
 
     @Override
     public void navigateNext() {}
-
-    @Override
-    public void userRequestedClose() {
-        ExamSchedulerMain.getInstance().exit(0);
-    }
 }

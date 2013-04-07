@@ -1,5 +1,9 @@
 package ui;
 
+//~--- non-JDK imports --------------------------------------------------------
+
+import org.apache.log4j.Logger;
+
 //~--- JDK imports ------------------------------------------------------------
 
 import java.awt.BorderLayout;
@@ -7,9 +11,7 @@ import java.awt.Toolkit;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.IOException;
 
 import java.util.Properties;
 
@@ -19,12 +21,19 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
+/**
+ * Loads and displays past running times from a properties file.
+ * @author Christian
+ */
 public class RunHistory extends JFrame {
     private static final long serialVersionUID = 6750591687142766820L;
+    private static Logger log = Logger.getLogger(RunHistory.class.getName());
     private Properties history;
     private JTable table;
-    private String propURL;
 
+    /**
+     * RunHistory constructor.
+     */
     public RunHistory() {
         setSize(300, 400);
         setResizable(false);
@@ -39,9 +48,8 @@ public class RunHistory extends JFrame {
 
             history.load(fis);
             fis.close();
-        } catch (IOException e) {
-
-            // TODO Auto-generated catch block
+        } catch (Exception e) {
+            log.error("Unable to load previous elapsed running times");
             e.printStackTrace();
         }
 
@@ -59,6 +67,9 @@ public class RunHistory extends JFrame {
         panel.add(scrollPane, BorderLayout.CENTER);
     }
 
+    /**
+     * @return JTable displaying previous elapsed running times
+     */
     private JTable getTable() {
 
         // Create columns names
@@ -68,11 +79,13 @@ public class RunHistory extends JFrame {
         String[][] dataValues = new String[history.stringPropertyNames().size()][2];
         int i = 0;
 
-        for (String time : history.stringPropertyNames()) {
-            dataValues[i][0] = time;
-            dataValues[i][1] = history.getProperty(time);
+        if (history != null) {
+            for (String time : history.stringPropertyNames()) {
+                dataValues[i][0] = time;
+                dataValues[i][1] = history.getProperty(time);
 
-            i++;
+                i++;
+            }
         }
 
         JTable t = new JTable();
@@ -88,6 +101,11 @@ public class RunHistory extends JFrame {
         return t;
     }
 
+    /**
+     * Store an elapsed running time to the properties file.
+     * @param date
+     * @param runTime
+     */
     public void store(String date, String runTime) {
         history.setProperty(date, runTime);
 
@@ -96,13 +114,8 @@ public class RunHistory extends JFrame {
 
             history.store(fos, null);
             fos.close();
-        } catch (FileNotFoundException e) {
-
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        } catch (IOException e) {
-
-            // TODO Auto-generated catch block
+        } catch (Exception e) {
+            log.error("Unable to record elapsed running time");
             e.printStackTrace();
         }
     }
