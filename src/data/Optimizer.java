@@ -23,6 +23,8 @@ import java.util.Arrays;
 import java.util.Calendar;
 import java.util.HashSet;
 
+import org.apache.log4j.Logger;
+
 /*Author(s): Zack Delaney, Sarah Van Der Laan
 *
 * Purpose: This class will do all the manipulating and working of the schedules.
@@ -56,6 +58,7 @@ import java.util.HashSet;
 *  Optimizer is now being bug-tested.
  */
 public class Optimizer extends Thread {
+    private static Logger log = Logger.getLogger(Optimizer.class.getName());
 
     // The panel that created this thread (report back upon completion)
     SchedulerRunningPanel threadCreator;
@@ -92,7 +95,7 @@ public class Optimizer extends Thread {
     public void run() {
        // System.out.println("Now initializing private or protected variables. ");
 
-    	System.out.println("Scheduler has been started.");
+    	log.debug("Scheduler thread has been started.");
         String[] courseIdentifierList = courses.getCourses();
 
         numOfCourses = courseIdentifierList.length;
@@ -209,10 +212,9 @@ public class Optimizer extends Thread {
         try {
             FileProcessor.writeExamFile(saveFilePath, sched, startDate);
         } catch (Exception e) {
-
-            // TODO deal with it
-            e.printStackTrace();
+        	threadCreator.schedulerError(e.getMessage(), false);
         }
+        
         threadCreator.schedulerFinished();
     }
 
@@ -227,8 +229,8 @@ public class Optimizer extends Thread {
         this.startDate = startDate;
 
         if ((courses == null) || (rooms == null) || (students == null) || (threadCreator == null)) {
-            System.out.println("You have passed us a null pointer.");
-            System.exit(0);
+            log.debug("You have passed us a null pointer.");
+            log.debug("courses = "+courses+", rooms = "+rooms+", students = "+students+", threadCreator = "+threadCreator);
         }
 
         //System.out.println("The Course, Room, and Student Databases are initialized in the optimizer.");
@@ -360,12 +362,12 @@ public class Optimizer extends Thread {
         //System.out.println("All nodes should be handled at this point.");
 
         if (numNodesProcessed != numOfCourses) { // This should throw an exception, but I'm not sure what kind. 
-            System.out.println("SOMETHING HAS GONE HORRIBLY WRONG! WE THINK WE'RE FINISHED BUT WE ARE NOT");
-            System.out.println("\n");
-            System.out.println("The number of nodes processed : " + numNodesProcessed);
-            System.out.println("The number of courses, ie the number of nodes in total : " + numOfCourses);
-            System.out.println("\n");
+            log.error("SOMETHING HAS GONE HORRIBLY WRONG! WE THINK WE'RE FINISHED BUT WE ARE NOT");
+            log.debug("The number of nodes processed : " + numNodesProcessed);
+            log.debug("The number of courses, ie the number of nodes in total : " + numOfCourses);
 
+            threadCreator.schedulerError("Unknown scheduler error", true);
+            
             return null;
         }
 

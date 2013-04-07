@@ -26,6 +26,15 @@ public abstract class ApplicationPanel extends JPanel {
     public ApplicationPanel(String name) {
         this.name = name;
     }
+    
+    /**
+     * Update the status of this ApplicationPanel and have the main Frame show changes.
+     * @param status
+     */
+    public void updateStatus(String status) {
+    	this.status = status;
+        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+    }
 
     /**
      * Indicate status of this panel.

@@ -220,6 +220,7 @@ public class SchedulerRunningPanel extends ApplicationPanel {
         infoLabel.setFont(new Font("Dialog", Font.PLAIN, 11));
         internalSouthPanel.add(infoLabel);
 
+        // This section displays the running time and updates progress displays constantly (every second)
         int delay = 1000;    // milliseconds
         ActionListener taskPerformer = new ActionListener() {
             private long secs = 1;
@@ -232,6 +233,10 @@ public class SchedulerRunningPanel extends ApplicationPanel {
                     setProgressPercentageLabel();
                 }
             }
+            
+            /*
+             * Format the duration String (attach appropriate units).
+             */
             private String format(long seconds) {
                 if (seconds < 60) {
                     return seconds + ((seconds == 1)
@@ -256,14 +261,35 @@ public class SchedulerRunningPanel extends ApplicationPanel {
         new Timer(delay, taskPerformer).start();
     }
 
+    public static final DecimalFormat twoDForm = new DecimalFormat("#.##");
+    
     /**
      * Set the JLabel that indicates progress.
      */
+    private boolean seen25, seen50, seen75, seen100;
     private void setProgressPercentageLabel() {
-        DecimalFormat twoDForm = new DecimalFormat("#.##");
-
-        Double.valueOf(twoDForm.format(optimizer_threaded.getPercentCompleted() * 100));
-        percentCompleteLabel.setText(Double.valueOf(twoDForm.format(optimizer_threaded.getPercentCompleted() * 100)) + "%");
+    	Double percentageComplete = Double.valueOf(twoDForm.format(optimizer_threaded.getPercentCompleted() * 100));
+        percentCompleteLabel.setText(percentageComplete + "%");
+        
+        if(percentageComplete >= 25 && !seen25) {
+        	log.info("Scheduler found slots for "+percentageComplete+"% of exams. ("+runTimeLabel.getText()+")");
+        	seen25 = true;
+        }
+        
+		if(percentageComplete >= 50 && !seen50) {
+        	log.info("Scheduler found slots for "+percentageComplete+"% of exams. ("+runTimeLabel.getText()+")");
+        	seen50 = true;  	
+		}
+		
+		if(percentageComplete >= 75 && !seen75) {
+        	log.info("Scheduler found slots for "+percentageComplete+"% of exams. ("+runTimeLabel.getText()+")");
+        	seen75 = true;
+		}
+		
+		if(percentageComplete >= 100 && !seen100) {
+        	log.info("Scheduler found slots for "+percentageComplete+"% of exams. ("+runTimeLabel.getText()+")");
+        	seen100 = true;
+		}
     }
 
     /**
@@ -273,7 +299,9 @@ public class SchedulerRunningPanel extends ApplicationPanel {
         SchedulerSettingsPanel settings =
             (SchedulerSettingsPanel) ExamSchedulerMain.getInstance().getApplicationFrame().getPanel("Scheduler Settings");
 
-        infoLabel.setText("The schedule will be automatically saved to: " + settings.getSaveFilePath());
+        String message = "The schedule will be automatically saved to: " + settings.getSaveFilePath();
+        log.info(message);
+        infoLabel.setText(message);
     }
 
     /**
@@ -302,9 +330,7 @@ public class SchedulerRunningPanel extends ApplicationPanel {
 
         setPauseResumeButton();
 
-        status = "scheduler paused";
-
-        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+        updateStatus("scheduler paused");
         optimizer_threaded.suspend();    // deprecated due to deadlock risk, but I'm fairly certain this is safe for our program
     }
 
@@ -321,9 +347,29 @@ public class SchedulerRunningPanel extends ApplicationPanel {
         paused = false;
 
         if (firstStart) {
-            setInfoLabel();
+            setInfoLabel(); // show path to file save location
             startTimeLabel.setText(ExamSchedulerMain.getDateString());
 
+            if(CourseDB.getCourseDB() == null) {
+            	schedulerError("Course database null, cannot proceed", true);
+            }
+            
+            if(RoomDB.getRoomDB() == null) {
+            	schedulerError("Room database null, cannot proceed", true);
+            }
+            
+            if(StudentDB.getStudentDB() == null) {
+            	schedulerError("Student database null, cannot proceed", true);
+            }
+            
+            if(settings.getSaveFilePath() == null) {
+            	schedulerError("Save file path null, cannot proceed", true);
+            }
+            
+            if(settings.getStartDate() == null) {
+            	schedulerError("Start date null, cannot proceed", true);
+            }
+            
             optimizer_threaded = new Optimizer(CourseDB.getCourseDB(), RoomDB.getRoomDB(), StudentDB.getStudentDB(), this,
                                                settings.getSaveFilePath(), settings.getStartDate());
 
@@ -337,9 +383,7 @@ public class SchedulerRunningPanel extends ApplicationPanel {
         setPauseResumeButton();
         ExamSchedulerMain.getInstance().getApplicationFrame().disableContinue();
 
-        status = "scheduler running";
-
-        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+        updateStatus("scheduler running");
     }
 
     /**
@@ -358,7 +402,7 @@ public class SchedulerRunningPanel extends ApplicationPanel {
     }
 
     /**
-     * Called when the scheduler is finished.
+     * Called when the scheduler is finished. GUI related work.
      */
     public void schedulerFinished() {
         runHistory.store(startTimeLabel.getText(), runTimeLabel.getText());    // store the elapsed running time to a properties file for later retrieval
@@ -369,14 +413,13 @@ public class SchedulerRunningPanel extends ApplicationPanel {
         ExamSchedulerMain.getInstance().getApplicationFrame().enableContinue();
         log.info("Scheduler finished");
 
-        paused = true;
+        paused = true; // not technically true but it simplifies things
 
         pauseButton.setEnabled(false);
 
-        status = "scheduler finished";
-
-        ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
-        setProgressPercentageLabel();
+        updateStatus("scheduler finished");
+        
+        setProgressPercentageLabel(); // otherwise it stops in the 90% range
 
         String[] opts = { "Yes", "No" };
 
@@ -384,14 +427,44 @@ public class SchedulerRunningPanel extends ApplicationPanel {
             try {
                 java.awt.Desktop.getDesktop().open(new File(settings.getSaveFilePath()));
             } catch (IOException e) {
+            	// not much can be done
                 log.error("Unable to open schedule: " + e.getMessage());
+                log.warn("Please open the schedule manually");
+                ExamSchedulerMain.getInstance().error("Unable to open the schedule: "+e.getMessage()+". Please open the schedule manually.", false);
             }
         }
+    }
+    
+    /**
+     * This will be called from the optimizer in case of error. This deals with telling the user about it.
+     * @param message
+     * @param exit
+     */
+    public void schedulerError(String message, boolean exit) {
+    	log.error("Problem encountered in scheduler: "+message);
+    	if(exit) {
+    		log.error("The application will exit. See previous log messages for possible causes and solutions.");
+    		
+    		updateStatus("Scheduler encountered problems (see log for details)");
+    		
+    		String[] opts = { "Exit", "View Log" };
+
+    		Object answer = ExamSchedulerMain.getInstance().askUser("Problem Encountered", "Problem encountered in scheduler: "+message+"\n See the log file for possible causes and solutions.", opts);
+            if ("View Log".equals(answer)) {
+                ExamSchedulerMain.getInstance().getApplicationFrame().showLog();
+            }
+
+    		ExamSchedulerMain.getInstance().exit(0);
+    	}
+    	else {
+    		log.info("Scheduler can keep running though");
+    		updateStatus("See scheduler warnings in log file (running)");
+    	}
     }
 
     @Override
     public void active() {
-        schedulerStarted();
+        schedulerStarted(); // start the scheduler
     }
 
     @Override

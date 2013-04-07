@@ -208,8 +208,8 @@ public class ApplicationFrame extends JFrame {
                 try {
                     java.awt.Desktop.getDesktop().open(new File(((FileAppender) app).getFile()));
                 } catch (IOException ex) {
-                    ex.printStackTrace();
                     log.error("Unable to show log file with system text editor: " + ex.getMessage());
+                    ExamSchedulerMain.getInstance().error("Failed to show log file: " + ex.getMessage(), false);
                 }
             }
         }
@@ -223,7 +223,7 @@ public class ApplicationFrame extends JFrame {
 
         if (help == null) {
             log.error("Failed to show help (can not find help files)");
-
+            ExamSchedulerMain.getInstance().error("Failed to show help (can not find help files)", false);
             return;
         }
 
@@ -250,6 +250,7 @@ public class ApplicationFrame extends JFrame {
             desktop.browse(uri);
         } catch (Exception ex) {
             log.error("Failed to show help: " + ex.getMessage());
+            ExamSchedulerMain.getInstance().error("Unable to show help, see log for possible causes", false);
         }
     }
 

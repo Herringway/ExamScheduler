@@ -42,8 +42,6 @@ public class RunHistory extends JFrame {
         history = new Properties();
 
         try {
-            System.out.println(getClass().getResource("history.properties").getPath());
-
             FileInputStream fis = new FileInputStream(new File(getClass().getResource("history.properties").getPath()));
 
             history.load(fis);
@@ -115,8 +113,7 @@ public class RunHistory extends JFrame {
             history.store(fos, null);
             fos.close();
         } catch (Exception e) {
-            log.error("Unable to record elapsed running time");
-            e.printStackTrace();
+            log.error("Unable to record elapsed running time: "+e.getMessage());
         }
     }
 }

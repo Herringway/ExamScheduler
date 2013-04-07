@@ -39,7 +39,6 @@ public class ExamSchedulerMain {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException e) {
             log.error("Unable to set system look and feel, reverting to default");
-            e.printStackTrace();
         }
 
         applicationFrame = new ApplicationFrame();
@@ -164,7 +163,6 @@ public class ExamSchedulerMain {
                 try {
                     ExamSchedulerMain.getInstance();
                 } catch (Exception e) {
-                    e.printStackTrace();
                     log.error("Failed to initialize interface: " + e.getMessage());
                 }
             }
