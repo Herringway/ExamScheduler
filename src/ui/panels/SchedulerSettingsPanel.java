@@ -209,7 +209,7 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         flowLayout.setAlignment(FlowLayout.LEFT);
         centerPanel.add(internalCenterPanel, BorderLayout.NORTH);
 
-        JLabel lblChooseStartDate = new JLabel(" Exam start date");
+        JLabel lblChooseStartDate = new JLabel("Exam start date");
 
         lblChooseStartDate.setFont(new Font("Dialog", Font.ITALIC, 12));
         internalCenterPanel.add(lblChooseStartDate);
