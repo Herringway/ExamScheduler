@@ -76,9 +76,6 @@ public class Schedule implements ExamScheduleInterface {
         return schedule.length * schedule[0].length;
     }
 
-    // THIS IS DEPRECATED. PROPER WAY OF ADDING AN EXAM IS TO GET THE SCHEDULED EXAM SLOT AND ADD IT TO THAT DIRECTLY.
-    private void setExam(int day, int period, Course course) {}
-
     @Override
     public List<ScheduledExamInterface> getExams(int day, int period) {
         ScheduledExamSlot E = getExamSlot(day, period);
