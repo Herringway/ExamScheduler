@@ -231,15 +231,11 @@ public class SchedulerSettingsPanel extends ApplicationPanel {
         if (allFilesSpecified()) {
             ExamSchedulerMain.getInstance().getApplicationFrame().enableContinue();
 
-            status = "all file locations given, click Continue to load input files";
-
-            ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+            updateStatus("all file locations given, click Continue to load input files");
         } else {
             ExamSchedulerMain.getInstance().getApplicationFrame().disableContinue();
 
-            status = "awaiting file locations";
-
-            ExamSchedulerMain.getInstance().getApplicationFrame().updateProgress(this);
+            updateStatus("awaiting file locations");
         }
     }
 

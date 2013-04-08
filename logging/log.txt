@@ -1,8 +1,9 @@
-2013-04-07 19:22:58 - Application startup, initializing user interface.
-2013-04-07 19:22:58 - Specifying scheduler settings
-2013-04-07 19:23:28 - Searching for schedules
-2013-04-07 19:23:28 - The schedule will be automatically saved to: C:\Users\Chris\Documents\tst.txt
-2013-04-07 19:23:28 - Scheduler thread has been started.
-2013-04-07 19:24:19 - Paused search for schedules
-2013-04-07 19:24:20 - Searching for schedules
-2013-04-07 19:24:31 - Closing application
+2013-04-07 19:48:34 - Application startup, initializing user interface.
+2013-04-07 19:48:34 - Specifying scheduler settings
+2013-04-07 19:48:43 - Loading room file now
+2013-04-07 19:48:43 - Loading course file now
+2013-04-07 19:48:43 - Input files successfully loaded
+2013-04-07 19:48:45 - Searching for schedules
+2013-04-07 19:48:45 - The schedule will be automatically saved to: C:\Users\Chris\Documents\t.txt
+2013-04-07 19:48:45 - Scheduler thread has been started.
+2013-04-07 19:48:55 - Closing application
